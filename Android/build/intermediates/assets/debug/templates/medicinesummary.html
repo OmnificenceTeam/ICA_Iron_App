@@ -1,0 +1,56 @@
+﻿<!--Medicine Detail-->
+<div id="medicinedetail" class="page" style="">
+    <div class="row paddingforrow " >
+        <!--ng-controller="medicineDetail"-->
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundheader backgroundcolor" style="border-radius: 15px;overflow-x:hidden">
+            <div class="row datepicpadding " style="margin: 0px auto;">
+                <button type="button" class="close reminderclosebutton" aria-label="Close" onclick="onBack()">
+                    <span  aria-hidden="true">&times;</span>
+                </button>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero"></div>
+                <!--<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero">
+                    <button type="button" class="btn btn-default datepicbtn" style="float: left">
+                        <img src="images/left.png" class="arrowwidth" />
+                    </button>
+                </div>-->
+                <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 paddingzero">
+                    <h1 class="dateandweek mednamequa" style="text-align:center"><span>{{meddetail.name}} </span></h1>
+                </div>
+                <!--<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero">
+                    <button type="button" class="btn btn-default datepicbtn" style="float: right">
+                        <img src="images/right.png" class="arrowwidth" />
+                    </button>
+                </div>-->
+                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero"></div>
+            </div>
+            <div class="row meddetail" ng-show="meddetail.type == 3">
+                <!--<h3 class="meddetailfont">Dose: <span>{{meddetail.dose}}</span></h3>-->
+                <h3 class="meddetailfont">Take: <span ng-repeat="it in meddetail.intakeTime">{{it.hour}}:{{it.min}} {{it.ampm}},  </span></h3>
+                <h3 class="meddetailfont">IntakeTime: <span>{{meddetail.intakeTime}}</span></h3>
+                <h3 class="meddetailfont">Number of days: <span> {{meddetail.noOfDays}} <span>Day(s)</span></span></h3>
+                <!--<h3 class="meddetailfont">Duration:<span> {{meddetail.duration}}</span></h3>-->
+                <!--<h3 class="meddetailfont">Food Affiliation: <span> {{meddetail.when}}</span></h3>-->
+                
+            </div>
+            <div class="row meddetail" ng-show="meddetail.type == 2">
+
+                <!--<h3 class="meddetailfont">Dose: <span>{{meddetail.dose}}</span></h3>-->
+                <h3 class="meddetailfont">Take: <span>{{meddetail.take}}  </span></h3>
+                <h3 class="meddetailfont">IntakeTime: <span>{{meddetail.intakeTime}}</span></h3>
+                <h3 class="meddetailfont">Number of days: <span> {{meddetail.noOfDays}} <span>Day(s)</span></span></h3>
+                <!--<h3 class="meddetailfont">Duration:<span> {{meddetail.duration}}</span></h3>-->
+                <!--<h3 class="meddetailfont foodaffiliation">Food Affiliation: <span> {{meddetail.when}}</span></h3>-->
+            </div>
+            <div class="row meddetail" ng-show="meddetail.type == 1">
+
+                <!--<h3 class="meddetailfont">Dose: <span>{{meddetail.dose}}</span></h3>-->
+                <h3 class="meddetailfont">Take: <span>{{meddetail.take}}  </span></h3>
+                <h3 class="meddetailfont">IntakeTime: <span ng-repeat="it in meddetail.intakeTime">{{it.hour}}:{{it.min}} {{it.ampm}},</span></h3>
+                <h3 class="meddetailfont">Number of days: <span> {{meddetail.noOfDays}} <span>Day(s)</span></span></h3>
+                <!--<h3 class="meddetailfont">Duration:<span> {{meddetail.duration}}</span></h3>-->
+               
+                <!--<h3 class="meddetailfont foodaffiliation">Food Affiliation: <span> {{meddetail.when}}</span></h3>-->
+            </div>
+        </div>
+    </div>
+</div>

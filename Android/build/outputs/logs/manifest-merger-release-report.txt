@@ -1,0 +1,411 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:4:5-57
+	android:versionName
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:7:5-30
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:6:5-28
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:5:5-45
+supports-screens
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:9:5-14:40
+	android:largeScreens
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:11:9-36
+	android:smallScreens
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:12:9-37
+	android:xlargeScreens
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:10:9-34
+application
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:15:5-73:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0c79972a5f8b4d33c566baf6433088b25415596a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\85dc2fe85a2ccc50e9b6884703b81d617a43e053\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\d087e430ef3563942df31987beff31e5e23a713e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\Guru\.android\build-cache\9684d8b19a389a5854328a614e2bc143a5a03f06\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\Guru\.android\build-cache\fa13a4a051c0058b556292b4cafc018402d03c96\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\a2f5d6eeea68a58d22667d6daab87db1121a29c0\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Guru\.android\build-cache\a1db44e16a4cbe2a11e3def3742fb19b7620531c\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Guru\.android\build-cache\41890667f90905b440240bbe26e0f699c8053951\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Guru\.android\build-cache\968c5d015524d3b4504b36c2e8962d8fd4629233\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Guru\.android\build-cache\a5cee677b577a60079ebf1003320d5f6bab925b4\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0decc92863dadf6c5d54d41f738f73bcf2772875\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\bbd539665bc5e5e607e8e2d01ffb3e4f80f3248d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\cd8622c0b251f845cb5e8b8303904ba8d0160592\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\101904de1909eef26811eb0585c5b0ddc5b8da62\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\1beba681d0edb48e89fcfe90ae3dcbee446f1032\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\b85a64ee75fc218399b1d60a9643caa5ee5291f7\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:17:9-42
+	android:banner
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:16:9-46
+	android:theme
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:20:9-50
+	android:isGame
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:18:9-30
+activity#com.novartis.pharma.uae.ironcounsellor.ext.UnityPlayerActivity
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:21:9-46:20
+	android:screenOrientation
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:25:13-45
+	android:hardwareAccelerated
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:24:13-47
+	android:launchMode
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:26:13-44
+	android:windowSoftInputMode
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:28:13-55
+	android:configChanges
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:23:13-186
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:22:13-90
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:29:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:32:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:33:17-86
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:33:27-83
+category#android.intent.category.DEFAULT
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:34:27-73
+meta-data#unityplayer.UnityActivity
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:38:17-57
+meta-data#android.app.lib_name
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:40:13-42:41
+	android:value
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:42:17-38
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:41:17-52
+meta-data#unityplayer.ForwardNativeEventsToDalvik
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:43:13-45:40
+	android:value
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:45:17-37
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:44:17-71
+service#com.google.android.gms.tagmanager.InstallReferrerService
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:47:9-92
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:47:18-89
+receiver#com.google.android.gms.tagmanager.InstallReferrerReceiver
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:48:9-54:20
+	android:exported
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:49:13-85
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:51:13-53:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:52:17-79
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:52:25-76
+receiver#com.novartis.pharma.uae.ironcounsellor.ext.ReminderReceiver
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:55:9-105
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:55:19-93
+service#com.novartis.pharma.uae.ironcounsellor.ext.ReminderService
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:56:9-94
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:56:18-91
+meta-data#com.google.android.gms.version
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:57:9-59:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Guru\.android\build-cache\a5cee677b577a60079ebf1003320d5f6bab925b4\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:59:13-66
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:58:13-58
+activity#com.google.android.gms.tagmanager.PreviewActivity
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:62:9-72:20
+	android:label
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:64:13-45
+	android:noHistory
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:63:13-77
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:66:13-71:29
+data
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:67:17-98
+	android:scheme
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:67:23-95
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+action#android.intent.action.VIEW
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:68:17-69
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:68:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:70:17-77
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:70:27-75
+uses-sdk
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:74:5-76:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0c79972a5f8b4d33c566baf6433088b25415596a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\85dc2fe85a2ccc50e9b6884703b81d617a43e053\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\d087e430ef3563942df31987beff31e5e23a713e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.6] C:\Users\Guru\.android\build-cache\64c45b377943c2b39a99ad87357ed3fb03dde597\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\Guru\.android\build-cache\9684d8b19a389a5854328a614e2bc143a5a03f06\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.6] C:\Users\Guru\.android\build-cache\fa13a4a051c0058b556292b4cafc018402d03c96\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\a2f5d6eeea68a58d22667d6daab87db1121a29c0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Guru\.android\build-cache\a1db44e16a4cbe2a11e3def3742fb19b7620531c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.6] C:\Users\Guru\.android\build-cache\41890667f90905b440240bbe26e0f699c8053951\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] C:\Users\Guru\.android\build-cache\968c5d015524d3b4504b36c2e8962d8fd4629233\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] C:\Users\Guru\.android\build-cache\a5cee677b577a60079ebf1003320d5f6bab925b4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0decc92863dadf6c5d54d41f738f73bcf2772875\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\bbd539665bc5e5e607e8e2d01ffb3e4f80f3248d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\cd8622c0b251f845cb5e8b8303904ba8d0160592\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\101904de1909eef26811eb0585c5b0ddc5b8da62\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\1beba681d0edb48e89fcfe90ae3dcbee446f1032\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\b85a64ee75fc218399b1d60a9643caa5ee5291f7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0c79972a5f8b4d33c566baf6433088b25415596a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:76:9-38
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:75:9-35
+uses-feature#0x00020000
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:78:5-54
+	android:glEsVersion
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:78:19-51
+uses-feature#android.hardware.vulkan
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:79:5-81:36
+	android:required
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:81:9-33
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:80:9-47
+uses-feature#android.software.leanback
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:83:5-85:36
+	android:required
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:85:9-33
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:84:9-49
+uses-permission#android.permission.INTERNET
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:87:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\Guru\.android\build-cache\9684d8b19a389a5854328a614e2bc143a5a03f06\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\a2f5d6eeea68a58d22667d6daab87db1121a29c0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:87:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:88:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\Guru\.android\build-cache\9684d8b19a389a5854328a614e2bc143a5a03f06\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\a2f5d6eeea68a58d22667d6daab87db1121a29c0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:88:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:89:5-71
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:89:22-68
+uses-feature#android.hardware.microphone
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:91:5-93:36
+	android:required
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:93:9-33
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:92:9-51
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:94:5-96:36
+	android:required
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:96:9-33
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:95:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:97:5-99:36
+	android:required
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:99:9-33
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:98:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:100:5-102:36
+	android:required
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:102:9-33
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:101:9-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:104:5-68
+MERGED from [com.google.android.gms:play-services-analytics:10.2.6] C:\Users\Guru\.android\build-cache\9684d8b19a389a5854328a614e2bc143a5a03f06\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\a2f5d6eeea68a58d22667d6daab87db1121a29c0\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:104:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:105:5-81
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:105:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:106:5-66
+	android:name
+		ADDED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml:106:22-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0c79972a5f8b4d33c566baf6433088b25415596a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\85dc2fe85a2ccc50e9b6884703b81d617a43e053\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\d087e430ef3563942df31987beff31e5e23a713e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0decc92863dadf6c5d54d41f738f73bcf2772875\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\bbd539665bc5e5e607e8e2d01ffb3e4f80f3248d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\cd8622c0b251f845cb5e8b8303904ba8d0160592\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\101904de1909eef26811eb0585c5b0ddc5b8da62\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\1beba681d0edb48e89fcfe90ae3dcbee446f1032\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\b85a64ee75fc218399b1d60a9643caa5ee5291f7\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0c79972a5f8b4d33c566baf6433088b25415596a\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Guru\.android\build-cache\0c79972a5f8b4d33c566baf6433088b25415596a\output\AndroidManifest.xml:26:9-47
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.6] C:\Users\Guru\.android\build-cache\cc6cdac93dc114cbd42dfbf259f556ae4c8f7711\output\AndroidManifest.xml:25:19-93
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Guru\.android\build-cache\a1db44e16a4cbe2a11e3def3742fb19b7620531c\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Guru\.android\build-cache\a1db44e16a4cbe2a11e3def3742fb19b7620531c\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Guru\.android\build-cache\a1db44e16a4cbe2a11e3def3742fb19b7620531c\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] C:\Users\Guru\.android\build-cache\a1db44e16a4cbe2a11e3def3742fb19b7620531c\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:27:17-104
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.6] C:\Users\Guru\.android\build-cache\81bf6a4950ad2f31028498b5d66a2c9e0b623bc0\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.6] C:\Users\Guru\.android\build-cache\3c81efe51a50f744baff3a4580429a0c694172f1\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:24:17-71
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:26:22-76
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:33:27-58
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.6] C:\Users\Guru\.android\build-cache\005d31b3eeb94b104d9301df525240f5db00ee22\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:6:19-78
+		INJECTED from D:\Codes\_clients\Medtrix\IronCounsellor\gradle\src\main\AndroidManifest.xml
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.6] C:\Users\Guru\.android\build-cache\01a6cf6c8f15af0f99d88696db36fc658461ad54\output\AndroidManifest.xml:6:79-143

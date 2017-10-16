@@ -1,0 +1,76 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2017-06-07 08:27:23",
+    "containerVersion": {
+        "path": "accounts/1441236598/containers/6950254/versions/1",
+        "accountId": "1441236598",
+        "containerId": "6950254",
+        "containerVersionId": "1",
+        "name": "Android",
+        "description": "Android",
+        "container": {
+            "path": "accounts/1441236598/containers/6950254",
+            "accountId": "1441236598",
+            "containerId": "6950254",
+            "name": "ICA Android",
+            "publicId": "GTM-TZHW5KS",
+            "usageContext": [
+                "ANDROID"
+            ],
+            "fingerprint": "1496823984649",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/1441236598/containers/6950254/workspaces?apiLink=container"
+        },
+        "trigger": [
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "triggerId": "3",
+                "name": "Custom",
+                "type": "ALWAYS",
+                "fingerprint": "1496823984650"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "triggerId": "2",
+                "name": "Link Click",
+                "type": "ALWAYS",
+                "fingerprint": "1495635892448"
+            }
+        ],
+        "builtInVariable": [
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "type": "EVENT",
+                "name": "Event"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "6950254",
+                "type": "APP_VERSION_NAME",
+                "name": "App Version Name"
+            }
+        ],
+        "fingerprint": "1496824021806",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/1441236598/containers/6950254/versions/1?apiLink=version"
+    }
+}

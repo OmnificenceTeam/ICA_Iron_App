@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Codes\\_clients\\Medtrix\\IronCounsellor\\gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\app_banner.png",
+        "source": "D:\\Codes\\_clients\\Medtrix\\IronCounsellor\\gradle\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    },
+    {
+        "merged": "D:\\Codes\\_clients\\Medtrix\\IronCounsellor\\gradle\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\app_icon.png",
+        "source": "D:\\Codes\\_clients\\Medtrix\\IronCounsellor\\gradle\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    }
+]

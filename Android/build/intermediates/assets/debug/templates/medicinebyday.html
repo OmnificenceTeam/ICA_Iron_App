@@ -1,0 +1,42 @@
+﻿<!--Medicine View By Date-->
+<div id="medicinebyday" class="page" style="">
+    <div class="row paddingforrow " ng-controller="todaySchedule">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundheader backgroundcolor">
+            <div class="row datepicpadding " style="margin: 0px auto;">
+                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero"></div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero">
+                    <button type="button" class="btn btn-default datepicbtn" onclick="subtractDate()" style="float: left">
+                        <img src="images/left.png" class="arrowwidth" /></button>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 paddingzero">
+                    <h1 class=" bold dateandweek" style="float: left"><span class="dateandweek">Year</span> <span id="year"></span><span>,</span> <span>Week</span> <span id="week"></span><span>,</span> <span>Day</span> <span id="day"></span><span>(</span><span id="weekday"></span><span>)</span></h1>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero">
+                    <button type="button" onclick="addDate()" class="btn btn-default datepicbtn" style="float: right">
+                        <img src="images/right.png" class="arrowwidth" /></button>
+                </div>
+                <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 paddingzero"></div>
+            </div>
+            <div class="row medibyday">
+                <table class="auto-style1 tbstyle ">
+                    <tr class="tbheader">
+                        <td class="tbheaderpadding" style="width: 25%">Time</td>
+                        <td style="width: 25%">Medicine</td>
+                        <td style="width: 25%">Dose</td>
+                        <td style="width: 25%">Taken</td>
+                    </tr>
+                    <tr class="rowborderbtm" ng-repeat="list in lists">
+                        <td class="tdpadding">{{list.time}}</td>
+                        <td>{{list.name}}</td>
+                        <td>{{list.dose}}</td>
+                        <td>
+                            <img class="takenornot" src="images/{{list.taken == 'yes' ? 'yes' : 'no'}}.png" />
+
+                            <!--                                        <input type="checkbox" class="togglecenter" id="switch1" /><label class="lbl myswitch" for="switch1"></label>-->
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

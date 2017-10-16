@@ -1,0 +1,24 @@
+﻿.loader {
+    margin: 0 auto;
+    border: 10px solid #fff; /* Light grey */
+    border-top: 10px solid #d2d60a; /* Blue */
+   
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    animation: spin 2s linear infinite;
+}
+#loader{
+    position:absolute;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    background-color:darkgrey;
+    
+    z-index:99;
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

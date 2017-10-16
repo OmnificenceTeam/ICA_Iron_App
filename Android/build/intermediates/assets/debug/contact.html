@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Contact us</title>
+<meta charset="utf-8">
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/contactus.css" rel="stylesheet">
+<script src="js/jquery-1.12.4.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script>
+    
+    function onClose() {
+        window.location="uniwebview://close";
+    }
+</script>
+
+</head>
+<body style="background-image:url('images/contact-bg.jpg')">
+
+	<div style="margin:10px">
+		<img class="closeImg" src="images/close.png" onclick="onClose()">
+		<div style="clear:both"></div>
+	</div>
+	
+	<div style="position:relative">
+		<div class="row nomargin" style="left:10px">
+			<div>
+				<img class="info" src="images/info1.png" />
+			</div>
+		</div>
+		<div class="imageTop">
+            <img class="FemalePose" src="images/female doc_handspointing_pose.png">
+		</div>
+        <div class="contactusContainer">
+            <div class="row nomargin">
+                <img src="images/chat.png" style="width:30px">
+                <span class="ContactText">CONTACT US</span>
+            </div>
+            <div class="row nomargin" style="margin-top:20px">
+                <div>
+                    <!--<span>Feedback Type<sup>*</sup></span> -->
+                    <div style="margin-top:10px">
+                        <input class="technicalSupport" value="Technical support" readonly >
+                    </div>
+                </div>
+            </div>
+            <div class="row nomargin" style="margin-top:20px">
+
+                <span> Description</b> <sup>*</sup></span>
+                <div>
+                    <div>
+                        <textarea id="description" class="textareaSize form-control" rows="5"></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="row nomargin">
+                <div class="SubmitBtn" style="text-align:center">
+
+                    <input type="image" src="images/submit.png" style="width:100px" onclick="openEmail()">
+
+                </div>
+            </div>
+            <div class="row nomargin logo" style="margin-top:50px">
+                <div>
+                    <img src="images/logo.png" style="width:150px">
+                </div>
+            </div>
+            <div class="row nomargin" style="padding-right:15px">
+                <div>
+                    <span>Novartis Pharma Services</span><br />
+                    <span>Jumeirah Village , Al Khail Road</span><br />
+                    <span>Limitless Building , Level 2</span><br />
+                    <span>Dubai - UAE</span><br />
+                    <span>Phone: +97144357749</span><br />
+                    <span>www.novartisoncology.com</span>
+                </div>
+            </div>
+        </div>
+	</div>
+</body>
+<script>
+function openEmail() {
+
+	window.location = "mailto:iron-overload.gulf@novartis.com?subject=Technical%20Support&body=" + encodeURI(document.getElementById('description').value) ;
+}
+</script>
+
+</html>

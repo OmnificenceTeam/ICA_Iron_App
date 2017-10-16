@@ -1,0 +1,2404 @@
+{
+	"faqs": [{
+			"Questions": ["What is chronic iron overload?", "What is  iron overload?", "What is the meaning of iron overload?", "Define iron overload?", "What it is called when I have too much iron in my body?"],
+			"Answer": "Chronic iron overload means there is too much iron  in the body",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["meaning", "definition", "explain", "define", "describe", "tell about", "excess", "too much", "extra"],
+			"Level3": ["what", "called", "mean"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q001"
+		}, {
+			"Questions": ["Why do I have too much iron in my body?", "What causes high iron levels in my body?", "What causes iron overload?", "Is it caused by food I eat?", "Does food cause iron overload?"],
+			"Answer": "Chronic iron overload can occur due to repeated blood transfusions or when too much iron is absorbed into the body from food.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["cause of", "causes", "reason", "why", "cause", "due to", "reasons"],
+			"Level3": ["increased", "food", "eat", "consume"],
+			"Level4": ["high levels", "iron levels."],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q002"
+		}, {
+			"Questions": ["Why do I need repeated blood transfusions?", "When do I need repeated blood transfusions?"],
+			"Answer": "Repeated blood transfusions may be necessary to treat various types of anemia, such as thalassemia, sickle cell disease, myelodysplastic syndromes, or other conditions.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["repeated blood transfusion"],
+			"Level3": ["need", "requirement", "purpose"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q003"
+		}, {
+			"Questions": ["How does blood transfusion result in chronic iron overload?", "How can blood transfusion affect chronic iron overload?", "What is the mechanism behind chronic overload in repeated blood transfusion patients?", "State the relation between repeated blood transfusion and chronic iron overload?", "How is blood transfusion related to iron overload?"],
+			"Answer": "Blood contains iron and body does not have a natural way to remove the excess iron with blood transfusions.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["related", "relation", "mechanism", "how", "affect", "effect", "result"],
+			"Level3": ["blood transfusion"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q004"
+		}, {
+			"Questions": ["Can iron overload occur even if I am not getting any blood transfusions?", "I never had blood transfusion, can it still occur?"],
+			"Answer": "Yes. Chronic iron overload may also develop over time. In people with non-transfusion-dependent thalassemia, this is mainly due to more iron being absorbed by the body from food in response to low red blood cell counts.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["blood transfusion"],
+			"Level3": ["not getting", "never", "not receiving", "not started", "not", "no", "occur"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q005"
+		}, {
+			"Questions": ["How can chronic iron overload develop in non- transfusion thalassemia patients?", "Is non- transfusion thalassemia present in chronic iron overload?"],
+			"Answer": "Chronic iron overload is developed due to low red blood cell counts. More iron is being absorbed in to the body due to low blood cell counts.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["non-transfusion"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q006"
+		}, {
+			"Questions": ["Diagnostic tests available for chronic iron overload?", "How to diagnose chronic iron overload?", "How is iron in my body measured?", "What are the different tests to detect chronic iron overload?", "How to confirm that one is suffering from chronic iron overload?", "How is it diagnosed?", "Is blood test required for diagnosis iron overload?"],
+			"Answer": "Chronic iron overload is diagnosed by a blood test that measures the amount of iron in the body. This is called a serum ferritin test. Chronic iron overload can also be detected through an MRI (magnetic resonance imaging) or liver biopsy",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["diagnose", "diagnosis", "tests", "detect", "suffering", "suffer", "confirm", "examination", "find", "measured"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q007"
+		}, {
+			"Questions": ["How do blood tests, MRI and biopsy aid in diagnosing chronic iron overload?", "How can blood test help in diagnosing chronic iron overload?", "How does biopsy help in detecting chronic iron overload?"],
+			"Answer": "These tests measure the amount of iron in the body",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["diagnose", "measure"],
+			"Level3": ["mri", "biopsy", "blood test"],
+			"Level4": ["aid", "help", "assist"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q008"
+		}, {
+			"Questions": ["What is serum ferritin test?", "What is the name of the blood test to diagnose chronic iron overload", "Which is the most commonly used blood test for chronic iron overload", "Which blood test I should take to diagnose iron overload?", "Which blood test can i take for iron overload"],
+			"Answer": "Chronic iron overload is diagnosed by a blood test that measures the amount of iron in the body. This is called a serum ferritin test",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["common", "serum ferritin test", "diagnose", "take", "do", "conduct", "name"],
+			"Level3": ["blood test"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q009"
+		}, {
+			"Questions": ["Why iron overload is called silent disease?"],
+			"Answer": "Many patients who have chronic iron overload do not have any symptoms. For this reason, it is sometimes called a “silent disease.” However, some people may have symptoms.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["silent disease"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q010"
+		}, {
+			"Questions": ["What are the symptoms possible in chronic iron overload?", "Name some of the symptoms  generally seen in chronic iron overload?", "What are the symptoms?"],
+			"Answer": "Some people may have symptoms, such as fatigue, stomach pain, weight loss, and joint pain. If you have any specific questions about your condition or treatment, please ask your health care provider.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["symptoms"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Chronic Iron Overload Disease Information",
+			"QID": "Q011"
+		}, {
+			"Questions": ["Is chronic iron overload a serious condition", "How serious is iron overload?", "Does Iron overload lead to death"],
+			"Answer": "Yes. Chronic iron overload is a serious condition that requires treatment. Over time, too much iron in the body can cause damage to vital organs such as the heart and liver.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["serious", "severe", "fatal", "damage", "death"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q012"
+		}, {
+			"Questions": ["Can it target other vital organs?", "Will other organs be affected due to chronic iron overload?", "Which vital organs can be affected by iron overload?", "Are my vitals affected in iron overload?", "Should I be worried about my liver because of iron overload?", "Why should I get treatment for iron overload?"],
+			"Answer": "Over time, too much iron in the body can cause damage to vital organs such as the heart and liver.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["target", "organs", "liver damage", "vitals", "why"],
+			"Level3": ["affect", "effect", "concern", "worried", "bother", "treatment"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q015"
+		}, {
+			"Questions": ["How is iron overload treated?", "What are my treatment options for iron overload?", "Are any medications available for iron overload?", "What medications I should take?", "Will medications help?", "What should I take to treat iron overload?"],
+			"Answer": "Medicines called iron-chelating agents are used to remove excess iron and reduce the risk of it causing organ damage. If taken properly, these treatments may help control chronic iron overload.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["why"],
+			"Level3": ["treatment"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Treatment Information",
+			"QID": "Q014"
+		}, {
+			"Questions": ["What does MDS stand for?", "What is the meaning of MDS?", "What is Myelodysplastic syndrome?"],
+			"Answer": "Myelodysplastic syndrome, or MDS, is a group of bone marrow disorders. When you have MDS, your bone marrow does not produce enough mature red blood cells, white blood cells, and platelets.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["meaning", "definition", "explain", "describe", "stand", "define"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q016"
+		}, {
+			"Questions": ["When does MDS occur?", "How does MDS occur?", "How do one get MDS?", "Why does MDS occur?"],
+			"Answer": "MDS occur when something disrupts the orderly and controlled production of blood cells.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["occur", "how"],
+			"Level3": ["reason", "when", "why"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q017"
+		}, {
+			"Questions": ["What are the factors that can cause MDS?", "List the risk factors associated with MDS?", "Can MDS be caused by toxins?", "Why would I get MDS?", "How would I know I am at risk of MDS?"],
+			"Answer": "In most people, health care providers are unable to determine what caused MDS. However, in some people, MDS may be associated with exposure to environmental toxins or radiation, cancer treatments, genetic mutations, or viral infections.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["factors", "risk", "causes", "toxins"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q018"
+		}, {
+			"Questions": ["Who are prone to develop MDS?", "Am I vulnerable to MDS?", "When does MDS occur at any age?", "Is my child prone to MDS?"],
+			"Answer": "MDS most often occurs in elderly people.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["prone", "elderly", "vulnerable", "child"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q019"
+		}, {
+			"Questions": ["Are there any symptoms associated with MDS?", "What are the symptoms of MDS?", "Are symptoms present in all MDS patients?", "How would one know if he has MDS?", "How do I know if I have MDS?"],
+			"Answer": "There are few symptoms of MDS when it is first diagnosed. If you were recently diagnosed with MDS, you may be tired or you may not feel like doing activities you once enjoyed. Or, you may have no symptoms at all.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["symptoms"],
+			"Level3": ["know", "present"],
+			"Level4": ["what", "are", "how"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q020"
+		}, {
+			"Questions": ["Are the symptoms progressive along with severity of MDS?", "What is the severity of MDS?", "Is MDS a serious disease?", "Do the symptoms change for MDS?", "Will the symptoms become more severe?", "Will MDS get worse over a period of time?"],
+			"Answer": "MDS may get worse over time. As the condition gets worse, so do its symptoms.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["symptoms"],
+			"Level3": ["severe", "worse", "progressive"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q021"
+		}, {
+			"Questions": ["Is blood transfusion common in patients with MDS?", "How common is blood transfusions in MDS", "Are Blood Transfusions common in MDS???", "Do MDS patients need blood transfusions?", "I have MDS, will I need blood transfusions?", "Do I need frequent blood transfusions for MDS?", "Why would I need frequent blood transfusions for my MDS?"],
+			"Answer": "Blood transfusions are common in people with MDS. In fact, most people with MDS are often given multiple blood transfusions to help manage the symptoms of the disease.",
+			"Level1": ["blood transfusion"],
+			"Level2": ["mds", "myelodysplastic syndrome"],
+			"Level3": ["common", "frequent", "need", "why"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q022"
+		}, {
+			"Questions": ["Why are blood transfusions needed for MDS patients?", "Why do i need blood transfusions for MDS?", "How will blood transfusions help me with MDS?", "Are there any side effects of blood transfusion in MDS treatment?", "Will I feel better with blood transfusions?"],
+			"Answer": "Blood transfusions are important because they can help you feel less tired and give you more energy, but they can also cause chronic iron overload.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["blood transfusion"],
+			"Level3": ["need", "work", "help", "better"],
+			"Level4": ["side effects"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q023"
+		}, {
+			"Questions": ["What is sickle cell disease?", "What is sickle cell anemia?", "What is meaning of SCD?"],
+			"Answer": "People with sickle cell disease have abnormal hemoglobin, called hemoglobin S or sickle hemoglobin.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["meaning", "define", "definition", "explain"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q024"
+		}, {
+			"Questions": ["What is sickle hemoglobin?", "How is hemoglobin affected in sickle cell disease?", "What is the difference between normal Hemoglobin and sickle hemoglobin", "Is there any thing different about sickle hemoglobin?"],
+			"Answer": "Hemoglobin is a protein in red blood cells that carries oxygen. In healthy people, red blood cells are shaped like a disc and are flexible. They carry hemoglobin and oxygen to organs and tissues throughout the body. In people with sickle cell disease, red blood cells are shaped like a crescent, or a sickle, and are stiff.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["hemoglobin", "sickle hemoglobin"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q025"
+		}, {
+			"Questions": ["What does sickle hemoglobin do?", "what happens in sickle cell disease?", "Is it bad to have sickle hemoglobin?", "Why is sickle hemaoglobin important?", "Should I be worried about sickle hemoglobin?", "What if I have sickle hemoglobin?", "Is blood flow to organs in my body affected due to sickle cells?"],
+			"Answer": "The sickle-shaped cells cause a blockage that slows or stops the flow of blood to tissue throughout the body. When this happens, the red blood cells are not able to bring the necessary hemoglobin and oxygen to other parts of the body.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["hemoglobin", "sickle hemoglobin"],
+			"Level3": ["affect", "result", "shape", "blood flow", "importance", "do", "happens", "bad"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q026"
+		}, {
+			"Questions": ["What is the shape of normal red blood cells?", "How are normal red blood cells different than sickle cells?", "What is the shape of red blood cells?", "What is the shape of red blood cells in normal people?"],
+			"Answer": "In healthy people, red blood cells are shaped like a disc and are flexible.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["shape", "different", "normal"],
+			"Level3": ["blood cells", "red blood cells"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q027"
+		}, {
+			"Questions": ["What is the shape of red blood cells in sickle cell anaemia?", "Describe the red blood cells in sickle cell anaemia patients?", "How are my red blood cells different than healthy people?", "Is the shape of redblood cells different in SCD patients?"],
+			"Answer": "In people with sickle cell disease, red blood cells are shaped like a crescent, or a sickle, and are stiff.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["red blood cells", "rbc", "rbcs"],
+			"Level3": ["healthy people", "patients"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q028"
+		}, {
+			"Questions": ["How is sickle cell disease treated?", "What are my treatment options for sickle cell disease?", "Is sickle cell disease treatable?", "Will blood transfusions help in sickle cell disease?                 ", "Do I need blood transfusions to treat my sickle cell disease?", "How will blood transfusions  help me?"],
+			"Answer": "Blood transfusions are a common treatment for sickle cell disease. In fact, most people with sickle cell disease are given multiple blood transfusions to help manage the symptoms of the disease. However, repeated blood transfusions can lead to chronic iron overload.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["treat", "treated", "treatment", "treatable", "blood transfusion"],
+			"Level3": ["need", "help", "treat"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q029"
+		}, {
+			"Questions": ["Is there a risk with repeated blood transfusions in sickle cell disease?"],
+			"Answer": "Repeated blood transfusions can lead to chronic iron overload.",
+			"Level1": ["sickle cell disease", "scd", "sickle cell anemia"],
+			"Level2": ["repeated blood transfusion"],
+			"Level3": ["risk"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q264"
+		}, {
+			"Questions": ["What is thalassemia?"],
+			"Answer": "Thalassemia is a blood disorder in which the body does not make enough hemoglobin. Hemoglobin is a protein in red blood cells that carries oxygen to all the tissues of the body.",
+			"Level1": ["thalassemia", "thalassaemia"],
+			"Level2": ["definition", "explain", "meaning", "define"],
+			"Level3": ["what"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q030"
+		}, {
+			"Questions": ["What are the symptoms of thalassemia?", "How do I know if I have thalassemia?", "Will my symptoms help me to know if I have thalassemia?", "What are different types of thalassemia?"],
+			"Answer": "There are different types of thalassemia, and symptoms vary based on the type of thalassemia, and may include irritability, facial bone deformities, fatigue or weakness, shortness of breath, pale appearance, or yellow discoloration of skin. ",
+			"Level1": ["thalassemia", "thalassaemia"],
+			"Level2": ["symptoms", "signs", "types"],
+			"Level3": ["know", "help", "how"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q033"
+		}, {
+			"Questions": ["Will thalassemia cause iron overload?", "Is thalassemia related to iron overload?", "How can people suffering from thalassemia suffer from iron overload?", "Why does thalassemia cause iron overload", "Is iron overload related to the type of thalassemia?"],
+			"Answer": "People with thalassemia may suffer from chronic iron overload because of extra iron received with blood transfusions, or, in the case of non-transfusion-dependent thalassemias, as a consequence of the disease.",
+			"Level1": ["thalassemia", "thalassaemia"],
+			"Level2": ["cause", "related", "suffer", "reason", "relation", "due to"],
+			"Level3": ["iron overload", "chronic iron overload", "iol"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q032"
+		}, {
+			"Questions": ["How do iron chelating agents work?", "Mechanism of action for iron chelating agents?", "What are chelating agents?", "How will chelating agents help reduce iron load?", "What is an iron chelator?", "What do you mean by iron chelator?", "Are iron chelators useful to remove excess iron?"],
+			"Answer": "A medicine that helps to remove excess iron from the blood in people who develop chronic iron overload",
+			"Level1": ["iron chelating agents", "iron chelator", "chelating agents"],
+			"Level2": ["mechanism of action", "act", "work", "help", "reduce", "meaning", "definition", "explain", "describe", "define", "useful", "remove"],
+			"Level3": ["excess iron"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Treatment Information",
+			"QID": "Q034"
+		}, {
+			"Questions": ["What is EXJADE?", "How is EXJADE helpful in iron overload?", "Is EXJADE a iron-chelating agent?", "Is EXJADE a treatment option for iron overload?", "How is EXJADE useful in iron overload?", "How does EXJADE work?", "What is the mechanism of action of EXJADE?", "How does Exjade act?", "How does EXJADE help in iron overload?", "How does EXJADE reduce/remove excess iron?", "Does EXJADE effectively remove excess iron in body?", "How to get rid of excess iron in my body?"],
+			"Answer": "Exjade is an iron chelator  used to remove the excess iron and reduce the risk of it causing organ damage, in people who have developed chronic iron overload. EXJADE traps and removes excess iron, which is then excreted mainly in the stools.",
+			"Level1": ["exjade"],
+			"Level2": ["meaning", "definition", "explain", "describe", "help", "define", "useful", "remove", "work", "reduce", "act", "mechanism of action", "treatment"],
+			"Level3": ["iron chelator", "iron chelating agent"],
+			"Level4": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q039"
+		}, {
+			"Questions": ["Who is EXJADE indicated for?", "What are the indications of exjade?", "What is exjade prescribed for?", "I do not take blood transfusions. Can I use EXJADE?", "Is EXJADE used for the treatment of thalassemia?", "Is EXJADE useful to treat thalassemia?", "Can I use EXJADE if I have anemia?", "Is EXJADE indicated in patients who are not getting transfusions for thalassemia?", "I don’t receive transfusions. Can I still use EXJADE?", "How will EXJADE help me?"],
+			"Answer": "Treatment of transfusion-induced haemosiderosis.\nTreatment of chronic iron overload requiring chelation therapy in patients with non-transfusion-dependent thalassaemia aged 10 years and older.",
+			"Level1": ["exjade"],
+			"Level2": ["indicated", "indication", "use", "prescribed", "prescription", "useful", "help", "indications"],
+			"Level3": ["thalassemia", "transfusion"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q035"
+		}, {
+			"Questions": ["How to know that i am getting frequent transfusion?", "How do I know if I am taking too much of transfusons?", "Is the freqnency of blood transfusions important?", "Is there a limit to receive blood transfusions?"],
+			"Answer": "You may considered as getting frequent blood transfusions if you are receiving 7 ml/kg/month of packed red blood cells or more",
+			"Level1": ["blood transfusion", "blood transfusions", "transfusions"],
+			"Level2": ["frequent", "too much", "excessive", "limit", "frequency"],
+			"Level3": ["how"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q036"
+		}, {
+			"Questions": ["When should i take Exjade?", "When should EXJADE be taken?", "Is there a specific time to take EXJADE?", "Any specific instructions to use EXJADE?", "What are the instructions to take EXJADE?", "How frequenctly I should to take EXJADE?                                                                                                                                                 Should I take EXJADE before my meal?"],
+			"Answer": "Once dispersed, EXJADE should be taken by mouth once a day, on an empty stomach at least 30 minutes before food, preferably at the same time each day. Taking EXJADE at the same time each day will also help remember when to take the tablets.",
+			"Level1": ["exjade"],
+			"Level2": ["take", "taken", "frequency"],
+			"Level3": ["when", "empty stomach", "once a day", "meal"],
+			"Level4": ["instructions"],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q040"
+		}, {
+			"Questions": ["How should I take EXJADE?", "How to take EXJADE?", "Can I take EXJADE with water?", "Can I take EXJADE with juice?", "What liquids can I use to take EXJADE?", "Can I dissolve EXJADE in water / juice?"],
+			"Answer": "Tablets should be completely dispersed by stirring into a glass of water, orange juice, or apple juice until a fine suspension is obtained. After dropping the tablets into the liquid, stir for three minutes, until the tablets dissolve completely. The liquid in the glass will look cloudy. Drink everything in the glass. Then add a little water or juice to what is left in the glass, swirl the liquid around, and drink that too.",
+			"Level1": ["exjade"],
+			"Level2": ["water", "juice", "liquids"],
+			"Level3": ["use", "take", "dissolve"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q041"
+		}, {
+			"Questions": ["Can I take EXJADE with milk?", "Can I take EXJADE with soda or pop?", "Can I take EXJADE with fizzy drinks?", "Does EXJADE interacts with milk / soda / fizzy drinks?"],
+			"Answer": "Do not dissolve the tablets in fizzy drinks or milk.",
+			"Level1": ["exjade"],
+			"Level2": ["with", "interaction", "take"],
+			"Level3": ["milk", "soda", "pop", "fizzy drinks", "coke", "sprite"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q042"
+		}, {
+			"Questions": ["Is it ok to take EXJADE as a whole tablet?", "Can I take EXJADE like a tablet?", "Can i chew EXJADE?", "Can i swallow EXJADE?", "Can I take EXJADE like a pill and wash it down with water?                                         Can I just swallow the EXJADE tablet?"],
+			"Answer": "Tablets should not be chewed or swallowed whole.",
+			"Level1": ["exjade"],
+			"Level2": ["chew", "swallow"],
+			"Level3": ["tablet", "pill"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q043"
+		}, {
+			"Questions": ["Is it ok to crush the EXJADE tablet?", "Can I powder the EXJADE tablet before I take it?", "What if I crush the EXJADE tablet?", "Will it disperse / dissolve faster if I crush the EXJADE tablet?"],
+			"Answer": "Do not break or crush the tablets.",
+			"Level1": ["exjade"],
+			"Level2": ["crush", "break", "powder"],
+			"Level3": ["tablet", "pill"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Exjade Information",
+			"QID": "Q044"
+		}, {
+			"Questions": ["Can EXJADE be used in combination with aluminium containing antacid products?", "Is it ok to use EXJADE with antacids?", "What products not to be used while on EXJADE?", "Which medicines do i avoid while taking Exjade", "Can I take EXJADE along with antacids?"],
+			"Answer": "EXJADE cannot be taken with aluminum-containing antacid products",
+			"Level1": ["exjade"],
+			"Level2": ["aluminium containing", "antacids"],
+			"Level3": ["combination", "combine", "use", "take"],
+			"Level4": ["medicines", "drugs", "products"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q065"
+		}, {
+			"Questions": ["Should I avoid any common medications while taking EXJADE?", "Is EXJADE contraindicated with other medicines?", "Can i take EXJADE with other medicines ?", "What medications should I avoid while taking EXJADE?", "Will EXJADE interact with aluminium containing antacids?"],
+			"Answer": "Do not take EXJADE with aluminum-containing antacid products",
+			"Level1": ["exjade"],
+			"Level2": ["avoid", "contraindication", "contraindicated", "other", "not take", "interact"],
+			"Level3": ["medicines", "drugs", "products"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q046"
+		}, {
+			"Questions": ["Is it necessary to maintain 30 mins gap before food?", "When should I have my food after I take EXJADE?"],
+			"Answer": "EXJADE should be taken on an empty stomach and after taking EXJADE, you should wait 30 minutes before eating any food.",
+			"Level1": ["exjade"],
+			"Level2": ["food"],
+			"Level3": ["30mins", "gap", "wait", "have", "eat"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q047"
+		}, {
+			"Questions": ["Why is it advised to not take EXJADE with food?", "How does food affect EXJADE?", "Why should I take EXJADE on an empty stomach?", "Is EXJADE contraindicated with food?", "Does food affect EXJADE?", "Does food interact with EXJADE?", "What if I take EXJADE after my food?", "What if I take food along with EXJADE?", "Why should I wait for my food after EXJADE?", "Are there any food effects on EXJADE?", "Are there any food interactions with EXJADE?"],
+			"Answer": "Food can affect the amount of the active drug that is present in the body",
+			"Level1": ["exjade"],
+			"Level2": ["food"],
+			"Level3": ["advise", "affect", "avoid", "contraindication", "contraindicated", "other", "not take", "interact", "wait", "effects"],
+			"Level4": ["empty stomach"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q048"
+		}, {
+			"Questions": ["What should I expect with EXJADE treatment?", "What can i expect with EXJADE therapy?", "What are the benefits of using EXJADE?", "How long do I have to take EXJADE?", "What are the health benefits of EXJADE treatment?"],
+			"Answer": "Everyone’s experience with EXJADE is different. Since chronic iron overload often does not have symptoms it may not seem urgent to treat it, but it is important that you keep taking EXJADE every day as your health care provider prescribed to avoid long-term complications from chronic iron overload.",
+			"Level1": ["exjade"],
+			"Level2": ["treatment", "therapy"],
+			"Level3": ["expect", "expectation", "benefits", "long", "duration"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q049"
+		}, {
+			"Questions": ["What should I do during treatment with EXJADE?", "How is EXJADE treatment monitored?", "Do I need to visit my health care provider during the EXJADE treatment?", "How are side effects of EXJADE treatment monitored?", "How often I have to visit my health care provider during treatment with EXJADE?", "What precautions should I take during EXJADE treatment?", "Do I need to monitor my iron levels during EXJADE treatment?"],
+			"Answer": "During EXJADE treatment, you should expect to have regular appointments with your health care provider to monitor iron levels and side effects through routine blood tests and other medical tests. ",
+			"Level1": ["exjade"],
+			"Level2": ["treatment", "therapy", "iron levels"],
+			"Level3": ["monitor", "monitored", "precautions"],
+			"Level4": ["side effects"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q050"
+		}, {
+			"Questions": ["Is dose adjustments required during the EXJADE treatment?", "Do I need to change my dose with EXJADE?"],
+			"Answer": "During these appointments, you can talk to your health care provider about managing side effects and the progress of treatment. It is also important to tell your health care provider about how you are feeling and about any side effects as soon as they occur so that he/she can help manage them or decide if you should take a different dose or stop taking it altogether.",
+			"Level1": ["exjade"],
+			"Level2": ["dose"],
+			"Level3": ["adjustments", "change"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q265"
+		}, {
+			"Questions": ["Why should I have regular appointments with EXJADE therapy?"],
+			"Answer": "During EXJADE treatment, you should expect to have regular appointments with your health care provider to monitor iron levels and side effects through routine blood tests and other medical tests.",
+			"Level1": ["exjade"],
+			"Level2": ["appointments", "therapy"],
+			"Level3": ["regular"],
+			"Level4": [],
+			"IsFAQ": true,
+			"Heading": "Monitoring information",
+			"QID": "Q266"
+		}, {
+			"Questions": ["Why should I take EXJADE as prescribed?", "Why is it important to take EXJADE at the same dose everyday?", "What if i miss a dose of EXJADE?", "What is the use of taking EXJADE consistently?", "Will the dose of the EXJADE be corrected based on my iron levels?"],
+			"Answer": "It is extremely important that you take EXJADE just as your health care provider prescribed. Over time, your health care provider may adjust the dose of EXJADE to better manage iron levels and/or side effects. Taking EXJADE consistently at the dose prescribed by your health care provider will give you the best chance of getting the intended results from this medicine.",
+			"Level1": ["exjade"],
+			"Level2": ["dose", "schedule", "take", "use"],
+			"Level3": ["consistent", "everyday", "daily", "constantly"],
+			"Level4": ["important", "importance", "iron levels"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q051"
+		}, {
+			"Questions": ["What tests need to be conducted while on EXJADE?", "What are the tests i need to have on EXJADE?", "What tests do i have to take if am on EXJADE?", "Will I need blood tests while on treatment with EXJADE?", "How often I have to undergo blood tests when on EXJADE?", "How are my iron levels monitored during the EXJADE treatment?", "What will be monitored with EXJADE therapy?", "What tests may be conducted for monitoring EXJADE therapy?", "What tests can be done to monitor my therapy?", "Which other tests than iron monitoring are necessary during EXJADE treatmennt?"],
+			"Answer": " While taking EXJADE, you will have regular tests, including serum ferritin and other tests to measure iron levels, as well as other blood tests, urine tests, eye exams, and hearing tests.\n\nYour health care provider will also monitor your kidney function with blood and urine tests, and liver function with blood tests. You may also have MRI (magnetic resonance imaging) scans to determine the amount of iron in the liver.",
+			"Level1": ["exjade"],
+			"Level2": ["test", "monitoring", "monitor", "monitored"],
+			"Level3": ["undergo", "take", "need"],
+			"Level4": ["eye", "ear", "blood", "urine"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q052"
+		}, {
+			"Questions": ["Why do I need additional monitoring?", "how do monitoring tests help me?", "Why should I be monitored while on treatment with EXJADE?", "Is it really necessary to monitor my iron levels during EXJADE treatment?", "How do I know if EXJADE treatment is helping me?", "How do I know if dose prescribed is right for me?", "How is compliance to the EXJADE measured?", "How will monitoring tests help in treatment?", "Are tests done during EXJADE therapy helpful?", "How do monitoring tests help?", "When should I stop EXJADE therapy?"],
+			"Answer": "The monitoring tests are very important to help your health care provider make sure that you are receiving the right treatment at the right dose, and to make sure the treatment is working as it should.",
+			"Level1": ["exjade"],
+			"Level2": ["why"],
+			"Level3": ["test", "monitoring", "monitor", "monitored"],
+			"Level4": ["additional", "prescribed", "necessary"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q053"
+		}, {
+			"Questions": ["How frequently my blood iron levels need to be monitored while on EXJADE?", "Do I need to often measure iron levels in my blood when on treatment?", "What is the frequency of blood iron monitoring during EXJADE treatment?"],
+			"Answer": "You will have regular blood and urine tests during treatment. While your exact schedule may be different, your health care provider will likely monitor the amount of iron in your body, based on blood level of ferritin, monthly to see how well EXJADE is working.",
+			"Level1": ["exjade"],
+			"Level2": ["iron levels", "blood iron"],
+			"Level3": ["test", "monitoring", "monitor", "monitored", "measure"],
+			"Level4": ["frequency"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q054"
+		}, {
+			"Questions": ["How can I track response to EXJADE?", "How to track response to EXJADE?", "How can I observe if EXJADE is effective or not?", "How can I monitor my tratment?", "How do I keep my records of my doses during EXJADE treatment?", "How can I monitor effectiveness of EXJADE treatment?"],
+			"Answer": "You may get a booklet from your health care provider which will help you to track your response to EXJADE. If not, you can easily make one on your own by creating a spreadsheet or table with columns for dates and results of your serum ferritin tests. The health care provider will then write your blood test results in this booklet/spreadsheet/table at each visit. Keep the booklet/spreadsheet/table safe and bring it with you each time you visit your health care provider.",
+			"Level1": ["exjade"],
+			"Level2": ["response", "effectiveness"],
+			"Level3": ["tracking", "monitoring", "observe", "record"],
+			"Level4": ["treatment", "therapy", "medication", "medicines"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q057"
+		}, {
+			"Questions": ["Why am I getting vision tests during EXJADE therapy?", "Why am I getting hearing tests?", "why should I get eyesight and hearing tested during EXJADE therapy?", "Will EXJADE affect my sight and/or hearing?", "Do I need to be concerned about my vision/ eye sight with EXJADE?", "Is hearing loss associated with EXJADE therapy?", "Do i have check my eye and ears during the treatment with EXJADE?", "Is there partial loss of vision?"],
+			"Answer": "EXJADE may affect your eyesight and hearing, so these senses will also be tested each year during treatment as a precautionary measure.",
+			"Level1": ["exjade"],
+			"Level2": ["test", "affect", "effect", "concern", "loss", "associated", "need"],
+			"Level3": ["eye", "vision", "ear", "hearing"],
+			"Level4": ["partial loss"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q058"
+		}, {
+			"Questions": ["What other tests can be done other than blood tests to monitor my iron levels?", "Except blood tests what tests can be done to see my iron levels"],
+			"Answer": "In addition to blood and urine tests, you may also have an MRI (magnetic resonance imaging) to measure the amount of iron in the liver. ",
+			"Level1": ["iron levels"],
+			"Level2": ["test"],
+			"Level3": ["other", "except", "additional"],
+			"Level4": ["blood tests"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q267"
+		}, {
+			"Questions": ["What is an MRI?", "What is a magnetic resonance imaging test?", "Is MRI scan painful?", "How does MRI scan help?"],
+			"Answer": "An MRI is painless. During the scan, you will lie on a table that slides into a tube-shaped machine. The MRI machine uses radio waves and strong magnets to produce pictures of your body from many different angles.",
+			"Level1": ["mri", "magnetic resonance imaging", "scan"],
+			"Level2": [],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q059"
+		}, {
+			"Questions": ["What to do if I have severe side effects?", "What if I have severe side effects with EXJADE?", "Are side effects with EXJADE common?   ", "How severe are the side effects of EXJADE?", "What is the nature of side effects with EXJADE?", "How are side effects with EXJADE managed?", "Should I be concerned about side effects?", "Will I have any side effects with EXJADE?", "What is the severity of side effects with EXJADE?", "How severe are EXJADE side effects?", "Is it safe to use EXJADE?"],
+			"Answer": "As with all medicines, people taking EXJADE may experience side effects, although not everybody gets them. \n\nMost of the side effects are mild to moderate and will generally disappear after a few days to a few weeks of treatment. If you experience any side effects, please tell your health care provider.\n\nSome side effects could be serious and need immediate medical attention. These side effects are uncommon or rare. Stop taking the medication and tell your health care provider right away if you have any of the following while taking EXJADE.",
+			"Level1": ["exjade"],
+			"Level2": ["severe", "nature", "type", "severity", "safety"],
+			"Level3": ["side effects"],
+			"Level4": ["concern", "have", "safe"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q268"
+		}, {
+			"Questions": ["Give some examples of EXJADE side effects?", "What are the side effects of EXJADE?", "What are serious side effects of EXJADE?", "Are there other side effects with EXJADE?", "Give me complete list of side effects with EXJADE?                                                           Give me comprehensive list of side effects with EXJADE?", "How to know more on side effects of EXJADE?", "Where can I find more information on side effects of EXJADE?", "            "],
+			"Answer": "Severe rash, or difficulty breathing and dizziness or swelling mainly of the face and throat (signs of severe allergic reaction)\nSevere rash; reddening of the skin; blistering of lips, eyes, or mouth; skin peeling; sore throat (signs of severe skin reaction)\nMarked decrease in urine output (sign of a kidney problem)\nCombination of drowsiness, upper right abdominal pain, yellowing or increased yellowing of skin or eyes and dark urine (signs of liver problems)\nBlood in vomit and/or black stools\nFrequent abdominal pain, particularly after eating or taking EXJADE\nFrequent heartburn\nPartial loss of vision\n\nThe list given here is not a complete list of side effects. You can learn more about possible side effects by looking at the package insert that comes with your medicine or by talking to your health care provider or pharmacist.",
+			"Level1": ["side effects"],
+			"Level2": ["list", "serious", "examples", "know", "find", "information", "comprehensive", "complete"],
+			"Level3": ["exjade"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q063"
+		}, {
+			"Questions": ["What to do in case of side effects due to exjade?", "I have severe rash, or difficulty breathing and dizziness or swelling mainly of the face and throat (signs of severe allergic reaction)", "I have severe rash; reddening of the skin; blistering of lips, eyes, or mouth; skin peeling; sore throat (signs of severe skin reaction)", "I have marked decrease in urine output (sign of a kidney problem)", "I have a combination of drowsiness, upper right abdominal pain, yellowing or increased yellowing of skin or eyes and dark urine (signs of liver problems)", "I have blood in vomit and/or black stools", "I have frequent abdominal pain, particularly after eating or taking EXJADE", "I have frequent heartburn", "I have partial loss of vision", "I have blurred vision, after taking EXJADE what to do?", "I have cloudy eyesight, what can i do?", "I have reduced hearing. What should I do?", "I cant see properly after taking EXJADE, what to do?", "I am experiencing problems with my eyes and hearing. Should I stop EXJADE?"],
+			"Answer": "Stop taking the medication and tell your health care provider right away",
+			"Level1": ["exjade"],
+			"Level2": ["rash", "or difficulty breathing and dizziness", "allergic reaction", "rash; reddening; blistering", "skin peeling; sore throat", "decrease urine output", "kidney problem", "drowsiness", "abdominal pain", "increased yellowing", "liver problem", "blood in vomit", "black stools", "frequent heartburn", "loss of vision", "cloudy eyesight", "reduced hearing", "blurred vision"],
+			"Level3": ["lips", "skin", "eyes", "ear", "mouth", "throat"],
+			"Level4": ["side effects"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q062"
+		}, {
+			"Questions": ["What are the common side effects of EXJADE?", "How do I know if I have side effects of EXJADE?", "Give examples of common side effects with EXJADE?"],
+			"Answer": "Some side effects are common. If any of these affects you severely, tell your health care provider immediately: Nausea, vomiting, diarrhea, pain in the abdomen, bloating, constipation, indigestion, rash, headache, disturbance in liver function tests, itching, disturbance in urine test (protein in the urine)",
+			"Level1": ["exjade"],
+			"Level2": ["side effects"],
+			"Level3": ["common"],
+			"Level4": ["know", "examples"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q064"
+		}, {
+			"Questions": ["Why should I tell my doctor about the side effects?", "Whom should I consult about side effects of EXJADE?", "Where will I get help for managing side effects with EXJADE?", "What can I do about the side effects?", "Can i manage side effects on my own?", "Do i change the dose of EXJADE to reduce the side effects?", "How side effects with EXJADE are managed?", "Should I self manage the dose of EXJADE?", "What information should I give my doctor along with side effects?", "Do I have to tell the physician about my dier?", "Do I have to tell the physician about my lifestyle", "Do I have to tell the physician about the medicines I take other than EXJADE?", "The side effects are really annoying what can I do?", "Do I have to consult a doctor for the side effects?", "Is it necessary I go to a doctor?", "When should I contact my healthcare provider if I develop side effects following EXJADE treatment?"],
+			"Answer": "It is important to talk to your health care provider immediately about any and all side effects you experience so that he/she can try to help manage them or tell you if you should change your dose or stop taking your medicine. Be sure to also tell your health care provider about any other medication you are taking, including over-the-counter products, as well as any diet or other lifestyle changes.\n",
+			"Level1": ["exjade", "medicines"],
+			"Level2": ["manage", "self-manage", "do", "help", "reduce", "inform", "tell", "contact", "consult"],
+			"Level3": ["side effects"],
+			"Level4": ["doctor", "physician", "healthcare provider"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q066"
+		}, {
+			"Questions": ["What will the doctor do about the side effects?", "How will the doctor help with my side effects?", "Nausea and Diarrhoea are causing dsicomfort, what to do"],
+			"Answer": "Your health care provider may suggest supportive medicine, such as antidiarrheal medicine or antiemetics (anti-nausea medicine), or lifestyle changes, such as dietary changes. ",
+			"Level1": ["exjade"],
+			"Level2": ["doctor"],
+			"Level3": ["suggestion", "action", "help", "nausea", "diarrhoea"],
+			"Level4": ["side effects", "discomfort"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q271"
+		}, {
+			"Questions": ["The safety information is too long, what to do?", "Will I get all the side effects in the list?", "I cant understand the side effects list"],
+			"Answer": "The safety information on medicines can be overwhelming and/or difficult to understand. The list of possible side effects for EXJADE may seem long, but keep in mind that this is list of all possible side effects… it does not mean every patient will get all the side effects that are mentioned. However, it is important to understand what the possible side effects are so that you can recognize them if they occur and discuss them with your health care provider. He/She may be able to help you manage any side effects that you do experience.",
+			"Level1": ["exjade"],
+			"Level2": ["safety", "understand"],
+			"Level3": ["information", "list"],
+			"Level4": ["side effects"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q068"
+		}, {
+			"Questions": ["How do I manage diarrhea following EXJADE therapy?", "What should I do if my child develops diarrhea after taking EXJADE?", "What is the best way to avoid diarrhea associated EXJADE?"],
+			"Answer": "The following tips may be helpful in managing diarrhea. Increase the fluid intake and keep yourself or your child hydrated. Ensure EXJADE is taken 30 minutes prior to eating. Administering EXJADE in the evening would be better compared to morning dose. Discuss with your healthcare provider prior to using over-the-counter antidiarrheal medications.",
+			"Level1": ["exjade"],
+			"Level2": ["diarrhea"],
+			"Level3": ["manage", "avoid", "treat"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q069"
+		}, {
+			"Questions": ["How do I manage nausea and vomiting following EXJADE therapy?", "What should I do if my child starts vomiting after taking EXJADE?", ""],
+			"Answer": "Nausea or vomiting can be managed by drinking small, steady amounts of clear liquids such as electrolyte replacement solutions. Your healthcare provider may prescribe anti-nausea medications. ",
+			"Level1": ["exjade"],
+			"Level2": ["vomitting"],
+			"Level3": ["manage", "avoid", "treat"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q070"
+		}, {
+			"Questions": ["What is the right way to take EXJADE to avoid nausea?"],
+			"Answer": "EXJADE should be taken on an empty stomach or with a light meal.",
+			"Level1": ["exjade"],
+			"Level2": ["nausea"],
+			"Level3": ["manage", "avoid", "treat"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q273"
+		}, {
+			"Questions": ["How do I manage skin rashes following EXJADE therapy?", "What should I do if my child gets rashes over the skin after taking EXJADE?", "Should I stop EXJADE if I get a skin rash?", "Should I be worried about skin rashesh with EXJADE therapy?"],
+			"Answer": "Skin rashes are mild, treatable and go away within a short period of time. Contact your healthcare provider if the rash does not resolve or worsens. Your healthcare provider may adjust the dose of EXJADE or interrupt treatment.",
+			"Level1": ["exjade"],
+			"Level2": ["skin rashes"],
+			"Level3": ["manage", "avoid", "treat"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q071"
+		}, {
+			"Questions": ["How do I manage abdominal pain following EXJADE therapy?", "How to reduce abdominal pain due to Exjade?", "What should I do if my child develops pain over the abdomen after taking EXJADE?", "What is best way to minimise abdominal pain associated with EXJADE treatment", "What is best way to minimise avoid abdominal pain associated with EXJADE treatment", "Can I take pain medications to manage abdominal pain after EXJADE treatment?"],
+			"Answer": "Abdominal pain following EXJADE treatment may repsond to sipping water and clear liquids. Remember to administer EXJADE in the evening on an empty stomach or along with a light meal. Avoid narcotic pain medications or non-steroidal anti-inflammatory drugs.",
+			"Level1": ["exjade"],
+			"Level2": ["abdominal pain", "pain over abdomen"],
+			"Level3": ["manage", "avoid", "treat", "minimise", "reduce"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q072"
+		}, {
+			"Questions": ["Should I discontinue EXJADE if my child develops severe side effects?", "Can I stop EXJADE if I develop side effects?", "I am unable to bear side effects of EXJADE. Can I stop the treatment?"],
+			"Answer": "People may consider stopping EXJADE after experiencing side effects. Your healthcare provider should be informed following serious or severe side effects so that EXJADE treatment may be stopped. However, less serious side effects also should be informed to the healthcare provider so that changes to EXJADE dose may be suggested.",
+			"Level1": ["exjade"],
+			"Level2": ["bear", "unable", "develop"],
+			"Level3": ["side effects"],
+			"Level4": ["stop", "discontinue"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q073"
+		}, {
+			"Questions": ["What is the goal of chelation therapy?", "Why is it important to take EXJADE?", "How chelation therapy helps?"],
+			"Answer": "The primary goals of chelation therapy with EXJADE are reduction of excess iron levels and maintenance of safe levels in the body.",
+			"Level1": ["iron chelation"],
+			"Level2": ["help", "goal", "objective", "importance"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q074"
+		}, {
+			"Questions": ["How long does EXJADE take to reduce iron levels in my child\u0027s body?", "How long should I take EXJADE for beneficial effects to be seen?"],
+			"Answer": "EXJADE may take months or years to reduce iron levels in the body. It is important to be patient and keep taking EXJADE as presribed by your healthcare provider.",
+			"Level1": ["exjade"],
+			"Level2": ["duration", "length", "continue"],
+			"Level3": ["effects", "benefits"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q075"
+		}, {
+			"Questions": ["Can I skip doses of EXJADE?", "Should my child take EXJADE every day?", "Can I change the frequency of EXJADE tablets?"],
+			"Answer": "It is important to continue EXJADE exactly as prescribed by your health care provider since it takes a long time to reduce the iron levels in your body",
+			"Level1": ["exjade"],
+			"Level2": ["skip", "everyday", "change"],
+			"Level3": ["dose", "frequency"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q076"
+		}, {
+			"Questions": ["When can you consider blood transfusions as frequent?", "Can you explain how much is frequent blood transfusion?", "How much of packed cells is too much?"],
+			"Answer": "Frequent blood transfusions refer to receving ≥7 mL/kg/month of packed red blood cells",
+			"Level1": ["blood transfusions", "packed cells"],
+			"Level2": ["frequency", "excess", "too much"],
+			"Level3": ["when", "how much"],
+			"Level4": ["explain", "consider"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q078"
+		}, {
+			"Questions": ["Why are frequent blood transfusions required?", "Who require frequent blood transfusions and why?", "What is the need for frequent blood transfusions?", "When is frequent blood transfusions desired?", "Is there a need for frequent blood transfusions?"],
+			"Answer": "Frequent blood transfusions are needed to treat various types of anemia seen in conditions such as thalassemia, sickle cell disease and myelodysplastic syndrome",
+			"Level1": ["blood transfusions"],
+			"Level2": ["frequency", "excess", "too much"],
+			"Level3": ["why", "reason", "need", "requirement", "desire"],
+			"Level4": ["who", "when"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q079"
+		}, {
+			"Questions": ["What are the side effects of repeated blood transfusions?", "Are there any side effects of repeated blood transfusions?", "Can repeated blood transfusions cause any harm?", "What are the harmful effects of repeated blood transfusions?", "Will my child experience any adverse effect following repeated blood transfusion?", "What are concerns with repeated blood transfusions?", "Do I need to worry about repeated blood transfusions?", "How is repeated blood transfusions related to iron overload?"],
+			"Answer": "Repeated blood transfusions cause iron overload because blood contains iron and the body does not have a natural mechanism to remove excess iron following blood transsfusions. Excess iron over a period of time damages the liver and heart.",
+			"Level1": ["repeated blood transfusions"],
+			"Level2": ["side effects", "harm", "adverse effects", "harmful", "effects"],
+			"Level3": ["concerns", "worry"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q080"
+		}, {
+			"Questions": ["What does light meal mean?", "What can I take as a light meal?", "Can my child take bread and jam as light meal?", "Are sandwiches considered as light meals?                                                           What constitutes a light meal?                                                                                 Provide example of a light meal?"],
+			"Answer": "Light meal includes those with less than 7% fat content and approximately 250 calories. Examples include a slice of whole wheat bread with 0.5 ounce of jam or jelly or a turkey sandwich",
+			"Level1": ["light meal"],
+			"Level2": ["meaning", "constitute", "consist", "have"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q081"
+		}, {
+			"Questions": ["How are liver biopsy performed?", "How is liver biopsy helpful in iron overload measurement /monitoring?"],
+			"Answer": "Liver biopsy refers to examination of a small piece of liver tissue under the microscope for measuring the amount of iron in the liver. Your healthcare provider would advice you or your child not to eat prior to the procedure.",
+			"Level1": ["liver biopsy"],
+			"Level2": ["perform", "done"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q082"
+		}, {
+			"Questions": ["Will connecting with support groups help my child?", "Does Novartis have a patient support group program?", "How do support groups help?", "Are support groups helpful?", "Will I or my child be benefitted by joining support groups?"],
+			"Answer": "Many people find it helpful to connect and find support with others who are going through similar experience. Some people do this by going to support groups. However, please keep in mind that these organizations are not affiliated with Novartis Pharmaceutical Corporation and Novartis is not responsible for the information they provide.",
+			"Level1": ["support groups"],
+			"Level2": ["help", "benefit", "advantage"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q083"
+		}, {
+			"Questions": ["Is it Normal for my child to feel sad cause of iron overload?", "Is it ok to be depressed because of iron overload?"],
+			"Answer": "It is normal for people with chronic iron overload to feel sad at times.",
+			"Level1": ["iron overload"],
+			"Level2": ["sad", "sadness", "depressed", "low"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q277"
+		}, {
+			"Questions": ["Can I discuss my feelings and health condition with a close friend of mine?", "Who should I consult for discussing my feelings?", "My child feels sad about his/ her condition. What should I do?", "Where can I get counselling help with my feelings?", "Is it ok to discuss my feelings with family or health care provider?", "I feel sad with my condition. Whom should I seek help from?"],
+			"Answer": " It is recommended that you consult your healthcare provider and discuss the feelings, especially if they are affecting the daily life. Some people may find it helpful to talk to a family member or a friend or someone who has dealt with a medical challenge.",
+			"Level1": ["feelings"],
+			"Level2": ["consult", "discuss", "counsel"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q084"
+		}, {
+			"Questions": ["Is it okay if my child discusses the feelings with school teachers?", "Is it ok if my child express his feelings about his illness to a teacher?"],
+			"Answer": "It is important to encourage your child to share feelings with a trustworthy person such as friend, family member, teacher or coach. You can also discuss this with your healthcare provider. People avoid going out or talking with friends when they are sad. Hence, it is recommended to continue doing things you like or activities you enjoy.",
+			"Level1": ["feelings"],
+			"Level2": ["school", "teachers"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q085"
+		}, {
+			"Questions": ["My child has stopped going out and playing with friends - is it depression?"],
+			"Answer": "People avoid going out or talking with friends when they are sad.",
+			"Level1": ["sadness", "depression"],
+			"Level2": ["child"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q278"
+		}, {
+			"Questions": ["Am I the only person suffering from chronic iron overload?", "I do not know anyone suffering from chronic iron overload.", "Is it only me to have iron overload?", "does iron loverload occur only in few individuals?"],
+			"Answer": "Sometimes people dealing with chronic iron overload feel alone or isolated because they may not know other people suffering from similar condition. It is important to remember that you are not the only person dealing with a diagnosis of chronic iron overload.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["lonely person", "suffering", "suffer", "only person"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q086"
+		}, {
+			"Questions": ["I am feeling hopeless after developing iron overload?", "My child has to manage sickle cell disease and iron over load - are there support groups that offer help?", "Why is iron overload upsetting me?", "why is iron overload depressing my child?", "It was thalassemia first and now chronic iron overload. It is bad.", "Is there some one else like me to have iron overload condition?", "How can I connect with other suffering with iron overload?"],
+			"Answer": "Sometimes peope start feeling hopeless after developing a secondary condition like chronic iron overload after treatment for a primary disease. It upsets people because they have to manage a primary condition along with chronic iron overload. It is recommended that your healthcare provider is aware of your feelings so that more information regarding treatment may be provided. You can talk to other people in support groups who are dealing with similar feelings.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["hopeless", "depressed", "upset"],
+			"Level3": ["connect", "support groups"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q087"
+		}, {
+			"Questions": ["Can you help me in relieving my stress as I am managing my child\u0027s iron overload due to beta-thalassemia?", "I am tensed and getting worried about managing iron overload in my child?", "How do I manage my stress with iron overload?", "Will expressing my concerns with my healthcare provider help?"],
+			"Answer": "It is important to discuss feeling of anxiety or stress with your healthcare provider so that you would be directed to appropriate resources or support groups. When you are tensed or worried, it is recommeded to stop what you are doing for a minute or two and relax. A breathing exercise may calm you down. You can go back to what you were doing after you feel relaxed.",
+			"Level1": ["stress", "worry", "concern", "anxiety"],
+			"Level2": ["chronic iron overload", "iron overload", "iron level", "too much iron", "thalassemia"],
+			"Level3": ["help", "management"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q088"
+		}, {
+			"Questions": ["What are signs of stress?", "How can I recognise that I am stressed?", "Is there way to know if my child is stressed?", "My child find it difficult to focus. Is he stressed?", "How do I know that my child is stressed?", "What are the signs of stress in a child?", "I just cant focus. Am I really stressed?"],
+			"Answer": " Some of signs of stress include feeling your muscles tense up or having trouble focusing on things.",
+			"Level1": ["stress"],
+			"Level2": ["signs"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q089"
+		}, {
+			"Questions": ["Is it necessary to be aware of stress?", "Why should I be aware of stress?"],
+			"Answer": "It is important to become aware of feeling tensed or worried so that plans can be made accordingly to manage it.",
+			"Level1": ["stress"],
+			"Level2": ["awarene", "awareness"],
+			"Level3": ["need", "requirement"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q279"
+		}, {
+			"Questions": ["Are there any methods to manage stress?", "Is there anyway i can manage stress?", "Do breathing exercises help in reducing stress levels?", "Is there a better way to manage my stress?                                                             Give me some exmaples of activities for relaxation."],
+			"Answer": "Some methods to manage stress include breathing exercises and physical activities. Breathing exercises may help you feel more calm. Try closing your eyes and taking a slow, deep breath in. Hold it for a few seconds and exhale slowly. You may repeat as needed. An example for settling and relaxing oneself is \"three-minute breathing space\".",
+			"Level1": ["stress"],
+			"Level2": ["manage", "management"],
+			"Level3": ["methods", "ways", "excersises"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q090"
+		}, {
+			"Questions": ["What is \"three-minute breathing space\"?", "Tell me about the \"three-minute breathing space\" exercise.", "How to do three minute breathing space?", "How to perform \"three-minute breathing space\" ?", "How to three-minute breathingspace help me relax?"],
+			"Answer": "The \"three minute breathing space\" would take 3 minutes. For the first minute, try to close your eyes and pay attention to how your body feels and what is happening in your mind. As you enter the second minute, try to step away from your thoughts and focus on your breathing, both inbreath and outbreath. In the last minute, try to expand your awareness of breathing to include your entire body. Notice your body at rest as you sit and breathe.",
+			"Level1": ["three minute breating space exercise"],
+			"Level2": ["way", "method", "technique"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q091"
+		}, {
+			"Questions": ["Will exercising help in relieving my stress?", "What sort of physical activities may help reduce stress levels?", "How does physical activities help me reduce stress?", "Is physical exercise helpful for my stress?", "What should I do to improve my mood?"],
+			"Answer": "Physical activities also help in managing stress levels. People have found that exercises improves their mood. It is better to speak to your healthcare provider prior to beginning any new type of exercise or discuss what kind of exercise may be right for you.",
+			"Level1": ["stress"],
+			"Level2": ["exercise", "physical activities"],
+			"Level3": ["reduce", "help", "improve", "manage", "relief"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q092"
+		}, {
+			"Questions": ["Is it imortant to manage my childs stress?", "How important is managing stress in children?"],
+			"Answer": "It is important for you to learn how to help your child manage stress. ",
+			"Level1": ["stress", "stress management", "manage"],
+			"Level2": ["childen", "child"],
+			"Level3": ["importance"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q093"
+		}, {
+			"Questions": ["What can I do to reduce the stress levels of my child?", "How do I manage stress levels in my child?", "How can I help my child manage his stress?", "What strategies should I use to manage my child\u0027s stress?"],
+			"Answer": "Teach strategies such as deep breathing, visualization and calming self-talk to your child for managing stress",
+			"Level1": ["stress", "stress management", "manage"],
+			"Level2": ["child", "children"],
+			"Level3": ["reduce", "manage", "help", "relief"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q094"
+		}, {
+			"Questions": ["How does deep breathing help in decreasing stress levels in my child?", "How to help my child deal with stress?", "What are some deep breathing techniques that my child can follow for reducing stress?", "Will breathing exercises help reduce stress of my child?", "What techniques should I teach my child to manage his stress?"],
+			"Answer": "Some strategies to help stress management in children include blowing out birthday candles and blowing up baloons. Ask your child to hold up one hand and assume fingers as candles. Ask your child to blow out each candle with a long, slow breath and slowly curling down one finger at  time while blowing. For blowing up balloons, ask your child to cup hands together and hold them in fron of the mouth similar to blowing a balloon. Ask the child to take a deep breath and expand the hands slowly while exhaling similar to inflating a balloon. After finishing, ask the child to take a deep breath in and slowly close the hands back together similar to deflating the balloon. Your child has to repeat this 5 times.",
+			"Level1": ["stress"],
+			"Level2": ["breathing"],
+			"Level3": ["techniques", "ways", "methods"],
+			"Level4": ["reduce", "manage", "help", "relief"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q095"
+		}, {
+			"Questions": ["What is visualization?", "How does visualization help in relaxing my child?", "What is the visualisation technique used for relieving stress?", "Can you describe the visualisation technique?"],
+			"Answer": "Visualization may help in managing your stressful child. Ask your child to close the eyes and imagine being in a beautiful, peaceful and safe place. Later, ask your child to take a few deep, full breaths and think about how it feels, smells and sounds being in that special place. Encourage your child to focus on breathing in fresh energy and oxygen with each inbreath. Encourage your child to to think of each breath as releasing any tension, discomfort or distraction with each exhale.",
+			"Level1": ["visualization"],
+			"Level2": ["meaning", "definition", "explain", "define", "describe"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q096"
+		}, {
+			"Questions": ["What is self-talk?", "How does self-talk calm my child?", "How can I help my child get rid of negative thoughts?", "How can I teach self-talk to my child?", "How to change the negative thoughts of my child?"],
+			"Answer": "Self-talk is another strategy for managing stress in your child. It is a dialogue inside the head in response to a situation. Negative self-talk can make it hard to cope with physical and emotional pain. Hence, encourage your child to replace negative thoughts with calming and soothing ones so that your child feels more in control of the emotions.",
+			"Level1": ["self talk"],
+			"Level2": ["meaning", "definition", "explain", "define", "describe"],
+			"Level3": ["calm", "reduce"],
+			"Level4": ["negative thoughts"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q097"
+		}, {
+			"Questions": ["Can I have examples of negative thoughts?", "How do negative thoughts sound like?"],
+			"Answer": "Some examples of negative thoughts include - This is hopeless, There\u0027s nothing I can do, etc. These negative thoughts may be replaced by \u0027This may be difficult, but it is something I can manage\u0027.",
+			"Level1": ["negative thoughts"],
+			"Level2": ["examples", "sound", "types"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q098"
+		}, {
+			"Questions": ["I fear progression of disease despite treatment for chronic iron overload.", "How long do I have to wait until I feel better with iron overload?", "Does it really take so long to reduce iron overload in my body?", "Is treatment to chronic iron overload for a life time?                                                                       I am taking treatment for iron overload for so long. How certain are the outcomes?"],
+			"Answer": "One of the difficult things about having chronic iron overload is that there is a lot of uncertainty. It is difficult to feel the results of therapy as it is hard to know if iron levels are reducing or if there is organ damage. Hence, it is important to speak to your healthcare provider and focus on things under your control such as taking medicine and attending monitoring appointments.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["treatment", "therapy"],
+			"Level3": ["length", "long", "duartion"],
+			"Level4": ["reduce", "better", "progression"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q099"
+		}, {
+			"Questions": ["How can I overcome uncertainty of my disease?", "Are there any strategies to overcome fear and uncertainty about disease progression?", "What should I focus on to minimise the distress of my condition and be healthy?", "What strategies should I use to control iron overload and be healthy?"],
+			"Answer": "It is important to focus on what is under your control such as taking medicines, attending monitoring appointments, reaching out to friends or family and using coping strategies. These strategies may improve overall health and well being.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["uncertainity", "distress"],
+			"Level3": ["reduce", "minimise", "rid"],
+			"Level4": ["ways", "techniques", "methods"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q100"
+		}, {
+			"Questions": ["I am concerned about blood transfusions and feel depressed about the future.", "I am worried and fear blood transfusions.", "Are repeated blood transfusions worth of the benefits?", "I feel concerned about the quality of blood that I have taken frequently?", "Frequent blood transfusions are constant reminders of my disease. I am worried.", "What are the challanges with frequent blood transfusions?"],
+			"Answer": "Blood transfusions can be a life-interrupting challenge and can cause worry and fear among some people. Some people are concerned regarding the quality of blood while others feel that transfusions are frequent reminders of the disease and feel depressed about the future. It is important to focus on the health benefits of transfusions.",
+			"Level1": ["blood transfusions"],
+			"Level2": ["worry", "fear", "concern", "challenges", "benefits"],
+			"Level3": ["depress", "reminder"],
+			"Level4": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q101"
+		}, {
+			"Questions": ["I am worried about pain of sickle cell disease.", "The stigma of sickle cell disease makes it difficult for me to approach healthcare providers for pain management.", "Do I really need long term medication for pain management in sickle cell disease?", "I feel concerned over my pain medications. Where can I get some advice?"],
+			"Answer": "Some sickle cell disease patients worry about the negative impression that exists surrounding pain management. It is important not to let concerns about stigma keep you from making good choices and getting the pain management you need. It is recommended you communicate with your healthcare provider during early phase of sickle cell crisis for better understanding of your condition and the need for taking strong pain medication. Getting connected with support groups will be helpful.",
+			"Level1": ["sickle cell disease", "sickle cell anemia", "anaemia", "scd"],
+			"Level2": ["pain", "pain management", "pain medicines"],
+			"Level3": ["stigma", "worry", "concern", "distress"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q102"
+		}, {
+			"Questions": ["What reaction can I expect from my son/daughter/child after getting diagnosed with iron overload?", "How would my child react after getting diagnosed with Iron overload?"],
+			"Answer": "People may feel angry about the diagnosis of iron overload and sometimes people react by feeling that it just isn’t fair",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["diagnosis"],
+			"Level3": ["reaction", "react"],
+			"Level4": ["child", "children"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q103"
+		}, {
+			"Questions": ["Is it ok to be angry with iron overload?", "I feel upset about my chronic iron overload."],
+			"Answer": "It is okay for you to feel upset or angry about  chronic iron overload because you are right—it isn’t fair.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["anger", "upset", "sad", "distress", "depressed"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q104"
+		}, {
+			"Questions": ["What if I am angry or am upset with the diagnosis?", "I am upse and angry all the time.  what to do?", "I hope they diagnosed it right. Did they?", "I need some support / help here. Can someone?"],
+			"Answer": "If you are experiencing anger, talk with your health care provider about it. He/she can direct you to resources or support that may help [you/your child] learn how to manage these feelings.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["diagnosis"],
+			"Level3": ["anger", "upset", "sad", "distress", "depressed"],
+			"Level4": ["support", "help"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q105"
+		}, {
+			"Questions": ["What if my child is angry/upset with the diagnosis?", "I don’t know how my child will react to this diagnosis?", "Who can help if my child is angry / upset?", "How to calm my child when he is angry?"],
+			"Answer": "If your child is  experiencing anger, talk with your health care provider about it. He/she can direct you to resources or support that may help [you/your child] learn how to manage these feelings.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["reaction", "react"],
+			"Level3": ["child", "children", "kids", "son", "daughter"],
+			"Level4": ["anger", "upset", "sad", "distress", "depressed"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q106"
+		}, {
+			"Questions": ["How to curb my anger due to iron overload?", "How do I manage my feelings about iron overload?", "How to curb my child\u0027s anger due to iron overload?", "Is distraction a good strategy to curb my child\u0027s anger?", "How do I divert my child\u0027s attention to some thing else?", "Is distraction a good strategy to curb my anger?"],
+			"Answer": "Doing a distracting activity, like a hobby that you/child enjoy, may help to decrease your anger.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["feelings", "anger", "upset"],
+			"Level3": ["manage", "management", "reduce", "relive", "curb", "divert", "distract"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q107"
+		}, {
+			"Questions": ["What kind of activities help decrease my anger?", "How to reduce my anger?", "How should I manage my anger?", "Do physical activities help reduce my anger?"],
+			"Answer": "• Breathing exercise under Stress/Worry/Fear/Uncertainty\n• Physical activity under Stress/Worry/Fear/Uncertainty\n• Some people find that writing down their angry thoughts and feelings may also help to lessen those feelings.",
+			"Level1": ["feelings", "anger", "upset"],
+			"Level2": ["activities", "exercises"],
+			"Level3": ["ways", "methods", "techniques"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q109"
+		}, {
+			"Questions": ["How will iron overload affect my relationship with my partner/spouse?", "I don’t know if my treatment will affect my relationship with my partner?", "I don’t know how my partner would react to my condition?"],
+			"Answer": "Sometimes relationships may grow stronger when managing a disease or treatment. But other times, relationships may be strained.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["relation", "relatiionship"],
+			"Level3": ["partner", "spouse"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q110"
+		}, {
+			"Questions": ["How to manage my relationship with my partner/spouse?", "I need to explain my condition to my partner.", "How do I talk to my spouse/ partner?", "I need to be open with my partner."],
+			"Answer": "Try to talk things over with your spouse/partner and to try to be open and honest.",
+			"Level1": ["relation", "relatiionship"],
+			"Level2": ["manage", "management", "reduce", "relive", "curb", "divert", "distract"],
+			"Level3": ["talk", "open", "explain"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q111"
+		}, {
+			"Questions": ["It is difficult for me/my spouse to talk about iron overload. What to do?", "How do I approach my partner over my iron overload?", "How do I talk with my spouse on iron overload?"],
+			"Answer": "Consider talking to your health care provider about it so that he/she can refer you to the appropriate resources.",
+			"Level1": ["partner", "spouse"],
+			"Level2": ["approach", "\u0027talk", "open", "explain"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q112"
+		}, {
+			"Questions": ["How much information should i give my children about my condition?", "How much should I share with my kids about my condition?", "Should I talk to my children about my iron overload?", "Should I really talk to my kids about my condition?", "Do I limit my talk with my children about my iron overload?"],
+			"Answer": "Age is an important factor in deciding what to share: younger children will not need a lot of detailed information whereas older children (ages 8-10) and teens will need more information",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["information", "share", "talk"],
+			"Level3": ["child", "children", "kids"],
+			"Level4": ["limit", "how much"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q113"
+		}, {
+			"Questions": ["How to explain my condition to my child?", "Do I need to be honest about my condition with my child / children?", "Should I explain status of my health to my children?", "Will my children understand my condition?"],
+			"Answer": "It’s better to be honest and explain to your child/children what is happening in a way they might understand.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["information", "share", "talk", "explain"],
+			"Level3": ["ways", "methods", "how much"],
+			"Level4": ["child", "children", "kids"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q114"
+		}, {
+			"Questions": ["What should I tell my child about iron overload?", "To what extent I should talk to my child about my iron overload?", "How to explain my condition to my children?"],
+			"Answer": "Try to explain chronic iron overload and its treatment to your child in a way that will not make him/her feel scared.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["child", "children", "kids"],
+			"Level3": ["extent", "what", "how much"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q115"
+		}, {
+			"Questions": ["My child has iron overload.How much information should I give my child about his/her condition?", "Should I educate my child about iron overload?", "Should I discuss about iron overload with my child?", "When is the right time to discuss about iron overload with my child?"],
+			"Answer": "Your child will one day have to manage [primary condition] and chronic iron overload on his/her own, so make sure he/she understands the reason for taking EXJADE and the importance of monitoring iron levels.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron", "ironoverload", "condition", "disease"],
+			"Level2": ["child", "children", "kids"],
+			"Level3": ["educate", "discuss", "share"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q116"
+		}, {
+			"Questions": ["Why do I feel upset with my friends and family providing help?", "Even though my friends and family are helpful its too annoying", "Too much of advice on how to go about my condition.Do they / family really care?"],
+			"Answer": "Sometimes, family or friends who mean well may offer help or provide advice that ends up being upsetting.A reminder or advice that is intended to be helpful might seem like nagging.It is important to remember that friends and family care.",
+			"Level1": ["friends", "family"],
+			"Level2": ["help", "advice"],
+			"Level3": ["annoyed", "irritated", "too much", "upset", "anger"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q117"
+		}, {
+			"Questions": ["How to prevent my friends/family nagging/bothering me on iron overload?", "Can I be upfront with those with advice?", "should I be brutally honest with people about their advice?", "How to tell my well wishers what I need now.", "How to avoid my friends being overly helpful?"],
+			"Answer": "One way to try to prevent this situation is to be as specific as possible about what is helpful and about what is needed. You may wish people would just know what you need, but sometimes people need to be told directly.",
+			"Level1": ["friends", "family", "well wishers"],
+			"Level2": ["help", "advice"],
+			"Level3": ["avoid", "prevent", "upfront", "brutal"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q118"
+		}, {
+			"Questions": ["Is it normal to worry that chronic overload will impact/affect my work?", "Will iron overload affect my work?", "Should I be worried about my work so that I have iron overload?"],
+			"Answer": "It is normal to sometimes worry about how having iron overload and managing it may impact your work.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["impact", "effect", "affect"],
+			"Level3": ["work", "job"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q119"
+		}, {
+			"Questions": ["I feel my job is more important than managing my health. What to do?", "How should I manage my work on monitoring days?", "My work is important, how should I attend an appointment?"],
+			"Answer": "Keep in mind that anything you might do to take care of your health, such as attending monitoring appointments, is important because it may help you feel better and may allow you to be more productive at your job.",
+			"Level1": ["work", "job"],
+			"Level2": ["monitoring", "appointments"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q120"
+		}, {
+			"Questions": ["What do I tell at my workplace regarding iron overload??", "Should I dicuss about my iron overload at my work place?", "I am not sure if I am comfortable with discussing my health at work place?"],
+			"Answer": "You need to figure out what you will feel comfortable discussing.  It may help to think about how you would answer if someone asked you if you were having health issues.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["work", "job", "work place", "office"],
+			"Level3": ["discuss", "describe", "explain", "say", "tell"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q121"
+		}, {
+			"Questions": ["What are the factors that effect what I have to say at my workplace on iron overload?", "How should I decide if I need to disclose about my health / iron overload at my work place?", "I am not sure if I need to discuss about my health issue with my collegues."],
+			"Answer": "A lot depends on your relationship with your employer and coworkers, your personal preferences, and the kind of environment in which you work.",
+			"Level1": ["work", "job", "work place", "office"],
+			"Level2": ["discuss", "describe", "explain", "say", "tell", "disclose"],
+			"Level3": ["factors"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q122"
+		}, {
+			"Questions": ["How to get more information from my physcian on iron overload?", "How to make most with my appoinement with health care provider?", "Should I plan my appointments ahead of time?"],
+			"Answer": "Preparing for your appointments ahead of time and taking an active role may help you to get the most out of your appointments  ",
+			"Level1": ["appointments"],
+			"Level2": ["more information", "info", "most", "plan"],
+			"Level3": ["healthcare provider"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q123"
+		}, {
+			"Questions": ["How to be better informed on iron overload?", "Should I educate myself on iron overload?", "Will self education help?", "Can I educate my child over iron overload?", "Should I actively seek information on iron overload?"],
+			"Answer": "Doing your own research on [primary condition], chronic iron overload, and their treatments is one way that you can try to become better informed and take a more active role in [your/your child’s] care.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["educate", "better informed", "self-education", "seek"],
+			"Level3": ["actively"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q124"
+		}, {
+			"Questions": ["What is the advantage of me searching on iron overload?", "Will my self education help in any way?"],
+			"Answer": "Doing research on your own allows you to go at your own pace and to focus on the things that you want to know more about.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["self research", "search", "own"],
+			"Level3": ["advantage", "benefits"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q125"
+		}, {
+			"Questions": ["I don’t understand the terms my physician is using/talking about. What to do?", "How can i educate myself about iron overload?", "How do i familirise with clinical terms of iron overload?", "How can I understand more about terms that clinician use?"],
+			"Answer": "Doing your own research will help you get more familiar with the terms your health care provider uses when talking about your condition",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["clinical terms", "about"],
+			"Level3": ["familiarize", "undersatand", "educate", "know more"],
+			"Level4": ["unfamiliar", "cannot", "do not"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q126"
+		}, {
+			"Questions": ["How to get more information on iron overload from my physician?", "How should I prepare for my appointment with my health care provider?", "Should I make notes of questions that I have when attending appoinement?", "I have lot of questions about iron overload. How do I approach my physician?"],
+			"Answer": "It may be helpful to write down questions about [primary condition] and chronic iron overload for your health care provider as they come up during your research, so that you can get answers at your next appointment.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron"],
+			"Level2": ["information", "questions", "doubts", "queris"],
+			"Level3": ["health care provider", "doctor", "physician"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q127"
+		}, {
+			"Questions": ["I read about a different way of treating iron overload. Can I change my treatment?", "I read recent article and I feel I should change my treatment.", "Can i take an alternative medicine for iron overload?"],
+			"Answer": "Regardless of what you may read, you should not make any changes to your treatment plan without speaking to your health care provider first",
+			"Level1": ["treatment", "therapy", "treatment regimen"],
+			"Level2": ["alternative", "holistic", "different", "change", "new"],
+			"Level3": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q128"
+		}, {
+			"Questions": ["How to remember everything that I want to discuss with my health care provider?", "Whats the best way to make most of my appointment?", "What is the best way to prepare for my child\u0027s apoointment?", "How should I approach my appointment?", "I have queries. How should I ask my clinician?"],
+			"Answer": "Write down specific questions that you may have ahead of time and then take the list to your next appointment.",
+			"Level1": ["appointment"],
+			"Level2": ["discussion", "quesries", "questions", "information"],
+			"Level3": ["best way", "approach", "remember"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q129"
+		}, {
+			"Questions": ["I get confused with what questions to ask from a list I made. What to do?", "It is little difficult to know what to ask first at the appointment?", "How to prioritise my question when with health care provider?", "How to order my questions to clinician?"],
+			"Answer": "Put your questions and concerns in order of importance on the list of questions",
+			"Level1": ["questions", "concerns", "queries", "doubts"],
+			"Level2": ["confusion", "difficult", "fuddle"],
+			"Level3": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q131"
+		}, {
+			"Questions": ["How to take an active role during my child\u0027s appointment?", "How can I be more precise during my child\u0027s appointment ?", "Will specific questions help get more out of my appointment?", "How do I play active role in my appointment with health care provider?"],
+			"Answer": "Having specific questions prepared will help you to take an active role in the appointment.",
+			"Level1": ["appointment", "childs appointment"],
+			"Level2": ["active role"],
+			"Level3": ["play", "do", "have"],
+			"Level4": ["specific", "particular", "precise"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q132"
+		}, {
+			"Questions": ["How to discuss managing side effects with my physician?", "How do I present my side effects with my physician?", "Will systematic record of my symptoms and side effects help during my appointment?", "Is keeping log of my symptoms and side effect useful?"],
+			"Answer": "keep a record or log of symptoms and side effects so that you can share them with your health care provider at appointments. ",
+			"Level1": ["side effects"],
+			"Level2": ["log", "records", "order"],
+			"Level3": ["discuss", "present", "give"],
+			"Level4": ["clinician", "healthcare provider", "doctor", "physician"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q133"
+		}, {
+			"Questions": ["How does providing a log of symptoms help my physician/doctor?", "Will log of my symptoms help in making decisions?", "Is record my symptoms and side effects a good record to keep?", "How are my records help health care provider?"],
+			"Answer": "This may help with managing side effects because it will give your health care provider details that can help guide treatment decisions.",
+			"Level1": ["log", "records", "order", "register"],
+			"Level2": ["help", "aid", "benefit", "advantage"],
+			"Level3": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q134"
+		}, {
+			"Questions": ["How to contact my physician in case of Side effects?", "What is the best way to connect my physician during emergency of side effects?", "Can I consult my physician over phone when in need?", "Whats the quickest way to share important information to my physician?"],
+			"Answer": "Ask your health care provider what the best phone number is to call the office so you can reach him/her to share any immediate side effect information.",
+			"Level1": ["ways", "methods", "how to"],
+			"Level2": ["consult", "connect", "contact"],
+			"Level3": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level4": ["side effects", "emergency"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q135"
+		}, {
+			"Questions": ["How to ask my queries/doubts on iron overload to my physician?", "Should I give preface to my question at the beginning of my appointment?", "How do I open my appointment with physician?"],
+			"Answer": "At the beginning of the appointment, let your health care provider know that there are things that you would like to discuss so that it allows him/her to plan the appointment so that your concerns can be addressed.",
+			"Level1": ["appointment"],
+			"Level2": ["opening", "preface", "introduction"],
+			"Level3": ["doubts", "queries"],
+			"Level4": ["clinician", "healthcare provider", "doctor", "physician"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q136"
+		}, {
+			"Questions": ["How to remember what the doctor says?", "What is the best way to remember what my doctor said?", "How do I summarise my interaction with physician?", "Can I take notes of my discussion with Doctor?"],
+			"Answer": "Taking notes can help you to remember what was discussed and the information and/or instructions that were provided.",
+			"Level1": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level2": ["notes", "dicussion", "interaction", "summay"],
+			"Level3": ["remember", "remind", "recall", "recognise", "get"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q137"
+		}, {
+			"Questions": ["I am concerned about Side effects caused due to iron overload medications what to do?", "How should I express my concerns over side effects of iron overload treatment during my appointment?", "Should I discuss with my doctor about the side effects?"],
+			"Answer": "If you are concerned about side effects, it is important to speak up and ask questions about possible or occurring side effects during your appointment.",
+			"Level1": ["side effects"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["concerns", "worry", "distress"],
+			"Level4": ["express", "describe", "explain", "speak", "talk"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q138"
+		}, {
+			"Questions": ["I am concerned about Side effects in my child caused due to iron overload medications what to do?", "How should I express my concerns over side effects of iron overload treatment of my child?", "Should I discuss with my doctor about the side effects that my child may have?"],
+			"Answer": "If you are concerned about side effects, it is important to speak up and ask questions about possible or occurring side effects during your child\u0027s appointment.",
+			"Level1": ["side effects"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["concerns", "worry", "distress"],
+			"Level4": ["childs", "children", "kids", "son", "daughter"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q139"
+		}, {
+			"Questions": ["What to do if I am concerned about my childs treatment progress?", "How do I moniter progress of my child\u0027s treatment?", "Should I schedule regular lab tests and consultations for my child?", "Is it ok if I ask about my concerns related to progress of my child\u0027s treatment during appointment?"],
+			"Answer": "If you have concerns about monitoring treatment progress, it is important to speak up and ask questions about your child’s lab work and monitoring schedule during your appointment.",
+			"Level1": ["treatment progress"],
+			"Level2": ["concerns", "worry", "distress"],
+			"Level3": ["childs", "children", "kids", "son", "daughter"],
+			"Level4": ["appointment", "consultation"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q140"
+		}, {
+			"Questions": ["What to do if I am concerned about my treatment progress?", "How do I moniter progress of my treatment?", "Is it ok if I ask about concerns related to progress of my treatment during my appointment?"],
+			"Answer": "If you have concerns about monitoring treatment progress, it is important to speak up and ask questions about your lab work and monitoring schedule during your appointment.",
+			"Level1": ["treatment progress"],
+			"Level2": ["concerns", "worry", "distress"],
+			"Level3": ["appointment", "consultation"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q141"
+		}, {
+			"Questions": ["What should I focus on while talking to my physician on monitoring the treatment progress?", "What should be my primary goal of discussion with my physician?", "Should monitoring schedule and its reasons be my primary agenda in meeting with doctor?"],
+			"Answer": "A primary goal of your conversations with your health care provider should be to make sure you understand the monitoring schedule and also the reasons for the monitoring.",
+			"Level1": ["discussions", "agenda", "talk", "scheduele"],
+			"Level2": ["monitoring"],
+			"Level3": ["goals", "focus", "attention"],
+			"Level4": ["clinician", "healthcare provider", "doctor", "physician"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q142"
+		}, {
+			"Questions": ["How to discuss treatment progress with my physician?", "What is the best way to discuss progress of my treatment with doctor?"],
+			"Answer": "One strategy is to keep a record or log of your results so that you can share them with your health care provider at appointments. This may help you discuss details about your treatment progress with your health care provider, and can help guide treatment decisions.",
+			"Level1": ["treatment progress"],
+			"Level2": ["express", "describe", "explain", "speak", "talk"],
+			"Level3": ["way", "method", "techniques"],
+			"Level4": ["best", "better"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q143"
+		}, {
+			"Questions": ["Is it ok to feel nervous about asking questions to the physician?", "I feel nervous to talk with my physician.", "Asking questions makes me nervous while with my Physician."],
+			"Answer": "It is understandable that you might feel nervous about asking questions or understanding/remembering information",
+			"Level1": ["questions", "queries", "doubts", "talk", "speak"],
+			"Level2": ["nervous", "scared", "fear"],
+			"Level3": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q144"
+		}, {
+			"Questions": ["What to do if I feel my physician is not helpful?", "How is my physician helping me?", "Will my health care provider help me in managing my condition?"],
+			"Answer": "Keep in mind that your health care provider wants to help you and provide the information you need to manage your condition and take your medicine as prescribed.",
+			"Level1": ["clinician", "healthcare", "health care provider", "doctor", "physician"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["unhelpful", "not helping", "incorrect"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q145"
+		}, {
+			"Questions": ["What to do if I feel my child\u0027s physician is not helpful?", "How is my physician helping my child?", "Will my health care provider help me in managing my child\u0027s condition?", "Is the information and medicines provided by physician help my child?"],
+			"Answer": "Keep in mind that your child\u0027s health care provider wants to help your child and provide the information you need to manage your child\u0027s condition and give your child the medicine as prescribed.",
+			"Level1": ["address", "approach", "discern"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q146"
+		}, {
+			"Questions": ["How can my health care provider address my concerns?", "Will my physician help address my concerns?", "How will my health care provider address my issues?"],
+			"Answer": "The only way that your health care provider can fully address your concerns is if you speak up and ask questions.",
+			"Level1": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level2": ["concerns", "worry", "distress", "questions", "queries", "doubts", "talk", "speak"],
+			"Level3": ["address", "approach", "discern"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q147"
+		}, {
+			"Questions": ["What can I do if I feel nervous to talk to my physician?", "How do I attend my appoinment when I am so anxious?", "I am worried about what should I speak with my physician. Can I take my friend / family with me?"],
+			"Answer": "If you are feeling nervous, it may be helpful to ask a family member or close friend to come with you to your next appointment.",
+			"Level1": ["nervous", "scared", "fear", "anxious"],
+			"Level2": ["speak", "talk", "attend"],
+			"Level3": ["appointments", "consultations"],
+			"Level4": ["clinician", "healthcare provider", "doctor", "physician"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q148"
+		}, {
+			"Questions": ["How can taking a family member or friend for an appoinment help me?", "Will it be useful If my friend / family attend the appointment with me?", "I don’t remember what my physician say / instructs. Can I take my friend / family with me for the appointment?", "I dont know if my friend / family can help me with the appointment."],
+			"Answer": "The friend or family member can help you ask questions and remember what the health care provider said. ",
+			"Level1": ["appointment"],
+			"Level2": ["family", "friends", "relatives", "well wishers"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q149"
+		}, {
+			"Questions": ["How to remember what the doctor says?", "Its difficult to remember what my doctor says. Can I take notes?", "I really don’t know how will I remember everything that my doctor says / instructs.", "Is there a better way to remember what my health care provider says?"],
+			"Answer": "It may be helpful to bring a paper and pen to your appointment so you can take notes on what your health care provider says.",
+			"Level1": ["instructions", "notes", "interactions", "discussions"],
+			"Level2": ["remember", "recall", "remind"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q150"
+		}, {
+			"Questions": ["How do I make the most out of my appointment?", "I only meet my physician / doctor once a month. How to make most out of this appointment?", "What should I do to make my appointment more fruitful?", "I really want my physician to address my concerns. How should I plan my appointment?", "I dont want to miss out on my queries. How should I approach my appointment?"],
+			"Answer": "To help you make the most of your appointment, it may be helpful to prioritize what you want to talk about in the appointment. At the beginning of the appointment, let your health care provider know that there are things that you would like to discuss. This allows him/her to plan the appointment so that your concerns can be addressed.",
+			"Level1": ["appointment"],
+			"Level2": ["most"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q151"
+		}, {
+			"Questions": ["What to do when I cant understand what my healthcare provider is saying?", "Its difficult to understad what my doctor / physician says. What should I do?", "My doctor / physician / health care provider use too many jargons. I dont understand most of it.", "I dont know what my doctor says. How do I tell him?", "How do I confirm what my doctor says and what I understood?", "Can I interrupt my doctor while counselling?"],
+			"Answer": "Try letting your health care provider know if/when you do not understand any part of the information that he/she has given you. You can also repeat back what your health care provider says in your own words to make sure that you understood.",
+			"Level1": ["instructions", "notes", "interactions", "discussions"],
+			"Level2": ["unable", "cannot", "do not"],
+			"Level3": ["discern", "fathom", "figure", "understand"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q152"
+		}, {
+			"Questions": ["Will EXJADE prevent iron overload?", "Can I prevent iron overload by taking EXJADE?", "I will just use EXJADE and prevent iron overload.", "I guess I can use EXJADE for iron overload prevention."],
+			"Answer": "EXJADE is indicated for the treatment – not the prevention – of chronic iron overload.",
+			"Level1": ["exjade"],
+			"Level2": ["prevent", "stop", "block", "cure"],
+			"Level3": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q153"
+		}, {
+			"Questions": ["Why didn’t my physician treat iron overload with EXJADE from the start?", "Why not EXJADE in first place?", "What made my physician prescribe EXJADE?", "Was EXJADE approved for iron overload when I was diagnosed?", "On what basis my physician prescribed me EXJADE?"],
+			"Answer": "Your health care provider likely made his/her decision on when to treat your chronic iron overload based on the drug’s approved use, as well as other factors that go into making treatment decisions.",
+			"Level1": ["exjade"],
+			"Level2": ["prescribe", "prescription", "give", "decision", "choice", "choose"],
+			"Level3": ["first", "start", "initial"],
+			"Level4": ["clinician", "healthcare provider", "doctor", "physician"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q154"
+		}, {
+			"Questions": ["I feel my physcician is underestimating my condition. What to do?", "I think my physician need to do more about my condition.", "I don’t know if my physician understand what I am suffering with.", "My physician isnt doing enough to treat me. What should I do?"],
+			"Answer": "If you feel your health care provider is underestimating the impact of your condition on your life, it is important to share your point of view. Explain to the health care provider that you struggle with your condition. ",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["underestimate", "slight", "put down", "suffer"],
+			"Level3": ["clinician", "healthcare provider", "doctor", "physician"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q155"
+		}, {
+			"Questions": ["What will happen if I voice my concerns to my physician regarding my condition?", "If I raise the concerns about my condition, will it help?", "What should I do to get more help from my health care provider?", "Will explaining my concerns help get attention from my physician?"],
+			"Answer": "When you explain your concerns to your health care provider, he/she may be more understanding and be better able to help you.",
+			"Level1": ["concerns", "burden", "worry"],
+			"Level2": ["voice", "explain", "defer", "describe"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q156"
+		}, {
+			"Questions": ["Is it important to treat iron overload along with my thalassemia?", "How do I get balanced treatment for my thalassemia and iron overload?", "How to manage both thalassemia and iron overload?"],
+			"Answer": "While thalassemia is still the main concern, chronic iron overload is also very important to manage. As the patient, it is up to you to work with your health care\nprovider to help make sure both conditions are managed",
+			"Level1": ["thalassemia", "thalassaemia"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["treatment", "therapy", "management"],
+			"Level4": ["importance", "crucial", "essential", "necessary"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q157"
+		}, {
+			"Questions": ["Is it important to treat iron overload along with my sickle cell anaemia?", "What to manage first, is it sickle cell anemia or iron overload?", "Will my physician know what to treat first?"],
+			"Answer": "While sickle cell anaemia is still the main concern, chronic iron overload is also very important to manage. As the patient, it is up to you to work with your health care provider to help make sure both conditions are managed",
+			"Level1": ["sickle cell disease", "sickle cell anaemia", "sickle cell anemia", "scd"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["treatment", "therapy", "management"],
+			"Level4": ["importance", "crucial", "essential", "necessary", "priority"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q158"
+		}, {
+			"Questions": ["Is it important to treat iron overload along with my myelodysplastic syndrome?", "What should I be treated first, is it myelodysplastic syndrome or iron overload?", "Will be physician prioritise myelodysplastic syndrome or iron overload for the treatment?", "Whats more important to treat, is it myelodysplastic syndrome or iron overload?"],
+			"Answer": "While myelodysplastic syndrome is still the main concern, chronic iron overload is also very important to manage. As the patient, it is up to you to work with your health care provider to help make sure both conditions are managed",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level3": ["treatment", "therapy", "management"],
+			"Level4": ["importance", "crucial", "essential", "necessary", "priority"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q159"
+		}, {
+			"Questions": ["Is it important to treat iron overload along with my child\u0027s thalassemia?", "Will my child get balanced treatment for my thalassemia and iron overload?", "How to manage both thalassemia and iron overload for my child?"],
+			"Answer": "While thalassemia is still the main concern, chronic iron overload is also very important to manage. As the patient\u0027s care giver, it is up to you to work with your health care provider to help make sure both conditions are managed",
+			"Level1": ["iron overload", "iol", "iron level", "excess iron", "too much iron"],
+			"Level2": ["thalassemia"],
+			"Level3": ["treat", "treatment", "both", "balance", "priority"],
+			"Level4": ["child\u0027s"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q160"
+		}, {
+			"Questions": ["Is it important to treat iron overload along with my child\u0027s sickle cell anaemia?", "What to manage first for my child, is it sickle cell anemia or iron overload?", "Will my physician know what to treat first for my child?"],
+			"Answer": "While sickle cell anaemia is still the main concern, chronic iron overload is also very important to manage. As the patient\u0027s  care giver, it is up to you to work with your health care provider to help make sure both conditions are managed",
+			"Level1": ["iron overload", "iol", "iron level", "excess iron", "too much iron"],
+			"Level2": ["sickle cell anemia", "scd", "sickle cell disease"],
+			"Level3": ["treat", "treatment", "both", "balance", "priority"],
+			"Level4": ["child\u0027s"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q161"
+		}, {
+			"Questions": ["Is it important to treat iron overload along with my child\u0027s myelodysplastic syndrome?", "What should be treated first for my child, is it myelodysplastic syndrome or iron overload?", "Will be physician prioritise myelodysplastic syndrome or iron overload for my child\u0027s treatment?", "For my child, Whats more important to treat, is it myelodysplastic syndrome or iron overload?"],
+			"Answer": "While myelodysplastic syndrome is still the main concern, chronic iron overload is also very important to manage. As the patient\u0027s care giver, it is up to you to work with your health care provider to help make sure both conditions are managed",
+			"Level1": ["iron overload", "iol", "iron level", "excess iron", "too much iron"],
+			"Level2": ["myelodysplastic syndrome", "mds"],
+			"Level3": ["treat", "treatment", "both", "balance", "priority"],
+			"Level4": ["child\u0027s"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q162"
+		}, {
+			"Questions": ["Its hard to consider pain management due to the stigma associated with it. What can I do?", "I find it difficult through my experience of pain to take new medications.", "It is hard to forget what I went through. How to make up my mind?", "Is it worth to try new treatment knowing what I gone through?"],
+			"Answer": "I realize it may be hard, but try not to let concerns about stigma keep you from making good choices and getting the pain management you need.",
+			"Level1": ["pain management", "pain"],
+			"Level2": ["stigma", "new medication", "medication", "new treatment", "treatment", "scary"],
+			"Level3": ["experience", "hard", "difficult"],
+			"Level4": ["to make up mind"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q163"
+		}, {
+			"Questions": ["How to avoid the stigma associated with pain management of sickle cell anaemia?                                                                                                                   How do I get over with what I went through with anemia?", "It is scary to remember the pain of sickle cell crisis.", "How to manage the stigma and get on with new treatment?"],
+			"Answer": "One way to help avoid the stigma is to seek care as soon as you feel/sense a sickle cell crisis beginning. \n",
+			"Level1": ["sickle cell anemia", "scd", "anemia", "anaemia", "sickle cell anaemia"],
+			"Level2": ["pain management", "pain", "manage", "overcome", "get-over"],
+			"Level3": ["stigma", "new medication", "medication", "new treatment", "treatment", "scary"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q164"
+		}, {
+			"Questions": ["Why should I seek care as soon as I sense a sickle cell crisis?", "Will early communication with my physician about my sickel cell crisis help?"],
+			"Answer": "The reason for this is that during the early (prodromal) phase of sickle cell crisis, you may be better able to communicate with the health care provider about your condition.",
+			"Level1": ["sickle cell crisis"],
+			"Level2": ["seek", "consult", "early communication"],
+			"Level3": ["care", "physician", "doctor"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q165"
+		}, {
+			"Questions": ["How will it help if I take help as soon as I sense/feel sickle cell crisis ?", "How early discussion about pain control of my sickle cell crisis help?"],
+			"Answer": "This may help to avoid the stigma associated with taking strong pain medication.",
+			"Level1": ["sickle cell crisis"],
+			"Level2": ["help", "pain control"],
+			"Level3": ["discussion", "early"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q166"
+		}, {
+			"Questions": ["Is there any other way to avoid the pain management stigma other than seeking care?", "How will I know what others feel about pain management stigma?", "Is there any one else like me who feel stigma of pain management?", "Where do I get help to know others with similar condition?"],
+			"Answer": "It is helpful to connect with others who might have similar feelings through a support group.",
+			"Level1": ["pain management", "pain"],
+			"Level2": ["stigma"],
+			"Level3": ["avoid"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q167"
+		}, {
+			"Questions": ["Do people usually lose motivation to stay on treatment?", "I lost motivation for my treatment. Is it normal?", "I find it difficult to carry on with my treatment.", "Am I alone to feel demotivated about my health and treatment?"],
+			"Answer": "It’s not unusual for people with health concerns to lose motivation for staying on treatment.",
+			"Level1": ["treatment", "medication", "health"],
+			"Level2": ["motivation", "stay", "continue"],
+			"Level3": ["lost", "lose", "diffcult", "carry-on"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q168"
+		}, {
+			"Questions": ["What to do if I am concerned about starting EXJADE?", "I don’t know if EXJADE will work for me?", "Whom should I talk about starting EXJADE?", "Before I start, I need to know more about EXJADE."],
+			"Answer": "Talking about it may help you think through the pros and cons of starting EXJADE as prescribed by your health care provider.",
+			"Level1": ["exjade"],
+			"Level2": ["intiation", "starting", "work", "need"],
+			"Level3": ["concern", "know", "before", "talk"],
+			"Level4": ["whom", "who"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q169"
+		}, {
+			"Questions": ["Is it ok to be concerned before starting my medications?", "I always have lot of questions when I take new medicines. Is it ok?", "I need to know all about my new medicine."],
+			"Answer": "When starting or continuing to take medicine, it is very normal to have questions about why it’s being prescribed and how it will benefit you.",
+			"Level1": ["exjade", "new medicines"],
+			"Level2": ["concern", "know", "questions"],
+			"Level3": ["intiation", "starting", "work", "need"],
+			"Level4": ["occur", "is it ok", "have", "always", "comes"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q171"
+		}, {
+			"Questions": ["Whom can I ask questions on taking EXJADE?", "Who can tell me better about starting EXJADE?", "Can ask everything about EXJADE to my health care provider?", "Can any one counsel me about EXJADE?"],
+			"Answer": "Your health care provider is the best person to answer those questions. I encourage you to speak openly and honestly with your health care provider about this because it may be easier to commit to taking EXJADE when you understand what to expect from that medicine.",
+			"Level1": ["exjade"],
+			"Level2": ["questions", "initiation"],
+			"Level3": ["healthcare provider", "doctor"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q172"
+		}, {
+			"Questions": ["How to be motivated to take my medication?", "What would motivate me to take new medication?"],
+			"Answer": "It can be easier to make the time and find the motivation for a new routine like taking your medicine when you have a strong sense of why it is important.",
+			"Level1": ["motivation", "encourage"],
+			"Level2": ["medicine", "medication", "exjade"],
+			"Level3": ["continue", "stay"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q173"
+		}, {
+			"Questions": ["How to be motivated to give my child medication?", "Where do I find motivation to treat my child?", "Its my child who should be motivated."],
+			"Answer": "It can be easier to make the time and find the motivation for a new routine like giving  medicine to your child when you have a strong sense of why it is important.",
+			"Level1": ["medicines", "therapy", "treatment"],
+			"Level2": ["child", "children.son", "kid", "daughter"],
+			"Level3": ["motivation", "encouragement", "focused", "concentrate"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q174"
+		}, {
+			"Questions": ["How to be focused on treatment", "What is the best way to keep focus on the treatment?", "What will help me to remain focused and motivated?"],
+			"Answer": "To keep you motivated and focused on treatment, it can be helpful to make a list of things you are looking forward to.",
+			"Level1": ["medicines", "therapy", "treatment"],
+			"Level2": ["motivation", "encouragement", "focused", "concentrate"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q175"
+		}, {
+			"Questions": ["What if I don’t get treated for iron overload?", "What would happen if I don’t take treatment for my iron overload?", "Is iron overload serious enough?", "Sould I be concerned about my vitals with iron overload?", "If untreated, what damage should I expect with iron overload?", "Does iron overload needs a treatment?"],
+			"Answer": "Chronic iron overload is a serious condition that requires treatment. Too much iron in your body can cause damage to vital organs such as your heart and liver",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron"],
+			"Level2": ["untreated", "under treated", "not done"],
+			"Level3": ["vitals", "serious", "damage"],
+			"Level4": ["medicines", "therapy", "treatment"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q176"
+		}, {
+			"Questions": ["What if I leave both my thalassemia and iron overload untreated?", "Why is it important to treat both thalassemia and iron overload?", "Should I consider treating both thalassemia and iron overload?", "Should I treat only thalassemia and not iron overload?", "Should I treat only iron overloadand and not thalassemia?"],
+			"Answer": "If left undertreated, both can cause serious health problems, so it is just as important to treat your chronic iron overload as it is to treat thalassemia.",
+			"Level1": ["thalassemia", "thalassaemia"],
+			"Level2": ["chronic iron overload", "iron overload", "iron level", "too much iron", "appointments"],
+			"Level3": ["untreated", "under treated", "not done"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q177"
+		}, {
+			"Questions": ["What if I leave both my sickle cell anaemia and iron overload untreated?", "Why is it important to treat both sickle cell anaemia and iron overload?", "Should I consider treating both sickle cell anaemia and iron overload?", "Should I treat only sickle cell anaemia and not iron overload?", "Should I treat only iron overloadand and not sickle cell anaemia?"],
+			"Answer": "If left undertreated, both can cause serious health problems, so it is just as important to treat your chronic iron overload as it is to treat sickle cell anaemia.",
+			"Level1": ["sickle cell anemia", "scd", "anemia", "anaemia", "sickle cell anaemia"],
+			"Level2": ["untreated", "under treated", "not done"],
+			"Level3": ["chronic iron overload", "iron overload", "iron level", "too much iron", "appointments"],
+			"Level4": ["chronic iron overload", "iron overload", "iron level", "too much iron", "appointments"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q178"
+		}, {
+			"Questions": ["What if I leave both my myelodysplastic syndrome and iron overload untreated?", "Why is it important to treat both myelodysplastic syndrome  and iron overload?", "Should I consider treating both myelodysplastic syndrome  and iron overload?", "Should I treat only myelodysplastic syndrome and not iron overload?", "Should I treat only iron overloadand and not myelodysplastic syndrome?"],
+			"Answer": "If left undertreated, both can cause serious health problems, so it is just as important to treat your chronic iron overload as it is to treat myelodysplastic syndrome.",
+			"Level1": ["mds", "myelodysplastic syndrome"],
+			"Level2": ["chronic iron overload", "iron overload", "iron level", "too much iron", "appointments"],
+			"Level3": ["untreated", "under treated", "not done"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q179"
+		}, {
+			"Questions": ["Is it ok to feel hard to take medications for iron overload if I don’t have any symptoms?", "Its hard to deal with side effects when you hardly know if have iron overload?", "I dont even know if I have confirmed iron overload and I need to take medication and feel side effects."],
+			"Answer": "It may be hard to have to take a medication for chronic iron overload when you aren’t feeling symptoms from the condition. This is particularly true if you have had any side effects from your medication.",
+			"Level1": ["medicines", "therapy", "treatment"],
+			"Level2": ["hard", "difficult", "troublesome", "burden"],
+			"Level3": ["chronic iron overload", "iron overload", "iron level", "too much iron", "appointments"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q180"
+		}, {
+			"Questions": ["Why should I get treated for chronic iron overload without any symptomsl?", "Why should I take medication  when I dont even have symptoms of iron overload?", "Is treatment and monitoring routines necessary when I dont have symptoms of iron overload?", "In the absence of symptoms, should I continue treatment and monitoring of iron overload?"],
+			"Answer": "Without treatment chronic iron overload can be serious, so it is important that you continue with your medication and monitoring routines as prescribed by your health care provider.",
+			"Level1": ["chronic iron overload", "iron overload", "iron level", "too much iron"],
+			"Level2": ["no symtoms", "normal levels"],
+			"Level3": ["medicines", "therapy", "treatment"],
+			"Level4": ["stop", "discontinue", "reduce"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q181"
+		}, {
+			"Questions": ["I don’t feel EXJADE is working. What to do?", "I don’t feel a change. Is EXJADE working?", "Let me stop EXJADE as I don’t think its working."],
+			"Answer": "Even though you can’t feel it, that doesn’t mean the medication is not working, so try to be patient and keep taking EXJADE the way your health care provider prescribed.",
+			"Level1": ["exjade"],
+			"Level2": ["futile", "not working", "in effective"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q182"
+		}, {
+			"Questions": ["Why do I have to stick to treatment ? Its frustrating.", "Its bothering me that treatment is not working.", "I feel irritated not to see benefits of EXJADE.", "I am upset with outcomes of EXJADE."],
+			"Answer": "I realize how frustrating it can be when you start a new medication and can’t tell right away if it’s working for you. Try to remember that once iron has built up in your body, it can take a long time for it to return to a safe level.",
+			"Level1": ["exjade"],
+			"Level2": ["frustration", "no benefits", "no advantages"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q183"
+		}, {
+			"Questions": ["Do I stop the EXJADE cause I don’t see any effects after taking it?", "Its been long that I am taking medication and no effects seen.", "I must stop my medication. I don’t think its working."],
+			"Answer": "The process of lowering the iron in your body can take months or even years of treatment, so it is important to be patient and keep taking EXJADE the way your health care provider prescribed—even if you don’t see any immediate effects.",
+			"Level1": ["exjade"],
+			"Level2": ["stop", "discontinue", "reduce", "linit"],
+			"Level3": ["no effects"],
+			"Level4": ["long", "length"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q184"
+		}, {
+			"Questions": ["Monitoring and managing chronic iron overload takes up too much of my time and energy what to do?", "I am loosing on my treatment.", "When will see the benefits of my treatment?", "When will I achieve safe levels of iron in my body?"],
+			"Answer": "Try not to lose sight of the goal—maintaining safe levels of iron in your body. This can only be achieved by following your health care provider’s recommendations.",
+			"Level1": ["monitoring", "managing"],
+			"Level2": ["losing", "hard", "difficult", "troublesome", "burden"],
+			"Level3": ["medicines", "therapy", "treatment"],
+			"Level4": ["iron levvels"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q185"
+		}, {
+			"Questions": ["Is it normal for my iron levels to vary if I am taking EXJADE?", "Why are my iron levels chaning even when I am on EXJADE?", "Should I be concerned of  iron level changes when on EXJADE?"],
+			"Answer": "It’s not unusual for iron levels to go up or down from month to month when you’re on EXJADE, especially if you’re getting regular blood transfusions.",
+			"Level1": ["exjade"],
+			"Level2": ["iron levels"],
+			"Level3": ["vary", "change", "differ", "fluctuate"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q186"
+		}, {
+			"Questions": ["Why should I keep taking all the tests if I don’t see any progress in iron overload?"],
+			"Answer": "It is important to go to appointments for laboratory tests to monitor for side effects that you may not feel, such as damage to your liver or kidney.",
+			"Level1": ["tests"],
+			"Level2": ["progress"],
+			"Level3": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q187"
+		}, {
+			"Questions": ["Is it necessary to take regular tests when I don’t feel side effects?"],
+			"Answer": "It is important to go to appointments for laboratory tests to monitor for side effects that you may not feel, such as damage to your liver or kidney.",
+			"Level1": ["tests"],
+			"Level2": ["regular", "routine"],
+			"Level3": ["necessary", "need", "require"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q270"
+		}, {
+			"Questions": ["Why should I take EXJADE when my iron levels are normal?", "Should I stop EXJADE when I see my iron levels safe?", "Can I reduce the dose of EXJADE as my iron levels are in safe range?"],
+			"Answer": "If you do not take EXJADE exactly as directed, you may not achieve the full benefits of the therapy. Do not stop taking EXJADE or skip a dose unless your health care provider tells you to, even if your iron is at a safe level.",
+			"Level1": ["exjade"],
+			"Level2": ["iron levels"],
+			"Level3": ["normal", "safe", "low"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q188"
+		}, {
+			"Questions": ["Why should I be monitored on a regular basis with blood and urine tests and other tests?", "What tests can tell me if EXJADE is working?", "How monitoring tests help in knowing if EXJADE is working?"],
+			"Answer": "These tests monitor how EXJADE is working, help your health care provider know if you are having certain side effects, and help monitor your overall health.",
+			"Level1": ["exjade"],
+			"Level2": ["tests", "blood tests", "urine tests", "examination"],
+			"Level3": ["monitor"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q189"
+		}, {
+			"Questions": ["How to stay motivated to continue treatment?", "Will goal setting help keep me motivated?"],
+			"Answer": "Setting goals for yourself is an important part of staying motivated. It is important to set goals that are realistic and reachable.",
+			"Level1": ["treatment"],
+			"Level2": ["stay", "continue"],
+			"Level3": ["motivation", "encouragement"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q190"
+		}, {
+			"Questions": ["Can you suggest some tips while setting goals?", "How exactly I should set my goals?", "Will you help me with goal setting?", "Any rules for goal setting?"],
+			"Answer": "– Spell out clearly and specifically what you are trying to achieve with your goal.\n– Make sure your goal is attainable. Think about what might get in the way of accomplishing your goal.\n– Break down larger goals into smaller ones. This way they are more manageable and results may be seen more quickly.\n– Change or update your goals from time to time. This will help you stay more interested in your goals.",
+			"Level1": ["treatment goals", "goal setting"],
+			"Level2": ["tips", "rules", "pointers", "clues"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q191"
+		}, {
+			"Questions": ["How to increase motivation?", "Can I reward myself for achieving treatment goals?", "Will rewarding one self help improve motivation?", "I feel my efforts towards my treatment goals must be rewarded then."],
+			"Answer": "Rewarding yourself for accomplishing goals may be another way to increase motivation.Remember that rewards only work if you actually reward yourself.",
+			"Level1": ["treatment goals", "achievements", "efforts"],
+			"Level2": ["motivation", "encourage", "boost"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q192"
+		}, {
+			"Questions": ["What are good rewards if I achieve my goal?", "How do I recognise myself for goal achivements?", "What should be nature of my rewards?", "Any reward I get to myself should improve my healh."],
+			"Answer": "Good rewards are realistic, fit into your budget, and are healthy (or at least not unhealthy).",
+			"Level1": ["rewards", "achievements", "goals"],
+			"Level2": ["nature", "good", "great", "acceptable"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q193"
+		}, {
+			"Questions": ["Why am I not able to do things I used to do?", "I don’t know, I feel too sick with this iron overload.", "I really cant do the things the way I use to do.", "I fell increasingly sick / tired. Is it due to iron overload?"],
+			"Answer": "When you have iron overload, you may feel too sick or too tired to do many of the things you used to do.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["sick", "tired", "ill", "unable", "disable"],
+			"Level3": ["reason", "why", "speculatiion"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q194"
+		}, {
+			"Questions": ["What can I do to improve my condtion other than taking medicines?", "What else I should do to improve my health?", "What else will help other than my medicines in iron overload?", "Will good diet and exercise help improve my health other than medicines?"],
+			"Answer": "Make sure that you are taking care of yourself in basic ways, such as eating a well balanced diet, getting enough rest/sleep, and,if you can, engaging in regular physical activity (even a small amount is beneficial)",
+			"Level1": ["condition", "disease", "iron overload"],
+			"Level2": ["improve", "better", "recover", "recuperate", "enhance"],
+			"Level3": ["health"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q195"
+		}, {
+			"Questions": ["Can I do extreme sports/swimming/jogging/running/physical activity?", "Should I discuss about my exercises with my physician?", "Can I do physical activities / exercise while on medicines?", "Do I need permission from my physician for my physical activities?", "Should I consult my health care provider about my planned exercises?"],
+			"Answer": "Please check with your health care provider before starting any physical activity.",
+			"Level1": ["extreme sports", "physical activities"],
+			"Level2": ["permission", "consult", "consider"],
+			"Level3": ["physician", "clinicain", "health care provider"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q196"
+		}, {
+			"Questions": ["How to improve iron overload other than drug therapy?", "How do I keep engaged myself during iron overload treatment?", "I want to divert my attention towards my condition. How do I do that?", "Will diverting my attention to my hobbies help improve my motivation?"],
+			"Answer": "Whenever possible, try to remain involved in some of activities you’ve always enjoyed or pick up new hobbies where you can. Just remember not to push yourself to do more than you can.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease"],
+			"Level2": ["attention", "engage", "divert", "distract"],
+			"Level3": ["improve", "betterment"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q197"
+		}, {
+			"Questions": ["How to be strong after getting diagnosed with iron overload?", "I think I need support from my family in this.", "What support system should I have with iron overload / my condition?", "Whom should I seek support in this condition?"],
+			"Answer": "When living with a medical condition, it is very important that you make sure that you have a strong support system and that you reach out to friends and family for support.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level2": ["strong", "support", "family", "system"],
+			"Level3": ["diagnosed", "diagnosis"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q198"
+		}, {
+			"Questions": ["How to deal with my family after getting diagnosed with iron overload?", "I don’t want to bother my family / friends with my condition.", "Should I express how I feel to my family/ friends?", "Can I be really normal with my expressions with family / friends?"],
+			"Answer": "Talk to your family and friends about how you are feeling about chronic iron overload, but also make sure to do fun and enjoyable activities with them as well that don’t have anything to do with your condition.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level2": ["feel", "deal", "bother", "normal"],
+			"Level3": ["family", "friends", "relatives", "brother", "sister"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q199"
+		}, {
+			"Questions": ["Is there any other way than talking to my family?", "I must also reachout to those like me.", "I am curious to know about others with similar condition.", "How shall I know how other patients feel about iron overload?", "I may feel better if I can talk to some one with similar experience."],
+			"Answer": "You might also consider reaching out to others who are going through the same experience, as part of a support group.",
+			"Level1": ["talking", "reach out", "curious", "know", "otherway", "express"],
+			"Level2": ["patients", "similar condition", "similar experience", "experience", "others", "family"],
+			"Level3": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q200"
+		}, {
+			"Questions": ["I feel uncomfortable asking help from my family/friends. What can I do?", "Do I really need to have help / support from my family / friends?", "Is having help from family / friends is a must?", "I dont know if my friends / family will support me in this."],
+			"Answer": "When you have iron overload, asking for help is not just okay, it’s necessary. Friends and family are often eager to try and do something for someonethey care about who is ill.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level2": ["help", "support", "need"],
+			"Level3": ["family", "friends", "relatives", "brother", "sister"],
+			"Level4": ["uncomfortable"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q201"
+		}, {
+			"Questions": ["How can my family help specifically with medication?", "I don’t know if my family /friends know what help I need.", "Is it good idea if I only ask a specific help / suppor to my family / friends?", "I assume my family would know what I need in this condition.", "How can my friend/family help?", "In what way my family / friends help me?", "I feel overwhelmed with my condition. Should I reach out to my family / friends?"],
+			"Answer": "They may not know what they can do to help. It’s a good idea to be specific about what you need from them.\n\nYou might suggest to your friends/family some ways they might help you when you are feeling overwhelmed, such as preparing a meal for you/your family or driving you to a health care provider appointment.",
+			"Level1": ["family", "friends", "relatives", "brother", "sister"],
+			"Level2": ["help", "know", "assume", "support", "how", "ways", "reach-out", "overwhelmed"],
+			"Level3": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level4": ["medication", "condition"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q202"
+		}, {
+			"Questions": ["what to do if I still feel I am bothering my friends/family to help me?", "By asking help will I be bothering my family / friends?", "I don’t know how my friends / family will take if I request help."],
+			"Answer": "It may be helpful to think about what you would do if a loved one dealing with an illness asked you for help. Would you feel bothered? Or would you be happy to help them?",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level2": ["feel", "don’t know", "asking"],
+			"Level3": ["help", "support", "request"],
+			"Level4": ["bother", "disturb", "waste time"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q204"
+		}, {
+			"Questions": ["Is it ok to be worried about managing finances for the treatment of iron overload?                                                                                                                                     I am concerned about my medical expenses for the treatment.", "I am anxious about continuity of my job with this condition.", "I am worried about my bills. Is it normal?"],
+			"Answer": "Many people may worry about paying for medical expenses or worry about their finances in general because they have had to take time off from work, are unable to work, or have stopped working, due to their illness.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level2": ["finances", "expenses", "job", "bills"],
+			"Level3": ["worry", "concern", "anxious"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q205"
+		}, {
+			"Questions": ["Is it ok to be worried about managing finances for the treatment of my child\u0027s iron overload?", "I am concerned about medical expenses of my child.", "I am anxious about continuity of my job with my child\u0027s condition.", "I am worried about the bills of child\u0027s treatment. Is it normal?"],
+			"Answer": "Many people may worry about paying for medical expenses or worry about their finances in general because they have had to take time off from work, are unable to work, or have stopped working, due to their child’s illness.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level2": ["finances", "expenses", "job", "bills"],
+			"Level3": ["worry", "concern", "anxious"],
+			"Level4": ["my child"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q206"
+		}, {
+			"Questions": ["is it normal to worry about my conditions?", "I am worried about managing my work with multiple medical conditions.", "With these multiple disorders, I am worried about my job."],
+			"Answer": "It is normal to sometimes worry about how having multiple disorders and managing them and how it may impact your work.",
+			"Level1": ["condition", "multiple medical condition", "multiple disorders"],
+			"Level2": ["work", "job", "employment"],
+			"Level3": ["worry", "concern", "anxious"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q207"
+		}, {
+			"Questions": ["What can I do to avoid missing work due to my child\u0027s appointment?", "How do I manage my work and child\u0027s appointment?", "Its difficult to manage my work when I have appointment of my child.", "Is there any way I can better manage my work when having my child\u0027s appoinement?"],
+			"Answer": "Consider establishing a network of family members or friends who can help. Having someone else help take your child to appointments may enable you to miss fewer hours of work.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level2": ["child\u0027s appointment"],
+			"Level3": ["missing work", "manage", "try"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q208"
+		}, {
+			"Questions": ["The visits to the doctor interfere with work. How can I manage?", "How should I schedule my appointments?", "At what time should I schedule appointments?                                                           What is better way to manage work and my appointments?                                          It is difficult some times to manage work and my appointments."],
+			"Answer": "Try to schedule your HCP and monitoring appointments at times that interfere less with your work schedule, such as early in the morning or late in the day. Remember, regular monitoring is a crucial part of managing chronic iron overload, so it is important that you find a way to fit it into your schedule.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level2": ["work"],
+			"Level3": ["interfere"],
+			"Level4": ["appointments", "schedule"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q209"
+		}, {
+			"Questions": ["Will I have to stop work?", "Will I have to quit my job?", "Should I resign from work?", "What about my employment, should I be concerned?                                                        Will I get help any from my employer?                                                                               Can I ask some time off from work because of my child\u0027s condition?"],
+			"Answer": "Taking some extended time off from work or stopping to work may often be required to take care of one\u0027s health. If you need to take extended time off, check with your employer to see what options you may have and how that will impact your wages. There also may be laws that allow for time off due to you or your child’s health condition.",
+			"Level1": ["work", "job", "employment", "help", "leave", "take off"],
+			"Level2": ["stop", "resign", "quit", "concern", "employer", "time-off"],
+			"Level3": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q210"
+		}, {
+			"Questions": ["Will the government help with my treatment?", "Are there any government programs to help patients?", "Are there any disability programs?                                                                                                 Is there any way I can get help from government?                                                          Are there any goverment schemes for work compensation due to my medical condition?"],
+			"Answer": "The government also has certain programs for people who can’t work because of a medical condition.",
+			"Level1": ["government", "schemes", "organizations", "programs"],
+			"Level2": ["help", "know", "support", "ways", "reach-out"],
+			"Level3": ["information", "compensation"],
+			"Level4": ["medications", "medicines", "condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q211"
+		}, {
+			"Questions": ["Can I find financial help for my medication?", "I cant pay for my medication, what can I do?", "Are there any organisations which can help with the cost of treatment?                      Where can I find more information on managing my finances?"],
+			"Answer": "You may be able to find additional tips and information about managing your finances on the Internet. Please keep in mind that these organizations are not affiliated with Novartis Pharmaceutical Corporation. Novartis is not responsible for the information these organizations may provide",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level2": ["finances", "expenses", "job", "bills", "cant pay"],
+			"Level3": ["help", "organizations", "information", "medications"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q212"
+		}, {
+			"Questions": ["Are there any patient assistance or co-pay programs?", "Is there any that I can get the medicines subsidised?", "Can you tell me about any co-pay programs?"],
+			"Answer": "There are some assistance programs available for eligible patients to help pay for [your/your child’s] medicine. I’d be happy to offer you more information about available co-pay and patient assistance programs.",
+			"Level1": ["condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level2": ["patient assistence", "co-pay", "subsidised"],
+			"Level3": ["programs", "medicines"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q213"
+		}, {
+			"Questions": ["Should iron level be monitored?", "Should I get tested for iron level?", "Is it necessary to monitor iron levels while on treatment?", "I am on treatment, do I need to monitor my iron levels?", "Why should I monitor iron levels?", "How monitoring iron levels during treatment helps?", "Based on iron levels, will my treatment change?"],
+			"Answer": "Yes, iron levels in the body should be measured while on treatment for iron overload.\n\nMonitoring iron levels may help [you/your child] get the most results from the treatment, and can help your health care provider know if and when it is time to make changes to [your/your child’s] treatment.",
+			"Level1": ["iron levels"],
+			"Level2": ["monitor", "tested", "test"],
+			"Level3": ["should", "necessary", "necessity"],
+			"Level4": ["treatment", "change"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q214"
+		}, {
+			"Questions": ["Additional monitoring is expensive, what can I do about it?", "I cant pay for more tests, what should I do?", "More tests are costly, what can I do?                                                                                    Taking monitoring tests during treatment is costly. Is it necessary?                           Should I consult financial burden of my tests to my health care provider?"],
+			"Answer": "I realize that the lab tests for monitoring chronic iron overload may add to your financial burden. But, it is important to keep in mind how important these tests are in managing your/your child’s condition. \nIf your appointments are causing a significant financial burden, talk to your health care professional about it.",
+			"Level1": ["monitoring", "test"],
+			"Level2": ["additional", "more", "costly", "cant pay", "expensive"],
+			"Level3": ["traetment", "therapy", "condition", "chronic iron overload", "iron overload", "iron level", "too much iron", "disease", "iol", "exjade"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q216"
+		}, {
+			"Questions": ["I am concerned about taking the medication daily, what can I do?", "Do I have to take the medication daily?", "Can I skip the medication ocassionally?", "Do I have to make a medication routine?                                                                          How do I comply with new medication schedule?                                                         Too many medicines. How do I remember when to take what?                                        What is the best way to remember my new medicine?"],
+			"Answer": "It may be difficult to start a new medicine routine, even if you’re already used to taking medicines. It may feel overwhelming to have to remember to do one more thing during your day. Establishing a daily routine for EXJADE will help you make medication a normal part of your day, so you don’t need to think about it that much.",
+			"Level1": ["exjade", "medication"],
+			"Level2": ["daily", "ocassionally", "comply", "skip", "best way"],
+			"Level3": ["concern", "schedule", "too-many", "remember"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q217"
+		}, {
+			"Questions": ["Why should I have medication routine?", "Why make a routine?", "Why do it routinely?                                                                                                               How should I comply to the prescribed schedule of the medicine?                            How important is it to make a routine of new medicine?"],
+			"Answer": "Building a medicine routine is important because it helps take the medicine exactly as prescribed by your health care provider, which may help to get the most benefit possible from it.",
+			"Level1": ["routine", "daily", "everyday"],
+			"Level2": ["exjade", "medication"],
+			"Level3": ["why", "how"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q218"
+		}, {
+			"Questions": ["I cannot follow a routine, what can I do?", "How exactly should I follow taking EXJADE daily?", "What is best way to remember my EXJADE daily schedule?", "Should I make a daily routine of EXJADE?"],
+			"Answer": "One strategy that may help you to remember about taking EXJADE is to always take/give it at the same time that you do something else on a daily basis, such as right after waking up, before bathing, etc. When you group things together, it may help you to remember them. Can you think of a part of your daily routine that you could link to EXJADE? You just need to be sure that the routine occurs every day at a time that is at least 30 minutes before eating in the morning: remember that EXJADE needs to be taken on an empty stomach.",
+			"Level1": ["exjade", "medication"],
+			"Level2": ["routine", "daily", "everyday"],
+			"Level3": ["cant", "cannot", "excatly", "best way"],
+			"Level4": ["follow"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q219"
+		}, {
+			"Questions": ["Why make EXJADE a habit?", "How do I remember to take EXJADE daily?", "I keep forgetting about EXJADE.", "I missed my medication. How to improve my compliance?"],
+			"Answer": "It may be a challenge sometimes to remember to take or give medication every day. Having a routine will make it easier to remember to take or give EXJADE. By making something part of your regular routine, you turn it into a habit that you’re less likely to forget.",
+			"Level1": ["exjade", "medication", "medicine"],
+			"Level2": ["habit", "remember", "forget", "forgetting", "miss", "missed", "improve"],
+			"Level3": ["daily", "compliance"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q220"
+		}, {
+			"Questions": ["I take an antacid in the morning, can I take EXJADE after that?", "What type of antacids are contraindicated with EXJADE?"],
+			"Answer": "Do not take EXJADE with aluminum-containing antacid products",
+			"Level1": ["exjade"],
+			"Level2": ["antacid"],
+			"Level3": ["contraindicated"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q224"
+		}, {
+			"Questions": ["Can I chew EXJADE tablets?", "Can I just swallow the tablet?", "I just can crush the tablet before putting in water."],
+			"Answer": "EXJADE tablets should not be chewed or swallowed whole. Also, you should not break or crush the tablets.",
+			"Level1": ["exjade"],
+			"Level2": ["chew", "swallow", "crush"],
+			"Level3": ["tablet", "pill", "medicine"],
+			"Level4": ["water"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q225"
+		}, {
+			"Questions": ["Can I have breakfast after taking EXJADE?", "How long should I wait to eat after taking EXJADE?", "Can I take EXJADE immediately after my meal?"],
+			"Answer": "EXJADE should be taken on an empty stomach. After taking EXJADE, you should wait 30 minutes before eating any food.",
+			"Level1": ["exjade"],
+			"Level2": ["breakfast", "eat", "consume", "food", "meal"],
+			"Level3": ["immediately", "after"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q226"
+		}, {
+			"Questions": ["How can I remember to take the medication?", "How can I set a routine?", "Should there be a system to remember my medication?", "Is there any better way to remember my pill?"],
+			"Answer": "Sometimes people already have a system for reminding themselves about medication, such as leaving notes around the house, setting an alarm on their clock or watch, or using a pill box.\nDo you already have a system that you use to remind to take a medicine?",
+			"Level1": ["medicines", "pills"],
+			"Level2": ["routine", "system", "way", "strategies"],
+			"Level3": ["remember"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q227"
+		}, {
+			"Questions": ["How can I easily remember to take the medication?", "What strategies can I use to remember taking the medication in a routine?", "Tell me the way to remember my pill?", "How not to forget taking EXJADE?"],
+			"Answer": "One strategy that may help you to remember about taking EXJADE is to always take/give it at the same time that you do something else on a daily basis, such as right after waking up, before bathing, etc. When you group things together, it may help you to remember them. Can you think of a part of your daily routine that you could link to EXJADE? You just need to be sure that the routine occurs every day at a time that is at least 30 minutes before eating in the morning: remember that EXJADE needs to be taken on an empty stomach.",
+			"Level1": ["exjade"],
+			"Level2": ["routine", "system", "way", "strategies"],
+			"Level3": ["remember"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q230"
+		}, {
+			"Questions": ["Will my smart phone help me to remind about EXJADE?", "What are ways to make routine of EXJADE?", "Can I put a reminder / alarm to take EXJADE?"],
+			"Answer": "It is also helpful to set reminders for yourself that you can see or hear when it is time for medication. Do you have a phone or watch that will allow you to set an alarm? If so, you could set the alarm to go off each time you need to take or give your child EXJADE. Or, you could use reminders that you will see, such as keeping a note on your nightstand, or putting medicines on your bathroom counter.",
+			"Level1": ["medicines", "pills", "exjade"],
+			"Level2": ["routine", "system", "way", "strategies"],
+			"Level3": ["smartphone"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q231"
+		}, {
+			"Questions": ["What way can i stick to my routine?", "How to take medicines without fail?", "Can I take help from my family / friend to comply with my medication?", "Should I request my family to remind me about EXJADE?", "Can  I ask my spouse to help me with EXJADE."],
+			"Answer": "Ask a loved one to help you stick to a routine that you’ve set up or even to remind you about the medication. Can you think of someone that might be able to help you stick to your routine? Talk to them and ask for help in remembering about the medication.",
+			"Level1": ["medicines", "pills", "exjade"],
+			"Level2": ["routine", "system", "way", "strategies"],
+			"Level3": ["friends", "family", "spouse", "relatives"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q232"
+		}, {
+			"Questions": ["What if my schedule changes? How can I maintain routine?", "I keep travelling. How should I maintain my routine?", "How to maintain my medicine routine?", "Can I carry spare tablets when on vacations?", "My child may forget the tablet during school time. How do I remind him?", "My work timings changes often. Its difficult to maintain the routine."],
+			"Answer": "Often things come up in our day and schedules can change. For example, you may go out to dinner after work one day, or do a special activity with a family member or friend. If things like this come up, it is helpful if you plan ahead for when you will take/give your child a medicine.\nSetting alarms on your phone, watch, or clock may help to remind you about medication at the right time. Also, keeping an extra dose, a spoon, and some water with you may help make sure that you are or your child is able to take EXJADE even if your schedule changes.",
+			"Level1": ["medicines", "pills", "exjade"],
+			"Level2": ["routine", "system", "way", "strategies", "spare"],
+			"Level3": ["change", "maintain"],
+			"Level4": ["schedule", "vacations", "schooltime", "worktime"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q233"
+		}, {
+			"Questions": ["My schedule changes often, how can I remember about medications?", "My day is always busy. How do I remember to take my medications?", "With my meetings and travel, I am unable to take my medications?", "How do I connect my dialy activities and my medications?"],
+			"Answer": "Let’s try to think about whether there is anything that stays the same, even if many of your activities vary during the day. For example, do you or does your child still wake up and go to bed around the same time? Do you usually shower or bathe around the same time each day?If yes, you can think about EXJADE when you do one of the activities that doesn’t change.\nIf no, you can think about whether you can set alarms on your phone, watch, or clock to remind you about EXJADE at the right time",
+			"Level1": ["medicines", "pills", "exjade"],
+			"Level2": ["routine", "system", "way", "strategies", "spare"],
+			"Level3": ["change", "maintain"],
+			"Level4": ["busy", "daily activities", "meetings", "travel"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q234"
+		}, {
+			"Questions": ["Do I need to undergo tests while on treatment with EXJADE?", "What tests are conducted while on EXJADE?", "How do I know if I am benefitting from EXJADE?", "How will physician know when to change the dose my medication?", "Are the monitoring tests necessary during my treatment?"],
+			"Answer": "While on EXJADE therapy, regular tests, including serum ferritin and other tests to measure iron levels, as well as other blood tests, urine tests, eye exams, and hearing tests will be conducted. The height and weight will also be monitored in children receiving EXJADE to ensure that the correct dose of EXJADE is being administered.",
+			"Level1": ["exjade"],
+			"Level2": ["monitor", "test"],
+			"Level3": ["need", "require", "necessary", "benefits", "advantages", "conduct"],
+			"Level4": ["treatment mine", "my child"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q235"
+		}, {
+			"Questions": ["Why do I need monitoring tests while being treated?", "How  important are monitoring tests while on treatment?"],
+			"Answer": "The monitoring tests are very important to help your health care provider make sure that the patient is receiving the right treatment at the right dose, and to make sure the treatment is working as it should. You can take an active role by keeping track of the results of these tests and discussing them with your health care provider.",
+			"Level1": ["treatment", "therapy"],
+			"Level2": ["monitor"],
+			"Level3": ["need", "importance"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q236"
+		}, {
+			"Questions": ["Should I track my tests while on treatment with EXJADE?", "How to keep record of my tests and treatment?", "Should I always carry my records to my physician appointment?", "Is it important to keep records of my tests ?"],
+			"Answer": "You may get a booklet from your health care provider which will help you to track the response to EXJADE. If not, you can easily make one on your own by creating a spreadsheet or table with columns for dates and results of your tests. The health care provider will then write your blood test and other results in this booklet/spreadsheet/table at each visit. Keep the booklet/spreadsheet/table in a convenient place and bring it with you each time you visit your health care provider.",
+			"Level1": ["exjade", "treatment", "therapy"],
+			"Level2": ["track", "record"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q237"
+		}, {
+			"Questions": ["I am going on a trip, should I continue to take EXJADE?", "How to plan for medicines whle travelling?", "How to keep up with my medication schedule while travelling?", "Any advice on medication while travelling?", "Is it ok if I miss the tablet / pill while travelling?"],
+			"Answer": "When people travel, their daily routine often changes. Because of this, there is a greater chance that people might forget to take a medicine. Before taking a trip, it is a good idea to plan ahead and think about how you will make sure you remember taking EXJADE. It is very important to continually take EXJADE the way your health care provider has prescribed, even when traveling",
+			"Level1": ["exjade", "medicines"],
+			"Level2": ["travel", "trip", "abroad", "journey"],
+			"Level3": ["plan", "schedule"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q238"
+		}, {
+			"Questions": ["How to continue taking EXJADE?"],
+			"Answer": "To make sure that you continue taking EXJADE each day as your health care provider has prescribed, think ahead about the reminders that you can set up while you are away from home.",
+			"Level1": ["exjade"],
+			"Level2": ["continue"],
+			"Level3": ["take", "consume", "have"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q239"
+		}, {
+			"Questions": ["What techniques can I use to remember taking EXJADE while travelling?", "Whats is the best way to remember my pill during travelling?", "How to remember to take my medicines?", "Is there a smart way not to forget my tablet?"],
+			"Answer": "Use reminders that you can see or hear (e.g., once you get to the place you are staying, you could leave your medicine bottle in a spot that you will see around the time that [you need/your child needs] to take the medicine)\nLeave notes on items in your suitcase (e.g., your clothes, your shampoo) that you will take out around the time you need to [take/give your child] the medicine\nSet alarms on your phone or watch",
+			"Level1": ["exjade", "medicines"],
+			"Level2": ["travel"],
+			"Level3": ["remember", "remind", "forget"],
+			"Level4": ["ways", "techniques", "methods"],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q240"
+		}, {
+			"Questions": ["Is there a travel guidance for EXJADE?"],
+			"Answer": "Always pack EXJADE along with a mixing cup and any other medicine in your carry-on bag to ensure that you always have it with you in the event of delays, missing luggage, etc. Plan to buy a bottle of water after you pass through security to make sure you have it ready when it’s time for the next EXJADE administration.",
+			"Level1": ["exjade"],
+			"Level2": ["travel guidance"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q280"
+		}, {
+			"Questions": ["How can I prepare before I go on the trip?", "How should I plan medication during my travel?", "I am planning for a long trip. Any advice?"],
+			"Answer": "There are things that you might do in preparation for your trip that will help to ensure that you remember to take or give your child EXJADE.\nMake sure to bring enough medicine to last your entire trip and a few extra days, just in case.\nAlways pack EXJADE along with a mixing cup and any other medicine in your carry-on bag to ensure that you always have it with you in the event of delays, missing luggage, etc. Plan to buy a bottle of water after you pass through security to make sure you have it ready when it’s time for the next EXJADE administration.",
+			"Level1": ["medicines"],
+			"Level2": ["travel", "trip", "abroad", "journey"],
+			"Level3": ["prepare", "plan"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q241"
+		}, {
+			"Questions": ["Is there anything I can do to be prepared for emergencies?", "I am travelling abroad. Should I carry medical certificate of my condition?", "How to let know others of my emergency?"],
+			"Answer": "Ask your health care provider for a typed statement describing [your/your child’s] medical condition and the medicine [you are/your child is] taking, just in case it is needed for customs or in the event of an emergency.\n",
+			"Level1": ["emergency"],
+			"Level2": ["preparation", "prepare", "medical certificate"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q242"
+		}, {
+			"Questions": ["How to remember to take my medicines?", "How to rememeber to give my child his/her medicines"],
+			"Answer": "Set a reminder on your mobile phone or watch to help you remember to [take/give your child EXJADE] at the right time, and on an empty stomach.",
+			"Level1": ["medicines"],
+			"Level2": ["remember", "reminder"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q281"
+		}, {
+			"Questions": ["I have trouble getting to my doctor? Will I find any assistance for this?", "How not to miss my appointments?", "Sometimes I cant make it to see my doctor when I am busy. What can I do?", "What to do when I am busy to  make it to my appointment?", "It not possible to attend every appointment. How to manage?", "I dont know how to manage transportation for my appointment?"],
+			"Answer": "Sometimes it may be challenging to get to all of [your/your child’s] medical and monitoring appointments. Let’s talk about someone you might ask to get some assistance with transportation. Who have you been able to depend on in the past if [you/your child] needed a ride somewhere? Are there any friends or family that you could turn to for help and support? Are you active in a religious or other social organization, as they sometimes provide assistance with transportation? ",
+			"Level1": ["appointments"],
+			"Level2": ["trouble", "miss", "busy"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q243"
+		}, {
+			"Questions": ["I need transportation assistance, where can I find information?", "Can I avail concenssions on public transportation to attend my appointments?", "Is there travel discount to attend my medical appointments?", "Will get any discounts for my travel to hospitals?"],
+			"Answer": "Sometimes there may be some community resources for transportation assistance as well. If you’re near a public transportation system, like a bus or railway, there are sometimes programs that will provide reduced cost or free transportation to people based on income guidelines and things like medical necessity. You could call the local bus or railway/train office and ask to speak to someone about such programs",
+			"Level1": ["appointments"],
+			"Level2": ["transportation", "move", "transit", "transport"],
+			"Level3": ["information"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q244"
+		}, {
+			"Questions": ["I am having difficulty scheduling appointments, what can I do?", "I don’t know how to fix appointments with my doctor.  What to do?", "How to schedule an appointment?", "I am concerned over dates of my appointments?"],
+			"Answer": "I’m sorry to hear that you are having difficulty scheduling appointments. Having to manage medical and monitoring appointments may be overwhelming for some people. Is there a friend or family member that you could ask to help you set up appointments? You might also speak to someone in your health care provider’s office about your concerns, as they may be able to help make the process easier.",
+			"Level1": ["appointments"],
+			"Level2": ["schedule", "concern"],
+			"Level3": ["how to"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q245"
+		}, {
+			"Questions": ["To whome should I approach to reschedule my appointment?", "Its difficult to get the dates as you want. How to manage the appointments?               Non availability of dates for appointments is a major concern for me."],
+			"Answer": "You might speak to someone in your health care provider’s office about your concerns, as they may be able to help make the process easier.",
+			"Level1": ["appointments"],
+			"Level2": ["approach", "non-availability", "dates"],
+			"Level3": ["whom", "who"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q283"
+		}, {
+			"Questions": ["is it difficult to fit my appointments into my schedule?"],
+			"Answer": "It may be difficult at times to fit appointments into your schedule, especially in the beginning when you have to attend appointments more frequently. ",
+			"Level1": ["appointments"],
+			"Level2": ["difficult", "difficulty"],
+			"Level3": [],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q284"
+		}, {
+			"Questions": ["How can I make and keep the appointments?", "How do I fix my appointments?", "Tell me a way to not miss my appointments", "I often miss my appoinments.                                                                                                With school timinings it is difficult to manage my child\u0027s appoinments.                     Its hard to balance my work and appointments.                                                               How adhereing to my appoinment schedule help me get better?"],
+			"Answer": "If you are finding it hard to fit in appointments around your work/school schedule or you need someone to drive you or your child, consider asking for appointments first thing in the morning or late in the afternoon so that it may interfere less with work/school schedules. When you make appointments, explain to the person who is scheduling your appointment what your limitations are so that you can find the most convenient appointment times. Try to remember that these appointments are a very important part of chronic iron overload management. These appointments will help your health care provider make sure that [you are/your child is] receiving the right treatment at the right dose, and to make sure the treatment is working as it should.",
+			"Level1": ["appointments"],
+			"Level2": ["make", "keep", "fix", "balance"],
+			"Level3": ["ways", "methods", "techniques"],
+			"Level4": [],
+			"IsFAQ": false,
+			"Heading": "",
+			"QID": "Q263"
+		}
+	]
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "444662493821",
+    "firebase_url": "https://ironcounsellor.firebaseio.com",
+    "project_id": "ironcounsellor",
+    "storage_bucket": "ironcounsellor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444662493821:android:85f56b7dcbefd6c2",
+        "android_client_info": {
+          "package_name": "com.novartis.pharma.uae.ironcounsellor.ext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444662493821-e13odq9p4mkhatns741uhctdjsgtpre8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novartis.pharma.uae.ironcounsellor.ext",
+            "certificate_hash": "f6f6a9896176c7f0c6bf43445fcebadb29289329"
+          }
+        },
+        {
+          "client_id": "444662493821-85192uaeu52mg040sfldt3ret3kvq039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlngAJJ3SXS0nHHHp_kxmWu_WPZXi1XB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444662493821-85192uaeu52mg040sfldt3ret3kvq039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

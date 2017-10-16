@@ -1,0 +1,22 @@
+﻿<div class="page" id="addmedicinebyOption">
+    <div class="alert">             
+    </div>
+    <div class="containeroption">
+        <h2>Please select one option:</h2>
+        <ul>
+            <li>
+                <input ng-model="value" value="exjade" type="radio" id="f-option" name="selector" ng-change='newValue(value)'>
+                <label for="f-option">Exjade</label>
+                <div class="check"></div>
+            </li>
+            <li>
+                <input ng-model="value" value="others" type="radio" id="s-option" name="selector" ng-change='newValue(value)'>
+                <label for="s-option">Others</label>
+                <div class="check"><div class="inside"></div></div>
+            </li>      
+        </ul>
+    </div>
+    <div class="signature">
+        <a ng-click="onAddMedicine()" id="gotoAddMedicine" class="btn btn-default formfont resetbtn savebtn">Next</a>
+    </div>
+</div>

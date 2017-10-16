@@ -1,0 +1,58 @@
+﻿@font-face {
+  font-family: 'fontello';
+  src: url('../fonts/fontello.eot?18312229');
+  src: url('../fonts/fontello.eot?18312229#iefix') format('embedded-opentype'),
+       url('../fonts/fontello.woff?18312229') format('woff'),
+       url('../fonts/fontello.ttf?18312229') format('truetype'),
+       url('../fonts/fontello.svg?18312229#fontello') format('svg');
+  font-weight: 300;
+  font-style: normal;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: 'fontello';
+    font-style: normal;
+    font-weight: 300;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    margin-left: .2em;
+    /* Font smoothing. That was taken from TWBS */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Uncomment for 3D effect */
+    /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+.icon-almond:before { content: '\e800'; }
+.icon-arrow_head:before { content: '\e801'; }
+.icon-capsule_right:before { content: '\e802'; }
+.icon-capsule_left:before { content: '\e803'; }
+.icon-amlodipine:before { content: '\e804'; }
+.icon-diamond:before { content: '\e805'; }
+.icon-drops:before { content: '\e806'; }
+.icon-flat_faced_bevel_edged_quadrisect_flash:before { content: '\e807'; } 
+.icon-guard:before { content: '\e808'; }
+.icon-half_moon:before { content: '\e809'; }
+.icon-granular:before { content: '\e80a'; }
+.icon-hexagon:before { content: '\e80b'; }
+.icon-infusion:before { content: '\e80c'; } 
+.icon-injection:before { content: '\e80d'; }
+.icon-oblong:before { content: '\e80e'; }
+.icon-octagon:before { content: '\e80f'; } 
+.icon-oval:before { content: '\e810'; } 
+.icon-pentagon:before { content: '\e811'; }
+.icon-pillow:before { content: '\e812'; } 
+.icon-rectangle:before { content: '\e813'; }
+.icon-round:before { content: '\e814'; }
+.icon-spoon:before { content: '\e815'; }
+.icon-square:before { content: '\e816'; }
+.icon-standard_convex_bisect_not_flash:before { content: '\e817'; }
+.icon-standard_convex_quadrisect_flash:before { content: '\e818'; } 
+.icon-trapezoid:before { content: '\e819'; } 
+.icon-triangle:before { content: '\e81a'; } 

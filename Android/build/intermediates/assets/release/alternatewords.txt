@@ -1,0 +1,1128 @@
+what=
+
+is=exist,have being,have existence
+
+chronic=persistent,long-standing,long-term,constantly recurring
+
+iron=made of iron
+
+overload=overburden,put too much in,overcharge,encumber,burden,weigh down
+
+why=
+
+too=excessively,overly,over,unduly,immoderately,inordinately,unreasonably,ridiculously,extremely,very
+
+much=a lot of,plenty of,ample,copious,abundant,plentiful,considerable,substantial
+
+there=
+
+in=inside,within,in the middle of
+
+the=
+
+body =anatomy,figure,frame,form,shape,build,physique,framework,skeleton,bones
+
+name=title,denomination,designation,honorific,tag,epithet,label
+
+few=not many,hardly any,scarcely any
+
+disease=illness,sickness,ill health
+
+conditions=state,shape,order
+
+that=
+
+require=need,be in need of,stand in need of,have need of
+
+repeated=say again,restate,reiterate,go through again,go over again,run through again,iterate,rehearse,recapitulate
+
+blood=gore,lifeblood,vital fluid
+
+transfusion =
+
+how=
+
+does=carry out,undertake,discharge,execute,perpetrate,perform,accomplish,implement,achieve,complete,finish,conclude
+
+transfusion=
+
+result=consequence,outcome,upshot,out-turn,sequel,effect,reaction,repercussion,reverberation,ramification,end,conclusion,termination,culmination,corollary,concomitant,aftermath,footprint,product,produce,by-product,solution
+
+can=tin,canister
+
+overload=overburden,put too much in,overcharge,encumber,burden,weigh down
+
+occur=happen,take place,come about,transpire,materialize,chance,arise,crop up,turn out,fall,come,fall out,pass off
+
+even=flat,smooth,uniform,featureless,unbroken,undamaged,unwrinkled
+
+if=on condition that,provided,providing,presuming,supposing,assuming,on the assumption that,allowing,as long as,given that,allowing that
+
+i=
+
+am=
+
+not=
+
+getting=acquire,obtain,come by,come to have,come into possession of,receive,gain,earn,win,come into,come in for,take possession of,take receipt of,be given
+
+any=some,a piece of,a part of,a bit of
+
+transfusions=
+
+develop=grow,evolve,mature,expand,enlarge,spread,advance,progress,prosper,succeed,thrive,get on well,flourish,blossom,bloom,burgeon,make headway,be successful
+
+non=
+
+thalassemia=
+
+patients=sick person,case,sufferer,victim
+
+diagnostic=
+
+tests=trial,experiment,pilot study,try-out
+
+available=obtainable,accessible,to be had,ready for use,at hand,to hand,at one's disposal,at one's fingertips,within easy reach,handy,convenient
+
+for=
+
+do=carry out,undertake,discharge,execute,perpetrate,perform,accomplish,implement,achieve,complete,finish,conclude
+
+mri=
+
+and=together with,along with,with,as well as,in addition to,including,also,too
+
+biopsy=
+
+aid=assistance,support
+
+diagnosing=identify,determine,distinguish,recognize,discover,spot,detect,pinpoint
+
+particular=specific,certain,distinct,separate,isolated
+
+are=exist,have being,have existence
+
+symptoms=manifestation,indication,indicator,sign,mark,feature,trait
+
+seen=discern,perceive,glimpse,catch/get a glimpse of,spot,notice,catch sight of,sight
+
+possible=feasible,able to be done,practicable,viable,attainable,achievable,realizable,within reach,workable,manageable
+
+a=
+
+serious=important,significant,consequential,of consequence,momentous,of moment,key,grave,weighty,major
+
+condition=state,shape,order
+
+it=
+
+target=prey,quarry,game,kill
+
+other=alternative,different,dissimilar,disparate,distinct,separate,contrasting,unlike,variant
+
+vital=essential,indispensable,crucial,key,necessary,needed,required,requisite,important,of the utmost importance,of great consequence,of the essence,critical,life-and-death,imperative,mandatory,urgent,pressing,burning,compelling,acute,paramount,pre-eminent,high-priority,significant,consequential
+
+organs=part of the body,body part,biological structure
+
+treated=behave towards,act towards,conduct oneself towards,use,serve
+
+these=
+
+chelating=
+
+agents=representative,negotiator,business manager,emissary,envoy,factor,go-between,proxy,surrogate,trustee,liaison,broker,delegate,spokesperson,spokesman,spokeswoman,frontman,mouthpiece
+
+work=labour,toil,exertion,effort,slog,drudgery
+
+mds=
+
+stand=be on one's feet,be upright,be erect
+
+for=
+
+when=
+
+occur=happen,take place,come about,transpire,materialize,chance,arise,crop up,turn out,fall,come,fall out,pass off
+
+factors=element,part,component,ingredient,strand,constituent,point,detail,item,feature,facet,aspect,characteristic,consideration,influence,circumstance,thing
+
+cause=source,root,origin,beginning,starting point,seed,germ,genesis,agency,occasion
+
+mds=
+
+who=
+
+individuals=person,human being,human,being,mortal,soul,creature,thing
+
+prone=susceptible,vulnerable,liable,inclined,given,subject,disposed,predisposed,open
+
+to=
+
+associated=related,connected,linked,correlated,analogous,similar,alike,kindred,corresponding
+
+with=accompanied by,in the company of
+
+progressive=continuing,continuous,increasing,growing,developing,ongoing,intensifying,accelerating,escalating
+
+along=down,throughout the length of,from one end of to the other,through,across
+
+severity=acuteness,seriousness,gravity,graveness,severeness,grievousness,extremity
+
+of=
+
+common=usual,ordinary,customary,habitual,familiar,regular,frequent,repeated,recurrent,routine,everyday,daily,day-to-day,quotidian,standard,typical
+
+patients=sick person,case,sufferer,victim
+
+transfusions=
+
+needed=require,be in need of,stand in need of,have need of,want,be in want of,be crying out for,be desperate for
+
+sickle=
+
+cell=dungeon,oubliette,lock-up,prison
+
+disease=illness,sickness,ill health
+
+hemoglobin=
+
+hemoglobin=
+
+do=carry out,undertake,discharge,execute,perpetrate,perform,accomplish,implement,achieve,complete,finish,conclude
+
+shape=form,appearance,configuration,formation,structure
+
+normal=usual,standard,typical,stock,common,ordinary,customary,conventional,habitual,accustomed,expected,wonted,everyday,regular,routine,day-to-day,daily,established,settled,set,fixed,traditional,quotidian,ordinary,average,run-of-the-mill,standard,typical,middle-of-the-road,common,conventional,mainstream,unremarkable,unexceptional,plain,simple,homely,homespun,workaday
+
+red=scarlet,vermilion,ruby,ruby-red,ruby-coloured,cherry,cherry-red,cerise,cardinal,carmine,wine,wine-red,wine-coloured,claret,claret-red,claret-coloured,blood-red
+
+cells=dungeon,oubliette,lock-up,prison
+
+cells=dungeon,oubliette,lock-up,prison
+
+anaemia=
+
+thalassemia=
+
+will=have a tendency to,are bound to,have a habit of
+
+exjade=
+
+an=
+
+chelator =
+
+exjade=
+
+indicated=designate,specify,stipulate
+
+receiving=be given,be presented with,be awarded,collect,accept,have conferred on one
+
+frequent=recurrent,recurring,repeated,persistent,periodic,perennial,chronic,continuing,occurring often,continual,constant,incessant,non-stop,endless
+
+used=second-hand,old,nearly new,worn,pre-owned,handed-down,cast-off
+
+treatment=behaviour towards,conduct towards,action towards,usage of,use of
+
+take=lay hold of,take hold of,get hold of,get into one's hands
+
+should=
+
+milk=cow juice 
+
+ok=all right,right,right then,right you are,very well,yes,very good,fine,agreed
+
+whole=entire,complete,full,total
+
+crush=squash,squeeze,press,compress
+
+tablet=slab,panel,plaque,plate,sign
+
+be=exist,have being,have existence
+
+combination=amalgamation,amalgam,merger,union,blend,mixture,mix,mingling,meld,fusion,fusing,compound,alloy,marriage,weave,coalescence,coalition,pooling,integration,conjunction,incorporation,synthesis,composite,composition,concoction
+
+aluminium=
+
+containing=hold,have room/space/seating/capacity for,carry,accommodate
+
+antacid=
+
+products=artefact,commodity,manufactured item
+
+avoid=keep away from,stay away from,steer clear of,circumvent,give a wide berth to,give something a miss,keep at arm's length
+
+medications=
+
+while=time,spell,stretch,stint,span,season,interval,period,period of time,length of time,duration,run,phase,stage,term
+
+taking=proceeds,returns,receipts,earnings,winnings,pickings,spoils
+
+necessary=obligatory,requisite,required,compulsory,mandatory,imperative,demanded,needed,called for,needful
+
+maintain=continue,keep,keep going,keep up,keep alive,keep in existence,carry on,preserve,conserve,prolong,perpetuate,sustain,bolster (up),prop up,retain,support,bear "the need to maintain close links between industry and schools"
+
+30=
+
+mins=
+
+gap=opening,aperture,space,breach,chink,slit,slot,vent,crack,crevice,cranny,cavity,hole,orifice,interstice,perforation,break,fracture,rift,rent,fissure,cleft,divide,discontinuity
+
+before=prior to,previous to,earlier than,preparatory to,in preparation for,preliminary to,in anticipation of,in expectation of
+
+food=nourishment,sustenance,nutriment,subsistence,fare,bread,daily bread
+
+advised=counsel,give counsel,give counselling,give guidance,guide,make recommendations,offer suggestions,offer opinions,give hints,give tips,give pointers,direct,give direction(s),instruct,give instruction,illuminate
+
+expect=anticipate,await,look for,hope for,watch for,look forward to,look ahead to,have in prospect
+
+treatment=behaviour towards,conduct towards,action towards,usage of,use of
+
+else=
+
+during=throughout,through,in,in the course of,throughout the time of,for the time of
+
+as=while,just as,even as,at the time that,at the moment that,during the time that,just when
+
+prescribed=order,advise,authorize
+
+need=require,be in need of,stand in need of,have need of,want,be in want of,be crying out for,be desperate for
+
+conducted=manage,direct,run,be in control of,control,oversee,supervise,be in charge of,preside over,regulate,mastermind,administer,organize,coordinate,orchestrate,handle,guide,govern,lead,carry out,carry on 
+
+on=supported by,resting on,in contact with
+
+additional=extra,added,supplementary,supplemental,further,auxiliary,ancillary,subsidiary,secondary,attendant,accessory
+
+monitoring=observe,watch,keep an eye on,keep track of,track,keep under observation,keep watch on,keep under surveillance,surveil,check,keep a check on,scan,examine,study,record,note,oversee,supervise,superintend
+
+monitored=observe,watch,keep an eye on,keep track of,track,keep under observation,keep watch on,keep under surveillance,surveil,check,keep a check on,scan,examine,study,record,note,oversee,supervise,superintend
+
+therapy=treatment,remedy,cure,remedial treatment,method of healing
+
+may=
+
+conducted=manage,direct,run,be in control of,control,oversee,supervise,be in charge of,preside over,regulate,mastermind,administer,organize,coordinate,orchestrate,handle,guide,govern,lead,carry out,carry on
+
+help=assist,aid,help out,lend a hand to,lend a helping hand to,give assistance to,come to the aid of,succour,aid and abet
+
+track=path,pathway,footpath,lane,trail,route,way,course
+
+response=answer,reply,acknowledgement,rejoinder,retort,return,riposte,sally,counter
+
+vision=eyesight,sight,power of sight,faculty of sight,ability to see,power of seeing,powers of observation,observation,perception,visual perception
+
+tests=trial,experiment,pilot study,try-out
+
+mri=
+
+have=possess,own,be in possession of,be the owner of,be the (proud) possessor of,have in one's possession,have to one's name
+
+side=half,part
+
+effects=result,consequence,upshot,outcome,out-turn,sequel,reaction,repercussions,reverberations,ramifications
+
+concerned=worried,anxious,disturbed,perturbed,troubled,bothered,distressed,upset,disquieted,uneasy,ill at ease,apprehensive,agitated
+
+about=regarding,concerning,with reference to,referring to,with regard to,with respect to,respecting,relating to,on,touching on,dealing with,relevant to,with relevance to,connected with,in connection with,on the subject of,in the matter of,apropos
+
+effects =result,consequence,upshot,outcome,out-turn,sequel,reaction,repercussions,reverberations,ramifications
+
+severe=acute,very bad,serious,grave,critical,dire,drastic,grievous,extreme,dreadful,terrible,awful,frightful,appalling,sore
+
+rash=reckless,impetuous,impulsive,hasty,overhasty,foolhardy,incautious,precipitate,precipitous,premature,careless,heedless,thoughtless,imprudent,foolish,headstrong,adventurous,over-adventurous,hot-headed,daredevil,devil-may-care,overbold,audacious,indiscreet
+
+or=
+
+difficulty=strain,struggling,awkwardness,trouble,toil,labour,laboriousness,strenuousness,arduousness
+
+breathing=inhale and exhale,respire,draw breath
+
+dizziness=
+
+swelling=bump,lump,bulge,inflammation,protuberance,excrescence,enlargement,distension,prominence,protrusion,tumour,node,nodule
+
+mainly=mostly,for the most part,in the main,on the whole,largely,by and large,to a large extent,to a great degree,predominantly,chiefly,principally
+
+face=countenance,physiognomy,profile,features
+
+throat=gullet,oesophagus
+
+blurred=make indistinct,make vague,unfocus,soften
+
+eyesight cloudy=
+
+eyesight reduced=
+
+hearing=ability to hear,faculty of hearing,sense of hearing,aural faculty,auditory perception
+
+more other=(the) more fool you / him / her etc
+
+tell=inform,let know,notify,apprise,make aware,mention something to,acquaint with,advise,put in the picture,brief,fill in,break the news to
+
+my=
+
+doctor=physician,medical practitioner,medical man,medical woman,clinician,doctor of medicine,MD
+
+manage=be in charge of,run,be head of,head,direct,control,preside over,lead,govern,rule,command,superintend,supervise,oversee,administer,organize,conduct,handle,take forward,guide
+
+diarrhea=loose motions,looseness of the bowels
+
+following=body of support,backing,patronage
+
+nausea=sickness,biliousness,queasiness
+
+vomiting=be sick,spew,spew up,fetch up
+
+skin=epidermis,dermis
+
+rashes=spots,skin eruption,breakout
+
+abdominal=stomach,gastric,intestinal,stomachic,enteric,duodenal,visceral,coeliac,ventral
+
+pain=suffering,agony,affliction,torture,torment,discomfort,soreness,ache,aching,soreness,hurt,throb,throbbing,smarting,pricking,sting,stinging,twinge,shooting pain,stab,pang,spasm,stitch,cramp,
+
+discontinue=stop,end,terminate,bring to an end,put an end to,put a stop to,wind up,finish,bring to a halt,call a halt to,cancel,drop,dispense with,do away with,get rid of,abolish
+
+child=youngster,young one,little one,boy,girl
+
+develops=grow,evolve,mature,expand,enlarge,spread,advance,progress,prosper,succeed,thrive,get on well,flourish,blossom,bloom,burgeon,make headway,be successful
+
+goal=aim,objective,object,grail,holy grail,end,target,design,desire,desired result,intention,intent,plan,purpose,idea,point,object of the exercise
+
+chelation=
+
+long=lengthy,of considerable length,extended,prolonged,extensive,stretched out,spread out
+
+reduce=lessen,make less,make smaller,lower,bring down,decrease,turn down,diminish,take the edge off,minimize
+
+levels=height,highness,altitude,elevation,distance upward
+
+child's=
+
+skip=caper,prance,trip,dance,bound,jump,leap,spring,hop,bounce,gambol,frisk,romp,cavort,bob
+
+doses=amount,quantity,measure,portion,dosage,drench,draught
+
+jadenu =
+
+requires=need,be in need of,stand in need of,have need of
+
+you=
+
+consider=think about,contemplate,give thought to,reflect on,examine,appraise,review
+
+frequent=recurrent,recurring,repeated,persistent,periodic,perennial,chronic,continuing,occurring often,continual,constant,incessant,non-stop,endless
+
+required=need,be in need of,stand in need of,have need of
+
+chelator=
+
+exjade=
+
+switch=button,handle,lever,key,control,controller,disc,dial,joystick
+
+something=
+
+better=superior,finer,of higher quality,greater,in a different class,one step ahead
+
+jadenu=
+
+similar=alike,the same,indistinguishable,close,near,almost identical,homogeneous,interchangeable
+
+deferasirox=
+
+injections=inoculation,vaccination,vaccine,immunization,booster,dose
+
+tablet=slab,panel,plaque,plate,sign
+
+forms=shape,configuration,formation,conformation,structure,construction,arrangement,disposition,appearance,outward form/appearance,exterior
+
+available=obtainable,accessible,to be had,ready for use,at hand,to hand,at one's disposal,at one's fingertips,within easy reach,handy,convenient
+
+give=present with,provide with,supply with,furnish with,gift with
+
+child=youngster,young one,little one,boy,girl
+
+daily=occurring/done/produced every day,everyday,day-to-day,quotidian
+
+dose=amount,quantity,measure,portion,dosage,drench,draught
+
+requirement=need,wish,demand,want,necessity,essential,necessary/essential item
+
+differ=vary,be different,be unlike,be dissimilar,be distinguishable,diverge
+
+from=
+
+specific=particular,specified,certain,fixed,set,determined,distinct,separate,definite,single,individual,peculiar,discrete,express,precise
+
+instructions=order,command,directive,direction,decree,edict,injunction,mandate,dictate,commandment,diktat,demand,bidding,requirement,stipulation,charge,ruling,mandate,pronouncement
+
+antacids=
+
+light=illumination,brightness,luminescence,luminosity,shining,gleaming,gleam,brilliance,radiance,lustre,glowing,glow,blaze,glare,dazzle
+
+meal=repast,snack
+
+mean=signify,convey,denote,designate,indicate,connote,show,express,spell out,stand for,represent,symbolize,imply,purport,suggest,allude to,intimate,hint at,insinuate,drive at,refer to
+
+often=frequently,many times,many a time,a lot,in many cases/instances,repeatedly,again and again,time and again,time and time again,time after time,over and over,over and over again,day in,day out,week in,week out,all the time,regularly,recurrently,continually,usually,habitually,commonly,generally,ordinarily,as often as not
+
+meet=encounter,meet up with,come face to face with,make contact with,run into/across,come across/upon,chance on,happen on,light on,stumble across/on
+
+alter=change,make changes to,make different,make alterations to,adjust,make adjustments to,adapt,amend,improve,modify,convert,revise,recast,reform,reshape,refashion,redesign,restyle,revamp,rework,remake,remodel,remould,redo,reconstruct,reorganize,reorder,refine,reorient,reorientate,vary,transform,transfigure,transmute,evolve
+
+based=found,build,construct,form,establish,ground,root
+
+medication=
+
+important=main,chief,principal,key,major,salient,prime,dominant,foremost,supreme,predominant,paramount,overriding,cardinal,crucial,vital,indispensable,critical,essential,significant,urgent
+
+monitor=detector,scanner,recorder
+
+undergo=go through,experience,engage in,undertake,live through,face,encounter,submit to,be subjected to,come in for,receive,sustain,endure,brave,bear,tolerate,stand,withstand,put up with,weather,support,brook,suffer,cope with
+
+invasive=
+
+liver=
+
+performed=carry out,do,execute,discharge,bring about,bring off,accomplish,achieve,fulfil,complete,conduct,effect,dispatch,work,implement
+
+most=nearly all,almost all,the greatest quantity/part/number,the majority,the bulk,the lion's share,the mass,the preponderance
+
+stop=come to an end,come to a stop,cease,end,finish,draw to a close,be over,conclude,terminate,come to a standstill
+
+experience=involvement in,participation in
+
+supportive=encouraging,caring,sympathetic,reassuring,understanding,concerned,helpful,nurturing,sensitive
+
+managing=be in charge of,run,be head of,head,direct,control,preside over,lead,govern,rule,command,superintend,supervise,oversee,administer,organize,conduct,handle,take forward,guide,be at the helm of
+
+worried=anxious,disturbed,perturbed,troubled,bothered,distressed,concerned,upset,distraught,worried sick,disquieted,uneasy,ill at ease,fretful,fretting,agitated,in a state of agitation,nervous,edgy,on edge,like a cat on a hot tin roof,tense,overwrought,worked up,keyed up,strung out,jumpy,with one's stomach in knots,stressed,under stress
+
+has=possess,own,be in possession of,be the owner of,be the (proud) possessor of,have in one's possession,have to one's name,count among one's possessions,be blessed with,boast,enjoy
+
+time=hour
+
+connecting=attach,join,fasten,fix,affix,couple,link,bridge,secure,make fast,tie,tie up,bind,fetter,strap,rope,tether,truss,lash,hitch,moor,anchor,yoke,chain
+
+support=hold up,bear,carry,prop up,keep up,bolster up,brace,shore up,underpin,buttress,reinforce
+
+groups=category,class,classification,grouping,set,lot,batch,bracket,type,sort,kind,variety,family,species,genus,breed,style
+
+feel=perceive,sense,detect,discern,make out,notice,observe,identify
+
+sad=unhappy,sorrowful,dejected,regretful,depressed,downcast,miserable,downhearted,down,despondent,despairing,disconsolate,out of sorts,desolate,bowed down,wretched,glum,gloomy,doleful,dismal,blue,melancholy,melancholic,low-spirited,mournful,woeful,woebegone,forlorn,crestfallen,broken-hearted,heartbroken,inconsolable,grief-stricken
+
+time =hour
+
+okay=all right,right,right then,right you are,very well,yes,very good,fine,agreed
+
+discusses=talk over,talk about,talk through,converse about,debate,confer about,put your heads together about,deliberate about,chew over,consider,exchange views on/about,weigh up,consider the pros and cons of,thrash out,argue,dispute
+
+feelings=love,care,affection,fondness,tenderness,warmth,warmness,emotion,sentiment
+
+school=educational institution,centre of learning
+
+teachers =educator,tutor,instructor,pedagogue,schoolteacher,schoolmaster,schoolmistress,master,mistress,governess,educationalist,educationist
+
+only=at most,at best,(only) just,no/not more than,as little as
+
+person=human being,individual,man/woman,human,being,living soul,soul,mortal,creature,fellow
+
+suffering=hurt,ache,be in pain,feel pain,be racked with pain,endure agony,agonize,be distressed,be in distress,experience hardship,be upset,be miserable,be wretched
+
+feeling=love,care,affection,fondness,tenderness,warmth,warmness,emotion,sentiment
+
+hopeless=despairing,without hope,in despair,desperate,dejected,downhearted,despondent,demoralized,disconsolate,downcast,wretched,woebegone,forlorn,negative,pessimistic,defeatist,resigned
+
+after=following,subsequent to,succeeding,at the close/end of,in the wake of,later than
+
+developing=grow,evolve,mature,expand,enlarge,spread,advance,progress,prosper,succeed,thrive,get on well,flourish,blossom,bloom,burgeon,make headway,be successful
+
+me=
+
+relieving=alleviate,mitigate,assuage,allay,soothe,soften,palliate,appease,ease,dull,reduce,lessen,diminish
+
+stress=pressure,tension,strain,tightness,tautness
+
+due=expected,required,awaited,anticipated
+
+beta-thalassemia=
+
+signs=indication,signal,symptom,hint,pointer,suggestion,intimation,mark,manifestation,demonstration
+
+stress=pressure,tension,strain,tightness,tautness
+
+methods=procedure,technique,system,practice,routine,modus operandi,method of working,formula,process,means,medium,mechanism
+
+three-minute=
+
+space=room,expanse,extent,capacity,area,volume,spaciousness,scope,latitude,expansion,margin,leeway,play,clearance
+
+exercising=use,employ,make use of,utilize,avail oneself of,put to use
+
+know=be aware,realize,be conscious,have knowledge,be informed,have information
+
+stressed=emphasize,draw attention to,focus attention on,underline,underscore,point up,place emphasis on,lay stress on,highlight,spotlight,turn the spotlight on,bring to the fore,foreground,accentuate,press home,impress on someone,make a point of,dwell on,harp on,belabour,insist on,rub in
+
+deep=extending far down
+
+decreasing=lessen,grow/become less,grow/become smaller,reduce,drop,diminish,decline,dwindle,contract,shrink,fall off,die down
+
+visualization=
+
+self-talk=
+
+examples=specimen,sample,exemplar,exemplification,instance,case,representative case,typical case,case in point,illustration
+
+negative=saying,in the negative,rejecting,refusing
+
+thoughts=idea,notion,line of thinking,belief,concept,conception,conviction,opinion,view,impression,image,perception,mental picture
+
+uncertain=unknown,undetermined,unsettled,unresolved,unsure,pending,in the balance,in limbo,up in the air,debatable,open to question,in doubt
+
+regarding=concerning,as regards,with regard to,in regard to,with respect to,in respect of,with reference to,relating to,respecting,as for,as to,re,about,apropos,on the subject of,in connection with
+
+results=consequence,outcome,upshot,out-turn,sequel,effect,reaction,repercussion,reverberation,ramification,end,conclusion,termination,culmination,corollary,concomitant,aftermath,footprint,fruit,product,produce,by-product,solution
+
+overcome=get the better of,prevail over,control,get control of,get/bring under control,bridle,tame,master,gain mastery over,deal with,conquer,defeat,vanquish,beat,solve,triumph over,best,worst,overpower,overwhelm
+
+uncertainty=unpredictability,unreliability,riskiness,chanciness,precariousness,unsureness
+
+depressed=sad,saddened,unhappy,gloomy,glum,melancholy,miserable,sorrowful,dejected,disconsolate,downhearted,downcast,cast down,down,crestfallen,woebegone,despondent,dispirited,low,low in spirits,low-spirited,heavy-hearted,morose,dismal,desolate,weighed down,oppressed
+
+future =time to come,time ahead
+
+reaction=response
+
+son daughter child=
+
+diagnosed=identify,determine,distinguish,recognize,discover,spot,detect,pinpoint
+
+angry=irate,annoyed,cross,vexed,irritated,exasperated,indignant,aggrieved,irked,piqued,displeased,provoked,galled,resentful
+
+upset=distress,trouble,perturb,disturb,discompose,unsettle,disconcert,discountenance,dismay,disquiet,worry,bother,inconvenience,agitate,fluster,throw,ruffle,unnerve,shake,frighten,alarm,anger,annoy,irritate,vex,irk,fret,pester,harass,torment,plague,hurt,grieve
+
+diagnosis=identification,recognition,discovery,detection,pinpointing,reading,determination
+
+angry upset=
+
+curb=restraint,restriction,check,brake,rein,control,limitation,limit,constraint,stricture
+
+anger=annoyance,vexation,exasperation,crossness,irritation,irritability,indignation,pique,displeasure,resentment
+
+kind=sort,type,variety,style,form,class,category,genre
+
+activities=bustle,hustle and bustle,busyness,action,liveliness,movement,life,stir,animation,commotion,flurry,tumult,hubbub,excitement,agitation,fuss,whirl
+
+decrease=lessen,grow/become less,grow/become smaller,reduce,drop,diminish,decline,dwindle,contract,shrink,fall off,die down
+
+anger=annoyance,vexation,exasperation,crossness,irritation,irritability,indignation,pique,displeasure,resentment
+
+affect=influence,exert influence on,have an effect on,act on,work on,condition,touch,have an impact on,impact on,take hold of,attack,infect,strike,strike at,hit
+
+relationship=connection,relation,association,link,correlation,correspondence,parallel,tie-in,tie-up,alliance,bond,interrelation,interconnection
+
+parter spouse =
+
+difficult=hard,strenuous,arduous,laborious,heavy,tough,onerous,burdensome,demanding,punishing,gruelling,grinding,back-breaking,painful
+
+me my=
+
+spouse=husband,wife,partner,mate,consort
+
+talk=speak,give voice,chat
+
+information=details,particulars,facts,figures,statistics,data
+
+children=youngster,young one,little one,boy,girl
+
+condition =state,shape,order
+
+explain=definition,sense,explanation,denotation,connotation,interpretation,elucidation,explication
+
+overload how=overburden,put too much in,overcharge,encumber,burden,weigh down
+
+his her=
+
+friends=companion,boon companion,bosom friend,best friend,close friend,intimate,confidante,confidant,familiar,soul mate,alter ego,second self,shadow,playmate,playfellow,classmate,schoolmate,workmate,ally,comrade,associate
+
+family=household,ménage
+
+providing=if,on condition that,provided ,providing that,presuming,assuming,on the assumption that,as long as,given
+
+help=assist,aid,help out,lend a hand to,lend a helping hand to,give assistance to,come to the aid of,succour,aid and abet
+
+prevent=stop,put a stop to,avert,nip in the bud,fend off,turn aside,stave off,ward off,head off,shut out,block,intercept,halt,arrest,check,stay
+
+friends family=
+
+nagging bothering=
+
+worry=fret,be worried,be concerned,be anxious,agonize,brood,dwell on,panic,get in a panic,lose sleep,get worked up,get in a fluster,get overwrought,be on tenterhooks
+
+impact affect=
+
+job=position of employment,position,post,situation,place,appointment,posting,placement,day job
+
+more=additional,further,added,extra,increased,fresh,new,other,supplementary,supplemental,spare,alternative
+
+than=
+
+health =good physical condition,healthiness,fitness,physical fitness,well-being,haleness,good trim,good shape,fine fettle,good kilter
+
+at=
+
+workplace=
+
+overload  =overburden,put too much in,overcharge,encumber,burden,weigh down
+
+effect=result,consequence,upshot,outcome,out-turn,sequel,reaction,repercussions,reverberations,ramifications
+
+say=speak,utter,voice,pronounce,give utterance to,give voice to,vocalize,declare,state,announce,remark,observe,mention,comment,note,add,reply,respond,answer,rejoin,
+
+get=acquire,obtain,come by,come to have,come into possession of,receive,gain,earn,win,come into,come in for,take possession of,take receipt of,be given
+
+physcian=doctor,doctor of medicine,MD,medical practitioner,medical man/woman/person
+
+better=superior,finer,of higher quality,greater,in a different class,one step ahead
+
+informed=knowledgeable,enlightened,illuminated,literate,well informed,well educated,educated,schooled,instructed
+
+advantage=upper hand,edge,lead,head,whip hand,trump card
+
+searching=observant,penetrating,piercing,probing,curious,discerning,incisive,keen,alert,perceptive,shrewd,sharp,intent,minute,thorough,penetrating,probing,incisive,inquisitive,analytic,deep,in-depth,enquiring 
+
+don’t=
+
+understand=comprehend,apprehend,grasp,see,take in,perceive,discern,make out,puzzle out,recognize,keep up with,master,get to know,follow,fathom,get to the bottom of,penetrate,divine,interpret,unravel,decipher,see the light about,envisage
+
+terms=word,expression,phrase,turn of phrase,idiom,locution
+
+physician=doctor,doctor of medicine,MD,medical practitioner,medical man
+
+using talking=
+
+about=regarding,concerning,with reference to,referring to,with regard to,with respect to,respecting,relating to,on,touching on,dealing with,relevant to,with relevance to,connected with,in connection with,on the subject of,in the matter of,apropos
+
+read=peruse,study,scrutinize,look through
+
+different=dissimilar,unalike,unlike,non-identical,contrasting,divergent,disparate,poles apart
+
+way=method,course of action,process,procedure,technique,system
+
+treating=behave towards,act towards,conduct oneself towards,use,serve
+
+change=alter,make different,become different,undergo a change,make alterations to,adjust,make adjustments to,adapt,turn,amend,improve,modify,convert,revise,recast,reform,reshape,refashion,redesign,restyle,revamp,rework,remake,remodel,remould,redo,reconstruct,reorganize,reorder,refine,reorient,reorientate,vary,transform,transfigure,transmute,metamorphose,undergo a sea change,evolve
+
+remember=recall,call to mind,recollect,think of
+
+everything=each item,each thing,every article,every single thing,the lot,the whole lot,the entirety,the total,the aggregate
+
+want=desire,wish for,hope for,fancy,have a fancy for,take a fancy to,have an inclination for,care for,like,set one's heart on
+
+discuss=talk over,talk about,talk through,converse about,debate,confer about,put your heads together about,deliberate about,chew over,consider,exchange views on/about,weigh up,consider the pros and cons of,thrash out,argue,dispute
+
+health=good physical condition,healthiness,fitness,physical fitness,well-being,haleness,good trim,good shape,fine fettle,good kilter
+
+care=safe keeping,supervision,custody,charge,protection,keeping,keep,control,management,ministration,guidance,superintendence,tutelage,aegis,responsibility
+
+provider =supplier,donor,giver,contributor,source,mainstay
+
+confused=demented,bewildered,muddled,addled,befuddled,disoriented,disorientated,(all) at sea,unbalanced,unhinged,senile,with Alzheimer's disease,vague,unclear,indistinct,imprecise,blurred,nebulous,hazy,woolly,foggy,shadowy,dim,imperfect,sketchy,obscure,remote,questions=enquiry,query
+
+ask=enquire,query,want to know,question,put a question to,interrogate,quiz,cross-question,cross-examine,catechize
+
+list=catalogue,inventory,record,register,roll,file,index,directory,listing,listicle,checklist,tally,docket,ticket,enumeration,table,tabulation
+
+made=construct,build,assemble,put together,manufacture,produce,fabricate,create,form,fashion,model,mould,shape,forge,bring into existence
+
+active=mobile,energetic,agile,sporty,nimble,vigorous,vital,dynamic,sprightly,spry,lively,animated,bouncy,bubbly,perky,frisky,zestful,spirited
+
+role=part,character
+
+appointment=meeting,engagement,interview,arrangement,consultation,session
+
+log=chunk of wood,branch,tree trunk,bole,stump
+
+physician doctor =
+
+contact=touch,touching
+
+case=instance,occurrence,occasion,manifestation,demonstration,exhibition,exposition,expression
+
+side-effects =
+
+queries doubts=
+
+says =speak,utter,voice,pronounce,give utterance to,give voice to,vocalize,declare,state,announce,remark,observe,mention,comment,note,add,reply,respond,answer,rejoin,whisper,mutter,mumble,mouth,claim,maintain,assert,hold,insist,contend,aver,affirm,avow,allege,profess,formalopine,
+
+side-effects=
+
+caused=bring about,give rise to,be the cause of,lead to,result in,create,begin,produce,generate,originate,engender,spawn,occasion,effect,bring to pass,bring on,precipitate,prompt,provoke,kindle,trigger,make happen,spark off,touch off,stir up,whip up,induce,inspire,promote,foster
+
+childs=youngster,young one,little one,boy,girl
+
+progress=forward movement,onward movement,progression,advance,advancement,headway,passage
+
+focus=centre,focal point,central point,centre of attention,hub,pivot,nucleus,heart,cornerstone,linchpin,kingpin,bedrock,basis,anchor,backbone,cynosure
+
+talking=speak,give voice,chat
+
+monitoring=observe,watch,keep an eye on,keep track of,track,keep under observation,keep watch on,keep under surveillance,surveil,check,keep a check on,scan,examine,study,record,note,oversee,supervise,superintend
+
+progress=forward movement,onward movement,progression,advance,advancement,headway,passage
+
+nervous=highly strung,easily frightened,easily agitated,anxious,edgy,tense,excitable,jumpy,skittish,brittle,neurotic,hysterical
+
+asking=enquire,query,want to know,question,put a question to,interrogate,quiz,cross-question,cross-examine,catechize
+
+helpful =obliging,eager to help,eager to please,friendly,pleasant,kind,accommodating,considerate,thoughtful,supportive,cooperative,sympathetic,caring,hospitable,neighbourly,charitable,benevolent,beneficent
+
+address=inscription,label,mark,superscription
+
+concerns =be about,deal with,cover,treat,have to do with
+
+member=subscriber,associate,representative,attender,insider,fellow,comrade,adherent,life member,founder member,card-carrying member
+
+friend=companion,boon companion,bosom friend,best friend,close friend,intimate,confidante,confidant,familiar,soul mate,alter ego,second self,shadow,playmate,playfellow,classmate,schoolmate,workmate,ally,comrade,associate
+
+appoinment=meeting,engagement,interview,arrangement,consultation,session
+
+me=
+
+make=construct,build,assemble,put together,manufacture,produce,fabricate,create,form,fashion,model,mould,shape,forge,bring into existence
+
+out=not here,not at home,not in,gone away,away,elsewhere,absent,away from one's desk
+
+cant=hypocrisy,sanctimoniousness,sanctimony,humbug,pietism,affected piety,insincerity,sham,lip service,empty talk,pretence
+
+healthcare=
+
+saying=proverb,maxim,aphorism,axiom,adage,saw,tag,motto,precept,epigram,epigraph,dictum,gnome,pearl of wisdom
+
+didn’t=
+
+treat=behave towards,act towards,conduct oneself towards,use,serve
+
+start =begin,get under way,go ahead,get going
+
+physcician=doctor,doctor of medicine,MD,medical practitioner
+
+underestimating=set too low,underrate
+
+happen=occur,take place,come about,come off,come into being
+
+voice=power of speech
+
+concerns=be about,deal with,cover,treat,have to do with
+
+myelodysplastic=
+
+syndrome=
+
+its=
+
+hard=firm,solid,dense,rigid,stiff,resistant,unbreakable,inflexible,unpliable,impenetrable,unyielding,solidified,hardened,compact,compacted,steely,tough,strong,stony,rock-like,flinty,close-packed,compressed,as hard as iron,as hard as stone
+
+management=managers,employers,directors,board of directors,board,directorate,executives,administrators,administration
+
+stigma=shame,disgrace,dishonour
+
+it=
+
+seek=search for,try to find,look for,look about/around/round for,cast about/around/round for,be on the lookout for,be after,hunt for,be in quest of
+
+soon=in a short time,shortly,presently,in the near future,before long,in a little while,in a minute,in a moment,in an instant,in a twinkling,in the twinkling of an eye,before you know it
+
+sense=sensory faculty,feeling,sensation,perception
+
+crisis=catastrophe,calamity,cataclysm,emergency,disaster
+
+sense feel=
+
+crisis=catastrophe,calamity,cataclysm,emergency,disaster
+
+seeking=search for,try to find,look for,look about/around/round for,cast about/around/round for,be on the lookout for,be after,hunt for,be in quest of,quest (after),be in pursuit of
+
+care =safe keeping,supervision,custody,charge,protection,keeping,keep,control,management,ministration,guidance,superintendence,tutelage,aegis,responsibility
+
+people=human beings,persons,individuals,humans,mankind,humankind,the human race,Homo sapiens,humanity,the human species,mortals,souls,personages,men,women,and children
+
+usually=normally,generally,habitually,customarily,standardly,routinely,regularly,typically,ordinarily,commonly,conventionally,traditionally,historically
+
+lose=be deprived of,suffer the loss of,no longer have,stop having
+
+motivation=motive,motivating force,incentive,stimulus,stimulation,inspiration,impulse,inducement,incitement,spur,goad,provocation
+
+stay=remain,stay behind,stay put
+
+starting=begin,get under way,go ahead,get going
+
+continuing=carry on with,go on with,keep on with,proceed with,pursue
+
+medications=
+
+whom=
+
+motivated=prompt,drive,move,inspire,stimulate,influence,lead,persuade,actuate,activate,impel,push,propel,spur
+
+focused=concentrated,concentrating,attentive,absorbed,engrossed,fascinated,enthralled,enrapt,rapt,earnest,intense,studious,fixed,steady,steadfast,occupied,preoccupied,wrapped up,alert,watchful,observant
+
+treated=behave towards,act towards,conduct oneself towards,use,serve
+
+leave=depart from,go away from,go from,withdraw from,retire from,take oneself off from,exit from,take one's leave of,pull out of,quit,be gone from,decamp from,disappear from,abandon,vacate,absent oneself from,evacuate
+
+both=
+
+untreated=
+
+anaemia=
+
+syndrome=
+
+symptoms=manifestation,indication,indicator,sign,mark,feature,trait
+
+ironoverload=
+
+without=unaccompanied by,unescorted by
+
+symptomsl=manifestation,indication,indicator,sign,mark,feature,trait
+
+working=employed,in work,in a job,waged,in gainful employment
+
+stick=piece of wood,twig,small branch
+
+frustrating=thwart,defeat,foil,block,stop,put a stop to,counter,spoil,check,baulk,circumvent,disappoint,forestall,bar,dash,scotch,quash,crush,derail,nip in the bud,baffle,nullify,snooker
+
+see=discern,perceive,glimpse,catch/get a glimpse of,spot,notice,catch sight of,sight
+
+takes=lay hold of,take hold of,get hold of,get into one's hands
+
+up=
+
+energy=vitality,vigour,life,liveliness,animation,vivacity,spirit,spiritedness,fire,passion,ardour,zeal,verve,enthusiasm,zest,vibrancy,spark,sparkle,effervescence,exuberance,buoyancy,perkiness,sprightliness
+
+vary=differ,be different,be unlike,be dissimilar
+
+keep=retain,hold on to,keep for oneself,retain possession of,keep possession of,retain in one's possession,keep hold of,not part with,hold fast to,hold back
+
+all=each of,each one of the,every one of the,every single one of the
+
+normal=usual,standard,typical,stock,common,ordinary,customary,conventional,habitual,accustomed,expected,wonted,everyday,regular,routine,day-to-day,daily,established,settled,set,fixed,traditional,quotidian,prevailing
+
+regular=methodical,systematic,structured,well ordered,well organized,orderly,efficient,smooth-running,streamlined,well regulated,disciplined,planned,well planned,businesslike,meticulous,punctilious "you should have a regular procedure for taking and recording attendance"
+
+basis=starting point,base,point of departure,beginning,premise
+
+urine=
+
+continue=carry on with,go on with,keep on with,proceed with,pursue
+
+suggest=propose,put forward,submit,recommend,advocate
+
+some=
+
+tips=point,end,extremity,head,sharp end,spike,prong,tine,nib "the tip of the spear"
+
+setting=surroundings,position,situation,environment,background,backdrop,milieu,environs
+
+goals=aim,objective,object,grail,holy grail,end,target,design,desire,desired result,intention,intent,plan,purpose,idea,point,object of the exercise
+
+increase=grow,get bigger,get larger,become greater,enlarge,expand,swell
+
+motivation=motive,motivating force,incentive,stimulus,stimulation,inspiration,impulse,inducement,incitement,spur,goad,provocation
+
+good=fine,of high quality,of a high standard,quality,superior
+
+rewards=recompense,prize,prize money,winnings,purse,award,honour,decoration,profit,advantage,benefit,bonus,plus,premium
+
+achieve=attain,reach,arrive at
+
+goal=aim,objective,object,grail,holy grail,end,target,design,desire,desired result,intention,intent,plan,purpose,idea,point,object of the exercise
+
+able=allowed to,free to,in a position to
+
+things=object,article,item,artefact,commodity
+
+improve=make better,better,ameliorate,upgrade,refine,enhance,boost,build on,help,raise,revamp,brush up,polish up,perk up,tweak
+
+condtion=state,shape,order
+
+medicines=medical science,practice of medicine,healing,therapeutics,therapy,treatment,healing art "the remarkable achievements of modern medicine"
+
+extreme=utmost,uttermost,very great,greatest,greatest possible,maximum,maximal,highest,ultimate,supreme,paramount,great,acute,major,intense,enormous,severe,high,superlative,exceptional,extraordinary "they were in extreme danger"
+
+sports swimming jogging running physical=
+
+activity=bustle,hustle and bustle,busyness,action,liveliness,movement,life,stir,animation,commotion,flurry,tumult,hubbub,excitement,agitation,fuss,whirl
+
+drug=medicine,medical drug,medication,medicament
+
+strong=powerful,muscular,brawny,well built,powerfully built,strapping,sturdy,hefty,burly,meaty,robust,fit,athletic,vigorous,tough,rugged
+
+deal=distribute,give out,share out,divide out,divide up,hand out,pass out,pass round,dole out,mete out,dispense,allocate,allot,assign,apportion,bestow
+
+family=household,ménage
+
+uncomfortable=painful,not comfortable,intolerable,unbearable,disagreeable,excruciating,agonizing,confining,cramped,Spartan "a high-backed uncomfortable chair"
+
+family friends=
+
+specifically=
+
+friend family=
+
+still=motionless,unmoving,without moving,without moving a muscle,stock-still,immobile,like a statue,as if turned to stone,as if rooted to the spot,unstirring,stationary
+
+bothering=concern oneself,trouble oneself,mind,care,worry oneself,burden oneself,occupy oneself,busy oneself
+
+finances=financial affairs,money matters,pecuniary matters,fiscal matters,economics,money management,commerce,business,investment,banking,accounting "the job taught him a great deal about finance"
+
+conditions=state,shape,order
+
+missing=lost,mislaid,misplaced,nowhere to be found,absent,not present,gone,gone astray,unaccounted for "his clothes and wallet are also missing"
+
+work=labour,toil,exertion,effort,slog,drudgery,the sweat of one's brow
+
+visits=call on,call in on,pay a call on,pay a visit to,pay someone a call,pay someone a visit,go to see,come to see,look in on
+
+interfere=impede,obstruct,get in the way of,stand in the way of,hinder,be a hindrance to,inhibit,restrict,restrain,constrain,hamper,handicap,cramp,check,block,frustrate,thwart,baulk,hold back,hold up
+
+manage=be in charge of,run,be head of,head,direct,control,preside over,lead,govern,rule,command,superintend,supervise,oversee,administer,organize,conduct,handle,take forward,guide,be at the helm of
+
+government=administration,executive,regime,authority,powers that be,directorate,council,leadership,management
+
+find=discover,become aware,realize,observe,notice,note,perceive,learn,detect "you'll find that many lively towns are but a short drive away"
+
+financial=monetary,money,economic,pecuniary,banking,commercial,business,investment,accounting,fiscal,budgetary "a major financial institution"
+
+patient=forbearing,uncomplaining,tolerant,long-suffering,resigned,stoical
+
+assistance=help,aid,abettance,support,backing,succour,encouragement,reinforcement,relief,intervention,cooperation,collaboration
+
+co-pay=
+
+programs=schedule,agenda,calendar,timetable
+
+level=height,highness,altitude,elevation,distance upward "the lock is being opened so that the level of water is raised allowing a boat to pass through"
+
+monitored=observe,watch,keep an eye on,keep track of,track,keep under observation,keep watch on,keep under surveillance,surveil,check,keep a check on,scan,examine,study,record,note,oversee,supervise,superintend
+
+levels=height,highness,altitude,elevation,distance upward "the lock is being opened so that the level of water is raised allowing a boat to pass through"
+
+expensive=costly,dear,high-priced,high-cost,big-budget,exorbitant,extortionate,overpriced
+
+medication=
+
+daily=occurring/done/produced every day,everyday,day-to-day,quotidian
+
+routine=procedure,practice,pattern,drill,regime,regimen,groove
+
+cannot=
+
+follow=come behind,come after,go behind,go after,walk behind,tread on the heels of
+
+routine=procedure,practice,pattern,drill,regime,regimen,groove
+
+habit=practice,custom,pattern,routine,style,convention,policy,wont,way,manner,mode,norm,tradition,matter of course,rule,usage
+
+liquid=fluid
+
+morning=before noon,before lunch(time),a.m.
+
+that=
+
+chew=masticate,munch,champ,chomp,crunch,bite,nibble,gnaw,grind
+
+tablets=slab,panel,plaque,plate,sign
+
+instead=as an alternative,as a substitute,as a replacement,in lieu,alternatively
+
+breakfast=
+
+already=by this/that time,by now/then,thus far,so far,hitherto,before,before now/then,previously,earlier,earlier on,until now/then,up to now/then
+
+system=structure,organization,order,arrangement,complex,apparatus,network
+
+remind=jog someone's memory,refresh someone's memory,help someone remember,cause someone to remember
+
+no=no indeed,absolutely not,most certainly not,of course not,under no circumstances,by no means,not at all,negative,never,not really,no thanks
+
+easily=effortlessly,comfortably,simply,straightforwardly
+
+strategies=master plan,grand design,game plan,plan of action,plan,policy,proposed action,scheme,blueprint,programme,procedure,approach,schedule
+
+use=utilize,make use of,avail oneself of,employ,work,operate,wield,ply,apply,manoeuvre,manipulate,put to use,put into service,find a use for,resort to 
+
+schedule=plan,programme,timetable,scheme "until that decision is made we cannot begin to draw up an engineering schedule"
+
+changes=alter,make different,become different,undergo a change,make alterations to,adjust,make adjustments to,adapt,turn,amend,improve,modify,convert,revise,recast,reform,reshape,refashion,redesign,restyle,revamp,rework,remake,remodel,remould,redo,reconstruct,reorganize,reorder,refine,reorient,reorientate,vary,transform,transfigure,transmute,metamorphose,undergo a sea change,evolve
+
+changes=alter,make different,become different,undergo a change,make alterations to,adjust,make adjustments to,adapt,turn,amend,improve,modify,convert,revise,recast,reform,reshape,refashion,redesign,restyle,revamp,rework,remake,remodel,remould,redo,reconstruct,reorganize,reorder,refine,reorient,reorientate,vary,transform,transfigure,transmute,metamorphose,undergo a sea change,evolve
+
+often=frequently,many times,many a time,on many/numerous occasions,a lot,in many cases/instances,repeatedly,again and again,time and again,time and time again,time after time,over and over,over and over again,day in,day out,week in,week out,all the time,regularly,recurrently,continually,usually,habitually,commonly,generally,ordinarily,as often as not
+
+being=existence,living,life,animation,animateness,aliveness,reality,actuality,essential nature,lifeblood,vital force,entity
+
+going=move,proceed,make one's way,advance,progress,pass,walk,wend one's way
+
+trip=stumble,lose one's footing,catch one's foot,slip,lose one's balance,stagger,totter,slide
+
+myself=
+
+travelling=portable,mobile,transportable,movable,transferable,easily carried,easy to carry,conveyable,travel,lightweight,compact,handy,convenient,manageable
+
+techniques=skill,skilfulness,ability,capability,proficiency,expertise,expertness,mastery,talent,genius,artistry,art,craftsmanship,craft
+
+prepare=make ready,get ready,put together,draw up,produce,arrange,develop,assemble,construct,compose,edit,devise,work out,think up,conceive,formulate,concoct,fashion,work up,lay "I want you to prepare a plan of action for me"
+
+go=move,proceed,make one's way,advance,progress,pass,walk,wend one's way
+
+trip=stumble,lose one's footing,catch one's foot,slip,lose one's balance,stagger,totter,slide
+
+anything=
+
+prepared=make ready,get ready,put together,draw up,produce,arrange,develop,assemble,construct,compose,edit,devise,work out,think up,conceive,formulate,concoct,fashion,work up,lay "I want you to prepare a plan of action for me"
+
+emergencies=crisis,urgent situation,extremity,exigency
+
+trouble=problems,difficulty,issues,bother,inconvenience,worry,anxiety,distress,concern,disquiet,unease,irritation,vexation,annoyance,stress,agitation,harassment,unpleasantness
+
+doctor=physician,medical practitioner,medical man,medical woman,clinician,doctor of medicine,MD
+
+this=
+
+transportation=
+
+assistance,=help,aid,abettance,support,backing,succour,encouragement,reinforcement,relief,intervention,cooperation,collaboration
+
+where=
+
+infromation=details,particulars,facts,figures,statistics,data
+
+having=possess,own,be in possession of,be the owner of,be the (proud) possessor of,have in one's possession,have to one's name,count among one's possessions,be blessed with,boast,enjoy
+
+scheduling=arrange,organize,plan,programme,timetable,fix a time for,make arrangements for,book,set up,line up,slot in,time
+
+appointments=meeting,engagement,interview,arrangement,consultation,session
+
+regularly=
+
+routine=procedure,practice,pattern,drill,regime,regimen,groove
+
+empty=vacant,unoccupied,uninhabited,untenanted,clear,free,bare,desolate,deserted,abandoned 
+
+stomach=abdomen,belly,gut,middle
+
+meal=repast,snack
+
+swallow=eat,gulp down,consume,devour,eat up,put away,gobble (up),bolt (down),wolf down,stuff down,gorge oneself on,feast on,polish off
+
+pills=tablet,capsule,caplet,pellet,lozenge,pastille
+
+crushed=squash,squeeze,press,compress
+
+set=put,place,put down,lay,lay down,deposit,position,settle,station
+

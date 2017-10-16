@@ -1,0 +1,83 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2017-06-07 18:47:17",
+    "containerVersion": {
+        "path": "accounts/1441236598/containers/7023651/versions/1",
+        "accountId": "1441236598",
+        "containerId": "7023651",
+        "containerVersionId": "1",
+        "name": "IronApp Android",
+        "container": {
+            "path": "accounts/1441236598/containers/7023651",
+            "accountId": "1441236598",
+            "containerId": "7023651",
+            "name": "ICA Android",
+            "publicId": "GTM-PCZ3GGG",
+            "usageContext": [
+                "ANDROID"
+            ],
+            "fingerprint": "1496859504282",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/1441236598/containers/7023651/workspaces?apiLink=container"
+        },
+        "tag": [
+            {
+                "accountId": "1441236598",
+                "containerId": "7023651",
+                "tagId": "1",
+                "name": "Universal Analytics",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_APPVIEW"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "UA-100424167-1"
+                    }
+                ],
+                "fingerprint": "1496859504282",
+                "firingTriggerId": [
+                    "2147479554"
+                ],
+                "tagFiringOption": "UNLIMITED"
+            }
+        ],
+        "builtInVariable": [
+            {
+                "accountId": "1441236598",
+                "containerId": "7023651",
+                "type": "EVENT",
+                "name": "Event"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "7023651",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "7023651",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "7023651",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            },
+            {
+                "accountId": "1441236598",
+                "containerId": "7023651",
+                "type": "APP_VERSION_NAME",
+                "name": "App Version Name"
+            }
+        ],
+        "fingerprint": "1496859525987",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/1441236598/containers/7023651/versions/1?apiLink=version"
+    }
+}

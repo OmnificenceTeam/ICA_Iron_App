@@ -1,0 +1,376 @@
+﻿
+<script type="text/javascript">
+    
+$(document).ready(function () {
+    Init();
+    $('#hourly').hide();
+    $('#weekly').hide();
+                  });
+    </script>
+
+<div class="page" id="addmedicine">
+    <div class="page" id="addmedicinebyOption" ng-show="!isMedicineView">
+        <div class="alert">
+        </div>
+        <div class="containeroption">
+            <h2>Please select one option:</h2>
+            <ul>
+                <li>
+                    <input ng-model="value" value="exjade" type="radio" id="f-option" name="selector" ng-change='newValue(value)'>
+                    <label for="f-option">Exjade</label>
+                    <div class="check"></div>
+                </li>
+                <li>
+                    <input ng-model="value" value="others" type="radio" id="s-option" name="selector" ng-change='newValue(value)'>
+                    <label for="s-option">Others</label>
+                    <div class="check"><div class="inside"></div></div>
+                </li>
+            </ul>
+        </div>
+        <div class="signature">
+            <label class="errorMessage">{{ errorMessage }}</label>
+            <a ng-click="onNext();" id="gotoAddMedicine" class="btn btn-default formfont resetbtn savebtn">Next</a>
+        </div>
+    </div>
+    <div class="row paddingforrow" ng-show="isMedicineView">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundheader backgroundcolor">
+            <div class="formpadding">
+                <!--style="height:500px;overflow-y:auto;">-->
+                <div class="row rowpadding">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <label class="formfont">
+                            Medicine Name
+                        </label>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+                        <div id="others" ng-show="medicineType == 0 ">
+                            <input type="text" id="medicineName" class="txtbox formfont" style="width: 100%; padding-left: 5px;" ng-model="medicine.name" />
+                        </div>
+                        <div id="exjadeOption" ng-show="medicineType == 1">
+                            <select id="exjade-opts">
+                                <option value="EXJADE 125mg">EXJADE 125mg</option>
+                                <option value="EXJADE 250mg">EXJADE 250mg</option>
+
+                                <option value="EXJADE 500mg">EXJADE 500mg</option>
+
+                            </select>
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="row rowpadding" ng-show="medicineType == 1">
+                    <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                        <label class="formfont">
+                            Medicine Strength
+                        </label>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12 bottomborder">
+                        <div ng-repeat="n in noOfMedicineShape">
+
+                            <div class="medicineShapes icon-standard_convex_bisect_not_flash" value="{{n}}"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row rowpadding">
+                    <div ng-show="{{defaultShowHide}}">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <label class="formfont">Medicine Color</label>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" id="medicine-color">
+                            <select id="medicine-color-opts">
+
+                                <option value="#000000">Black(default)</option>
+                                <option value="#E32636">Alizarin Crimson</option>
+                                <option value="#FFBF00">Amber</option>
+                                <option value="#FBCEB1">Apricot Peach</option>
+                                <option value="#7FFFD4">Aquamarine</option>
+                                <!--<option value="#FAF0BE">Astra</option>-->
+                                <option value="#A4C639">Atlantis</option>
+                                <option value="#FF9966">Atomic Tangerine</option>
+                                <option value="#98777B">Bazaar</option>
+                                <option value="#FF6700">Blaze Orange</option>
+                                <option value="#0000FF">Blue</option>
+                                <option value="#536878">Blue Bayoux</option>
+                                <option value="#66ff00">Bright Green</option>
+                                <!--<option value="#E7FEFF">Bubbles</option>-->
+                                <option value="#F0DC82">Buff</option>
+                                <option value="#CC5500">Burnt Orange</option>
+                                <option value="#E97451">Burnt Sienna</option>
+                                <option value="#8A3324">Burnt Umber</option>
+                                <option value="#DEB887">Calico</option>
+                                <option value="#78866B">Camouflage Green</option>
+                                <option value="#C41E3A">Cardinal</option>
+                                <option value="#00CC99">Caribbean Green</option>
+                                <option value="#ED872D">Carrot Orange</option>
+                                <option value="#87A96B">Chelsea Cucumber</option>
+                                <option value="#DE5D83">Cranberry</option>
+                                <option value="#BF94E4">Dull Lavender</option>
+                                <option value="#702963">Finn</option>
+                                <option value="#006B3C">Fun Green</option>
+                                <option value="#5D8AA8">Horizon</option>
+                                <option value="#C2B280">Indian Khaki</option>
+                                <option value="#89CFF0">Jordy Blue</option>
+                                <option value="#F4C2C2">Mandys Pink</option>
+                                <option value="#BD33A4">Medium Red Violet</option>
+                                <option value="#318CE7">Picton Blue</option>
+                                <option value="#FFC1CC">Pink</option>
+                                <option value="#E0115F">Razzmatazz</option>
+                                <option value="#FF0800">Red</option>
+                                <option value="#800020">Red Devil</option>
+                                <option value="#E9D66B">Rob Roy</option>
+                                <option value="#FF007F">Rose</option>
+                                <option value="#B5A642">Roti</option>
+                                <option value="#B7410E">Rust</option>
+                                <option value="#F4C430">Saffron</option>
+                                <option value="#FF8C69">Salmon</option>
+                                <option value="#826644">Spicy Mix</option>
+                                <option value="#A3C1AD">Spring Rain</option>
+                                <option value="#FFD12A">Sunglow</option>
+                                <option value="#6D351A">Walnut</option>
+                                <!--<option value="#FFFFFF">White</option>-->
+                                <option value="#FFFF00">Yellow</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <label class="formfont">Medicine Shape</label>
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12" id="medicine-shape">
+
+                            <select id="medicine-shape-opts" class="txtbox formfont">
+                                <option value="icon-almond">1</option>
+                                <option value="icon-arrow_head">2</option>
+                                <option value="icon-capsule_right">3</option>
+                                <option value="icon-capsule_left">4</option>
+                                <option value="icon-amlodipine">5</option>
+                                <option value="icon-diamond">6</option>
+                                <option value="icon-flat_faced_bevel_edged_quadrisect_flash">7</option>
+                                <option value="icon-guard">8</option>
+                                <option value="icon-half_moon">9</option>
+                                <option value="icon-granular">10</option>
+                                <option value="icon-hexagon">11</option>
+                                <option value="icon-infusion">12</option>
+                                <option value="icon-injection">13</option>
+                                <option value="icon-oblong">14</option>
+                                <option value="icon-octagon">15</option>
+                                <option value="icon-oval">16</option>
+                                <option value="icon-pentagon">17</option>
+                                <option value="icon-pillow">18</option>
+                                <option value="icon-rectangle">19</option>
+                                <option value="icon-round">20</option>
+                                <option value="icon-spoon">21</option>
+                                <option value="icon-square">22</option>
+                                <option value="icon-standard_convex_bisect_not_flash">23</option>
+                                <option value="icon-standard_convex_quadrisect_flash">24</option>
+                                <option value="icon-trapezoid">25</option>
+                                <option value="icon-triangle">26</option>
+                            </select>
+                        </div>
+                        <div class="row rowpadding">
+                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                                <label class="formfont">Medicine Strength</label>
+                            </div>
+                            <div class="col-lg-1 col-md-1 col-sm-1 col-xs-12">
+                                <input type="number" id="medicineStrength" class="txtbox formfont" ng-model="medicine.strength" />
+                            </div>
+                            <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6">
+                                <select id="medicine-strength-opts" class="txtbox formfont">
+                                    <option value="mg">mg</option>
+                                    <option value="g">g</option>
+                                    <option value="mg/ml">mg/ml</option>
+                                    <option value="mcg">mcg</option>
+                                    <option value="units">units</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row rowpadding">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <label class="formfont">
+                                Reminder Timing
+                            </label>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <select id="reminder-timing-opts" class="txtbox formfont">
+                                <option value="Frequency">Frequency</option>
+                                <option value="Interval">Interval</option>
+                            </select>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                            <div id="frequentlytime">
+                                <select id="reminder-frequency-opts" class="txtbox formfont">
+                                    <option value="Once Daily">Once Daily</option>
+                                    <option value="Twice Daily">Twice Daily</option>
+                                    <option value="Three times a day">Three times a day</option>
+                                    <option value="Four times a day">Four times a day</option>
+                                    <option value="Five times a day">Five times a day</option>
+                                </select>
+                            </div>
+                            <div id="intervaltime" style="display:none;">
+                                <select id="intake-day-opts" class="txtbox formfont" style="">
+                                    <option value="Hourly">Hourly</option>
+                                    <option value="Weekly">Weekly</option>
+
+                                </select>
+                            </div>
+
+
+                        </div>
+                    </div>
+                    <div class="row rowpadding">
+
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+
+                            <label class="formfont">In take time</label>
+                        </div>
+                        <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
+                            <div ng-repeat="n in noOfIntake">
+                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                                    <div id="timehourdpdwn">
+                                        <input id="noOfIntake-opts" class="txtbox formfont" value="{{n}}" readonly="readonly">
+                                        <!--<select id="intake-opts" class="txtbox formfont"></select>-->
+                                    </div>
+
+
+                                    <div id="hourly">
+                                        <select id="intake-hourly-opts" class="txtbox formfont">
+                                            <option value="2">Two hour once</option>
+                                            <option value="4">Four hours once</option>
+                                            <option value="6">Six hours once</option>
+                                            <option value="8">Eight hours once</option>
+
+
+                                        </select>
+                                    </div>
+
+                                    <div id="weekly">
+                                        <select id="intake-weekly-opts" class="txtbox formfont" multiple="multiple">
+                                            <option value="0">Sunday</option>
+                                            <option value="1">Monday</option>
+                                            <option value="2">Tuesday</option>
+                                            <option value="3">Wednesday</option>
+                                            <option value="4">Thursday</option>
+                                            <option value="5">Friday</option>
+                                            <option value="6">Saturday</option>
+                                        </select>
+                                    </div>
+
+                                </div>
+
+                                <div class="col-lg-2 col-md-2 col-sm-2 col-xs-4">
+                                    <select id="intake-hour-opts-{{n}}" class="txtbox formfont intake">
+                                        <option value="01">01</option>
+                                        <option value="02">02</option>
+                                        <option value="03">03</option>
+                                        <option value="04">04</option>
+                                        <option value="05">05</option>
+                                        <option value="06">06</option>
+                                        <option value="07">07</option>
+                                        <option value="08" selected>08</option>
+                                        <option value="09">09</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                    </select>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4">
+                                    <select id="intake-minutes-opts-{{n}}" class="txtbox formfont intake">
+                                        <option value="00">00</option>
+                                        <option value="05">05</option>
+                                        <option value="10">10</option>
+                                        <option value="15">15</option>
+                                        <option value="20">20</option>
+                                        <option value="25">25</option>
+                                        <option value="30">30</option>
+                                        <option value="35">35</option>
+                                        <option value="40">40</option>
+                                        <option value="45">45</option>
+                                        <option value="50">50</option>
+                                        <option value="55">55</option>
+                                    </select>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4">
+                                    <select id="intake-meridiem-opts-{{n}}" class="txtbox formfont intake">
+                                        <option value="AM">AM</option>
+                                        <option value="PM">PM</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+                    <div class="row rowpadding">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <label class=" formfont">
+                                Start Date
+                            </label>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <input class="txtbox" type="text" id="startDate" ng-model="medicine.startDate" />
+                            <i class="fa fa-calendar pre-icon"></i>
+                        </div>
+                        <div class="col-lg-1 col-md-1 col-sm-1 hidden-xs">
+
+                        </div>
+                        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                            <label class="formfont">
+                                End Date
+                            </label>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                            <input class="txtbox" type="text" id="endDate" ng-model="medicine.endDate" />
+                            <i class="fa fa-calendar pre-icon"></i>
+                        </div>
+                    </div>
+                    <div class="row rowpadding" ng-show="defaultShowHide">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                            <label class="formfont">Food Affiliation</label>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+                            <select id="food-affliation-opts" class="txtbox formfont">
+                                <option value="Before Food">Before Food</option>
+                                <option value="After Food">After Food</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row rowpadding">
+                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                            <label class=" formfont">Reminder tone</label>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-6">
+                            <select id="ringtones-opts" class="txtbox formfont">
+                                <option value="Default">Default</option>
+                                <option value="Classic bell">Classic bell</option>
+                                <option value="Clock buzzer">Clock buzzer</option>
+                                <option value="Digital ring">Digital ring</option>
+                                <option value="Growl">Growl</option>
+                                <option value="Ice blue">Ice blue</option>
+                                <option value="Inner spring">Inner spring</option>
+                                <option value="Into my dream">Into my dream</option>
+                                <option value="Minimal tone">Minimal tone</option>
+                                <option value="Railroad crossing">Railroad crossing</option>
+                                <option value="The floor">The floor</option>
+                            </select>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="row">
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 " style="margin-bottom:0px;">
+                            <label id="errormessage" class=" formfont" style="color:red;"></label>
+                            <label id="successmessage" class=" formfont" style="color:green;"></label>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 medicine-ctrls">
+                            <button type="button" id="resetbutton" class="btn btn-default formfont resetbtn" ng-click="resetFields()">RESET</button>
+                            <button type="button" class="btn btn-default formfont resetbtn savebtn" ng-click="addMedicine()">SAVE</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Codes\_clients\Medtrix\IronCounsellor\gradle\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f1d8489b6d557be8d7fecf6ae070b5718366677">
+        <dex dex="D:\Codes\_clients\Medtrix\IronCounsellor\gradle\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices_2a7142b3a2551b8f7fbcead43903d702efa4187c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Codes\_clients\Medtrix\IronCounsellor\gradle\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cee617402bbd07470d30a6a6cfb6b2a6a2454e64">
+        <dex dex="D:\Codes\_clients\Medtrix\IronCounsellor\gradle\build\intermediates\pre-dexed\debug\unity-classes_b22059fdad9614436281d96e7ebdf124ab17e0ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Codes\_clients\Medtrix\IronCounsellor\gradle\libs\UniWebView.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="960c907fc21c605b285c63c2418c4c9c6fbc5c2d">
+        <dex dex="D:\Codes\_clients\Medtrix\IronCounsellor\gradle\build\intermediates\pre-dexed\debug\UniWebView_7f7786c5343e380c916edf4311e239b30c81663a.jar" />
+    </item>
+
+</items>
