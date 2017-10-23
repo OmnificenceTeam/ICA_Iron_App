@@ -1,0 +1,174 @@
+﻿<!--score-->
+
+    <div class="page" style="">
+        <div id="a" class="row " style="height: 100%;">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundheader newbackgroundcolor" style="height: 100%;overflow-y:hidden">
+                <div class="row " style="height: 100%;">
+                    <div class="col-lg-1 col-md-1 col-sm-1 col-xs-1 hidden-xs calendarviewbg calendarsideviewpadding ">
+                        <div class="row " style="text-align: center">
+
+                            <h3 class="showyear bold">{{year}}</h3>
+                        </div>
+
+                        <div class="row calbotpadding">
+                            <button id="dayviewside" type="button" onclick="onClick(this);" ng-click="showDayView()" class="btn btn-default active calendarsideview ">Day</button>
+                        </div>
+
+                        <div class="row calbotpadding">
+                            <button type="button" onclick="onClick(this);showweekview();" ng-click="ShowWeek()" class="btn btn-default  calendarsideview ">Week</button>
+                        </div>
+
+                        <div class="row calbotpadding">
+                            <button type="button" onclick="showmonthview(); onClick(this);" ng-click="ShowMonth()" class="btn btn-default  calendarsideview ">Month</button>
+                        </div>
+
+                        <div class="row calbotpadding">
+                            <button type="button" onclick="showyearview(); onClick(this);" ng-click="ShowYear()" class="btn btn-default  calendarsideview ">Year</button>
+                        </div>
+
+
+                    </div>
+
+
+
+                    <div class="row hidden-lg hidden-md hidden-sm toprowbgcolor  ">
+                        <!--Top View-->
+                        <div class="col-xs-12 ">
+                            <div class="row " style="float: left">
+
+                                <h3 class="showyear bold">{{year}}</h3>
+                            </div>
+
+                            <div class="row " style="float: left">
+                                <button id="dayviewTop" type="button" onclick="changeTopMenu(this);" ng-click="showDayView()" class="btn btn-default active topcalendarsideview">Day</button>
+                            </div>
+
+                            <div class="row " style="float: left">
+                                <button type="button" onclick="showweekview(); changeTopMenu(this)" ng-click="ShowWeek()" class="btn btn-default  topcalendarsideview">Week</button>
+                            </div>
+
+                            <div class="row " style="float: left">
+                                <button type="button" onclick="showmonthview(); changeTopMenu(this);" ng-click="ShowMonth()" class="btn btn-default  topcalendarsideview">Month</button>
+                            </div>
+
+                            <div class="row " style="float: left">
+                                <button type="button" onclick="showyearview(); changeTopMenu(this);" ng-click="ShowYear()" class="btn btn-default  topcalendarsideview">Year</button>
+                            </div>
+
+
+                        </div>
+
+
+                    </div>
+
+
+
+                    <div class="row" style="max-height: 30px;">
+
+                        <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12">
+
+
+                            <h1 class="myscore bold">
+                                My Exjade Adherence Score
+                                <label class="precentage">{{percentage}}%</label>
+                            </h1>
+
+
+                        </div>
+
+                    </div>
+                  
+                    <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12 btmborderforcalendar" id="yearview" style="display: none;height:{{height}}">
+
+                        <h3 style="text-align :center; border-bottom :1px solid gray; margin-bottom :20px;border-top :1px solid gray; padding :10px;"> {{year}}</h3>
+
+
+                        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" ng-repeat="month in yearStatus" style="padding-bottom:30px">
+
+                            <table style="margin: 0 auto; ">
+                                <tr class="">
+                                    <td colspan="7">
+                                        <h3 style="text-align: center;margin: 10px;">{{monthname[$index]}}</h3>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="calendarborderForYear weekdaypadding" ng-repeat="dayName in days">{{dayName}}</td>
+                                </tr>
+                                <tr ng-repeat="week in month">
+                                    <td class="calendarborderForYear {{day.status}}" ng-repeat="day in week" ng-click="showDayViewforYear(day.date,$parent.$parent.$index,year)">{{day.date}}</td>
+                                </tr>
+
+                            </table>
+
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12 btmborderforcalendar" id="monthview" style="display: none;height:{{height}}">
+
+                        <table class="auto-style3 ">
+                            <tr class="">
+                                <td colspan="7">
+                                    <h3 style="text-align: center">{{month}} {{year}}</h3>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="calendarborder weekdaypadding" ng-repeat="day in days">{{day}}</td>
+                            </tr>
+                            <tr ng-repeat="status in monthStatus">
+                                <td class="calendarborder" style="background-color:{{mon.status}}" ng-click="showDayViewforMonth(month,year,mon.date)" ng-repeat="mon in status">{{mon.date}}</td>
+                            </tr>
+
+                        </table>
+
+                    </div>
+
+                    <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12 btmborderforcalendar" id="weekview" style="display: none;height:{{height}}">
+
+                        <table class="daytable">
+                            <tr style="border-top: 1px solid gray">
+                                <td class="tbheadforday">Time</td>
+                                <td class="tbheadforday" ng-repeat="date in weekArray">{{date.getDate()}}/{{date.getMonth()+1}}</td>
+
+                            </tr>
+
+                            <tr style="border-top: 1px solid gray" ng-repeat="time in timeArrayForDayView">
+                                <td class="daytbborder">{{time}}</td>
+
+                                <td class="tbheadforday" style="background-color:{{status[time]}}" ng-repeat="status in weekStatus" ng-click="showdayviewforWeek($index)"></td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+
+                    <div class="col-lg-11 col-md-11 col-sm-11 col-xs-12 btmborderforcalendar" id="dayview" style="height:{{height}}">
+
+
+                        <table class="daytable">
+                            <tr style="border-top: 1px solid gray">
+                                <td class="tbheadforday">Time</td>
+                                <td colspan="7" class="tbheadforday" style="padding:5px;">{{curDate}}</td>
+                            </tr>
+
+                            <tr style="border-top: 1px solid gray" ng-repeat="time in timeArrayForDayView">
+                                <td class="daytbborder">{{time}}</td>
+                                <td colspan="7" style="border-bottom :1px solid gray">
+                                    <span class="dayMedButton"  style="background-color:{{medicine.medstatus}}"  ng-repeat="medicine in dayMedicines[time]">
+                                        {{medicine.name}}
+                                    </span>
+
+                                </td>
+                            </tr>
+
+                        </table>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>

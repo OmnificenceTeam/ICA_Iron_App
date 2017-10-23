@@ -1,0 +1,70 @@
+<!--Today Schedule-->
+<div  class="" style="">
+    <div class="row paddingforrow" >
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundcolor" style="border-radius: 15px">
+            <!-- first column of first row -->
+            <div id="mediinfo" class="paddingforwhole">
+
+                <h1 class="schedulehead bold">Today's schedule</h1>
+                <!--<button type="button" class="close closebutton" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>-->
+
+
+                <table class="auto-style1 tbstyle">
+                    <tr class="tbheader">
+                        <td class="tbheaderpadding" style="width: 25%">Time</td>
+                        <td style="width: 25%">Medicine</td>
+                        <td style="width: 25%" ng-show="{{defaultShowHide}}">Dose</td>
+                        <td style="width: 25%">Taken</td>
+                    </tr>
+                    </table>
+                <div style="height:200px;overflow-y:auto;">
+                    <table class="auto-style1 tbstyle" >
+                        <tr class="rowborderbtm" ng-repeat="list in lists">
+                            <td style="width: 25%" class="tdpadding">{{list.time}}</td>
+                            <td style="width: 25%">{{list.name}}</td>
+                            <td style="width: 25%" ng-show="{{defaultShowHide}}">{{list.dose}}</td>
+                            <td style="width: 25%">
+                                <input type="checkbox" class="togglecenter {{checkTime($index)}}button" id="switch{{$index}}" ng-checked="list.taken == 'taken'" ng-disabled="checkTime($index) == 'gray'" ng-click="updateTakenStatus(list)" />
+                                <label class="lbl myswitch {{checkTime($index)}}button" for="switch{{$index}}" ng-swipe-left="updateTakenStatus(list)" ng-swipe-right="updateTakenStatus(list)" ng-click="updateTakenStatus(list)"></label>
+
+                            </td>
+                        </tr>
+                        <tr ng-show="lists.length == 0">
+                            <td colspan="4">No medicine to take today!</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <!-- first column of first row -->
+            <!--  <div class="btnborderpadding">-->
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 btnpadding">
+<!--                <a href="#mymedicine">click here</a>
+                <button type="button"  data-id="" class="transition  btn btn-default medicinebtn" data-animate="9" >MY MEDICINES</button>-->
+           
+                    <a ng-click="onMyMedicines()" class="btn btn-default medicinebtn">MY MEDICINES</a>
+
+                 </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 btnpadding">
+<!--                <button type="button" data-id="#myscore" class="transition btn btn-default scorebtn medicinebtn" data-animate="9" >MY ADHERENCE SCORE</button>-->
+                    <a ng-click="onReport()" class="btn btn-default medicinebtn">MY ADHERENCE</a>
+
+
+
+            </div>
+            <div class="btnborderpadding">
+                   <a ng-click="onAddMedicine()" id="gotoAddMedicine" class="btn btn-default addbtn">ADD MEDICINE</a>
+
+                 <!--<button type="button" data-id="#addform" class="transition btn btn-default addbtn" data-animate="9" >ADD MADICINE</button>-->
+            </div>
+        </div>
+    </div>
+
+
+</div>

@@ -1,0 +1,234 @@
+{
+    "exportFormatVersion": 2,
+    "exportTime": "2017-05-03 15:19:11",
+    "containerVersion": {
+        "path": "accounts/965688890/containers/6765566/versions/1",
+        "accountId": "965688890",
+        "containerId": "6765566",
+        "containerVersionId": "1",
+        "container": {
+            "path": "accounts/965688890/containers/6765566",
+            "accountId": "965688890",
+            "containerId": "6765566",
+            "name": "GTM Iron Counsellor iOS",
+            "publicId": "GTM-T4BTM9X",
+            "usageContext": [
+                "IOS"
+            ],
+            "fingerprint": "1492672428419",
+            "tagManagerUrl": "https://tagmanager.google.com/#/container/accounts/965688890/containers/6765566/workspaces?apiLink=container"
+        },
+        "tag": [
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "tagId": "2",
+                "name": "All Links",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "BOOLEAN",
+                        "key": "nonInteraction",
+                        "value": "true"
+                    },
+                    {
+                        "type": "LIST",
+                        "key": "fieldsToSet",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "fieldName",
+                                        "value": "anonymizeIp"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "value",
+                                        "value": "true"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventCategory",
+                        "value": "Link Click"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_EVENT"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventAction",
+                        "value": "Download"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "eventLabel",
+                        "value": "{{Event}}"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "UA-87848004-18"
+                    }
+                ],
+                "fingerprint": "1492672428419",
+                "firingTriggerId": [
+                    "2"
+                ],
+                "tagFiringOption": "ONCE_PER_EVENT"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "tagId": "1",
+                "name": "All Pages",
+                "type": "ua",
+                "parameter": [
+                    {
+                        "type": "LIST",
+                        "key": "fieldsToSet",
+                        "list": [
+                            {
+                                "type": "MAP",
+                                "map": [
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "fieldName",
+                                        "value": "anonymizeIp"
+                                    },
+                                    {
+                                        "type": "TEMPLATE",
+                                        "key": "value",
+                                        "value": "true"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackType",
+                        "value": "TRACK_APPVIEW"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "collectAdid",
+                        "value": "false"
+                    },
+                    {
+                        "type": "BOOLEAN",
+                        "key": "enableEcommerce",
+                        "value": "false"
+                    },
+                    {
+                        "type": "TEMPLATE",
+                        "key": "trackingId",
+                        "value": "UA-87848004-18"
+                    }
+                ],
+                "fingerprint": "1492672059590",
+                "firingTriggerId": [
+                    "2147479554"
+                ],
+                "tagFiringOption": "ONCE_PER_EVENT"
+            }
+        ],
+        "trigger": [
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "triggerId": "2",
+                "name": "Link Click",
+                "type": "ALWAYS",
+                "fingerprint": "1492672418433"
+            }
+        ],
+        "builtInVariable": [
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "EVENT",
+                "name": "Event"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "APP_ID",
+                "name": "App ID"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "APP_NAME",
+                "name": "App Name"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "APP_VERSION_CODE",
+                "name": "App Version Code"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "LANGUAGE",
+                "name": "Language"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "OS_VERSION",
+                "name": "OS Version"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "PLATFORM",
+                "name": "Platform"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "SDK_VERSION",
+                "name": "SDK Version"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "DEVICE_NAME",
+                "name": "Device Name"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "RESOLUTION",
+                "name": "Screen Resolution"
+            },
+            {
+                "accountId": "965688890",
+                "containerId": "6765566",
+                "type": "ADVERTISER_ID",
+                "name": "Advertiser ID"
+            }
+        ],
+        "fingerprint": "1492672437763",
+        "tagManagerUrl": "https://tagmanager.google.com/#/versions/accounts/965688890/containers/6765566/versions/1?apiLink=version"
+    }
+}

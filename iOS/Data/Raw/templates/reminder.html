@@ -1,0 +1,91 @@
+<!--Reminder-->
+<script>
+    
+    $(document).ready(function () {
+                      $('#snooze-time-opts').mobileSelect({
+                                                          title: 'Snooze reminder',
+                                                          onClose: snooze
+                                                          });
+                      });
+</script>
+<div id="reminder" class="page" style="">
+
+
+    <div class="row paddingforrow" style="bottom: 0;position: fixed; width: 100%;background-color:transparent;" ng-hide="showDiv">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundheader  newbackgroundcolor" style="border-radius: 20px">
+            <div class="row headerbg">
+                <img class="remindericon" src="images/reminder.png" />
+                <h1 class="headerpadding  bold">
+                    REMINDER
+                    <button type="button" class="close reminderclosebutton" aria-label="Close">
+                        <span  aria-hidden="true">&times;</span>
+                    </button>
+                </h1>
+            </div>
+            <div class="row">
+                <h2 class="takemedicine">Please take {{mediname}}</h2>
+            </div>
+            <div class="reminderbtnpadding">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 btnpadding">
+                    <button ng-click="setTaken()" type="button" class="btn btn-default takenbtn">
+                        <img class="tickicon" src="images/tick.png" />Taken
+                    </button>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 btnpadding">
+                    <button id="reminderLater" type="button" ng-click="onReminderLater()" class="btn btn-default takenbtn">
+                        <img class="tickicon" src="images/alarm.png" />Remind Later
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <select id="snooze-time-opts" class="txtbox formfont" data-triggeron="#reminderLater" style="display:none">
+        <option value="05">05</option>
+        <option value="10">10</option>
+        <option value="15">15</option>
+        <option value="20">20</option>
+        <option value="25">25</option>
+        <option value="30">30</option>
+        <option value="35">35</option>
+        <option value="40">40</option>
+        <option value="45">45</option>
+        <option value="50">50</option>
+        <option value="55">55</option>
+    </select>
+
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+
+                <div id="snooze" class="page" style="">
+                    <div class="row paddingforrow ">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 donepadding backgroundheader">
+                                <button type="button" class="btn btn-default  delbtn">DONE</button>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 backgroundheader btmpaddingcancel backgroundcolor">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 snoozepadding">
+                                    <h1 class="snooze">Snooze</h1>
+                                </div>
+
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 snoozepadding">
+                                    <h1>45 mins</h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+            </div>
